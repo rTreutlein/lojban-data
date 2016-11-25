@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jbovlaste.xsl"?>
+<dictionary>
+    <direction from="lojban" to="English">
+        <valsi word="jimpe" type="gismu">
+            <rafsi>jmi</rafsi>
+            <user>
+                <username>officialdata</username>
+                <realname>Official Data</realname>
+            </user>
+            <definition>$x_{1}$ understands/comprehends fact/truth $x_{2}$ (du&apos;u) about subject $x_{3}$; $x_{1}$ understands (fi) $x_{3}$.</definition>
+            <definitionid>493</definitionid>
+            <notes>See also {djuno}, {jijnu}, {morna}, {smuni}, {saske}, {viska}.</notes>
+            <glossword word="understand" />
+        </valsi>
+        <valsi word="mi" type="cmavo">
+            <rafsi>mib</rafsi>
+            <selmaho>KOhA3</selmaho>
+            <user>
+                <username>officialdata</username>
+                <realname>Official Data</realname>
+            </user>
+            <definition>pro-sumti: me/we the speaker(s)/author(s); identified by self-vocative.</definition>
+            <definitionid>1807</definitionid>
+            <glossword word="I" />
+            <glossword word="me" />
+        </valsi>
+        <valsi word="ti" type="cmavo">
+            <rafsi>tif</rafsi>
+            <selmaho>KOhA6</selmaho>
+            <user>
+                <username>officialdata</username>
+                <realname>Official Data</realname>
+            </user>
+            <definition>pro-sumti: this here; immediate demonstrative it; indicated thing/place near speaker.</definition>
+            <definitionid>2266</definitionid>
+            <glossword word="this here" />
+        </valsi>
+    </direction>
+</dictionary>
