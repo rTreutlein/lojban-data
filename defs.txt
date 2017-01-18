@@ -23,9 +23,9 @@ x1 bakni  x2 : x1 is a kine of species x2.
 x1 bakni  x2 : x1 is a kine of breed x2.
 x1 bakni  x2 : x1 is a ox of species x2.
 x1 bakni  x2 : x1 is a ox of breed x2.
-x1 bakri  x3 x2 : x1 is_a_quantity_of chalk from source x2 in form x3.
+x1 bakri  x3 x2 : x1 is a quantity of chalk from source x2 in form x3.
 x1 bakri  x3 x2 : x1 contains chalk from source x2 in form x3.
-x1 bakri  x3 x2 : x1 is_made_of chalk from source x2 in form x3.
+x1 bakri  x3 x2 : x1 is made of chalk from source x2 in form x3.
 x1 baktu  x3 x2 : x1 is a bucket solid, wide-topped container of contents x2, made of material x3.
 x1 baktu  x3 x2 : x1 is a pail solid, wide-topped container of contents x2, made of material x3.
 x1 baktu  x3 x2 : x1 is a can solid, wide-topped container of contents x2, made of material x3.
@@ -42,13 +42,13 @@ x1 balni  x2 : x1 is a shelf of building x2.
 x1 balni  x2 : x1 is a shelf of structure x2.
 x1 balre  x2 : x1 is a blade of tool x2.
 x1 balre  x2 : x1 is a blade of weapon x2.
-x1 balvi  x2 : x1 is in_the_future_of x2 in time sequence
-x1 balvi  x2 : x1 is later_than x2 in time sequence
+x1 balvi  x2 : x1 is in the future of x2 in time sequence
+x1 balvi  x2 : x1 is later than x2 in time sequence
 x1 balvi  x2 : x1 is after x2 in time sequence
 x1 bancu  x4 x3 x2 : x1 exceeds x2 from x3 in property x4 .
 x1 bancu  x4 x3 x2 : x1 exceeds x2 from x3 in amount x4 .
-x1 bancu  x4 x3 x2 : x1 is_beyond_limit x2 from x3 in property x4 .
-x1 bancu  x4 x3 x2 : x1 is_beyond_limit x2 from x3 in amount x4 .
+x1 bancu  x4 x3 x2 : x1 is beyond limit x2 from x3 in property x4 .
+x1 bancu  x4 x3 x2 : x1 is beyond limit x2 from x3 in amount x4 .
 x1 bancu  x4 x3 x2 : x1 boundary x2 from x3 in property x4 .
 x1 bancu  x4 x3 x2 : x1 boundary x2 from x3 in amount x4 .
 x1 bandu  x3 x2 : x1 defends x2 from threat x3 .
@@ -75,8 +75,8 @@ x1 banro  x3 x2 : x1 expands to size form x2 from x3.
 x1 banro  x3 x2 : x1 expands to into form x2 from x3.
 x1 banxa  x3 x2 : x1 is a bank owned by x2 for banking function x3 .
 x1 banzu  x3 x2 : x1 suffices for purpose x2 under conditions x3.
-x1 banzu  x3 x2 : x1 is_enough for purpose x2 under conditions x3.
-x1 banzu  x3 x2 : x1 is_sufficient for purpose x2 under conditions x3.
+x1 banzu  x3 x2 : x1 is enough for purpose x2 under conditions x3.
+x1 banzu  x3 x2 : x1 is sufficient for purpose x2 under conditions x3.
 x1 bapli  x2 : x1 forces event x2 to occur
 x1 bapli  x2 : x1 compels event x2 to occur
 x1 barda  x3 x2 : x1 is big in property x2 as compared with standard x3.
@@ -87,10 +87,10 @@ x1 barda  x3 x2 : x1 is large in property x2 as compared with standard x3.
 x1 barda  x3 x2 : x1 is large in property x2 as compared with norm x3.
 x1 barda  x3 x2 : x1 is large in dimension x2 as compared with standard x3.
 x1 barda  x3 x2 : x1 is large in dimension x2 as compared with norm x3.
-x1 bargu  x3 x2 : x1 arches over x2 and is_made_of x3
-x1 bargu  x3 x2 : x1 arches around x2 and is_made_of x3
-x1 bargu  x3 x2 : x1 curves over x2 and is_made_of x3
-x1 bargu  x3 x2 : x1 curves around x2 and is_made_of x3
+x1 bargu  x3 x2 : x1 arches over x2 and is made of x3
+x1 bargu  x3 x2 : x1 arches around x2 and is made of x3
+x1 bargu  x3 x2 : x1 curves over x2 and is made of x3
+x1 bargu  x3 x2 : x1 curves around x2 and is made of x3
 x1 barja  x3 x2 : x1 is a tavern serving x2 to audience x3.
 x1 barja  x3 x2 : x1 is a tavern serving x2 to patrons x3.
 x1 barja  x3 x2 : x1 is a bar serving x2 to audience x3.
@@ -102,9 +102,9 @@ x1 barna  x3 x2 : x1 is a spot on x2 of material x3.
 x1 bartu  x2 : x1 is on the outside of x2
 x1 basna  x3 x2 : x1 emphasizes x2 by x3.
 x1 basna  x3 x2 : x1 accentuates x2 by x3.
-x1 basna  x3 x2 : x1 gives_emphasis_to x2 by x3.
+x1 basna  x3 x2 : x1 gives emphasis to x2 by x3.
 x1 basti  x3 x2 : x1 replaces x2 in circumstance x3
-x1 basti  x3 x2 : x1 substitutes_for x2 in circumstance x3
+x1 basti  x3 x2 : x1 substitutes for x2 in circumstance x3
 x1 batci  x4 x3 x2 : x1 bites x2 on specific locus x3 with x4.
 x1 batci  x4 x3 x2 : x1 bites x2 at specific locus x3 with x4.
 x1 batci  x4 x3 x2 : x1 pinches x2 on specific locus x3 with x4.
@@ -113,8 +113,8 @@ x1 batke  x4 x3 x2 : x1 is a button on item x2, with purpose x3, made of materia
 x1 batke  x4 x3 x2 : x1 is a button for item x2, with purpose x3, made of material x4.
 x1 batke  x4 x3 x2 : x1 is a knob on item x2, with purpose x3, made of material x4.
 x1 batke  x4 x3 x2 : x1 is a knob for item x2, with purpose x3, made of material x4.
-x1 bavmi  x2 : x1 is_a_quantity_of barley of species x2.
-x1 bavmi  x2 : x1 is_a_quantity_of barley of strain x2.
+x1 bavmi  x2 : x1 is a quantity of barley of species x2.
+x1 bavmi  x2 : x1 is a quantity of barley of strain x2.
 x1 baxso  x2 : x1 reflects Malay-Indonesian common language in aspect x2.
 x1 baxso  x2 : x1 reflects Malay-Indonesian common culture in aspect x2.
 x1 bebna  x2 : x1 is foolish in event x2
@@ -157,8 +157,8 @@ x1 benji  x5 x4 x3 x2 : x1 transmits x2 to receiver x3 from origin x4 via medium
 x1 bersa  x2 : x1 is a son of mother x2 .
 x1 bersa  x2 : x1 is a son of father x2 .
 x1 bersa  x2 : x1 is a son of parents x2 .
-x1 berti  x3 x2 : x1 is to the north side of x2 according to frame_of_reference x3.
-x1 berti  x3 x2 : x1 is to the northern side of x2 according to frame_of_reference x3.
+x1 berti  x3 x2 : x1 is to the north side of x2 according to frame of reference x3.
+x1 berti  x3 x2 : x1 is to the northern side of x2 according to frame of reference x3.
 x1 besna  x2 : x1 is a brain of x2
 x1 besna  x2 : x1 is the brain of x2
 x1 betfu  x2 : x1 is a abdomen trunk of x2
@@ -193,28 +193,28 @@ x1 bilga  x3 x2 : x1 is bound be x2 in standard x3
 x1 bilga  x3 x2 : x1 is bound be x2 in agreement x3
 x1 bilga  x3 x2 : x1 is bound be x2 by standard x3
 x1 bilga  x3 x2 : x1 is bound be x2 by agreement x3
-x1 bilga  x3 x2 : x1 is obliged_to do x2 in standard x3
-x1 bilga  x3 x2 : x1 is obliged_to do x2 in agreement x3
-x1 bilga  x3 x2 : x1 is obliged_to do x2 by standard x3
-x1 bilga  x3 x2 : x1 is obliged_to do x2 by agreement x3
-x1 bilga  x3 x2 : x1 is obliged_to be x2 in standard x3
-x1 bilga  x3 x2 : x1 is obliged_to be x2 in agreement x3
-x1 bilga  x3 x2 : x1 is obliged_to be x2 by standard x3
-x1 bilga  x3 x2 : x1 is obliged_to be x2 by agreement x3
-x1 bilga  x3 x2 : x1 is has_the_duty_to do x2 in standard x3
-x1 bilga  x3 x2 : x1 is has_the_duty_to do x2 in agreement x3
-x1 bilga  x3 x2 : x1 is has_the_duty_to do x2 by standard x3
-x1 bilga  x3 x2 : x1 is has_the_duty_to do x2 by agreement x3
-x1 bilga  x3 x2 : x1 is has_the_duty_to be x2 in standard x3
-x1 bilga  x3 x2 : x1 is has_the_duty_to be x2 in agreement x3
-x1 bilga  x3 x2 : x1 is has_the_duty_to be x2 by standard x3
-x1 bilga  x3 x2 : x1 is has_the_duty_to be x2 by agreement x3
+x1 bilga  x3 x2 : x1 is obliged to do x2 in standard x3
+x1 bilga  x3 x2 : x1 is obliged to do x2 in agreement x3
+x1 bilga  x3 x2 : x1 is obliged to do x2 by standard x3
+x1 bilga  x3 x2 : x1 is obliged to do x2 by agreement x3
+x1 bilga  x3 x2 : x1 is obliged to be x2 in standard x3
+x1 bilga  x3 x2 : x1 is obliged to be x2 in agreement x3
+x1 bilga  x3 x2 : x1 is obliged to be x2 by standard x3
+x1 bilga  x3 x2 : x1 is obliged to be x2 by agreement x3
+x1 bilga  x3 x2 : x1 is has the duty to do x2 in standard x3
+x1 bilga  x3 x2 : x1 is has the duty to do x2 in agreement x3
+x1 bilga  x3 x2 : x1 is has the duty to do x2 by standard x3
+x1 bilga  x3 x2 : x1 is has the duty to do x2 by agreement x3
+x1 bilga  x3 x2 : x1 is has the duty to be x2 in standard x3
+x1 bilga  x3 x2 : x1 is has the duty to be x2 in agreement x3
+x1 bilga  x3 x2 : x1 is has the duty to be x2 by standard x3
+x1 bilga  x3 x2 : x1 is has the duty to be x2 by agreement x3
 x1 bilma  x3 x2 : x1 is ill with symptoms x2 from disease x3.
 x1 bilma  x3 x2 : x1 is sick with symptoms x2 from disease x3.
 x1 bilma  x3 x2 : x1 is diseased with symptoms x2 from disease x3.
 x1 bilni  x3 x2 : x1 is military by system x2 for purpose x3.
 x1 bilni  x3 x2 : x1 is regimented by system x2 for purpose x3.
-x1 bilni  x3 x2 : x1 is is_strongly_organized by system x2 for purpose x3.
+x1 bilni  x3 x2 : x1 is is strongly organized by system x2 for purpose x3.
 x1 bilni  x3 x2 : x1 is prepared by system x2 for purpose x3.
 x1 bindo  x2 : x1 reflects Indonesian culture in aspect x2.
 x1 bindo  x2 : x1 reflects Indonesian nationality in aspect x2.
@@ -225,25 +225,25 @@ x1 binxo  x3 x2 : x1 becomes into x2 under conditions x3.
 x1 binxo  x3 x2 : x1 changes into x2 under conditions x3.
 x1 binxo  x3 x2 : x1 converts into x2 under conditions x3.
 x1 binxo  x3 x2 : x1 transforms into x2 under conditions x3.
-x1 birje  x2 : x1 is_made_of beer brewed from x2.
-x1 birje  x2 : x1 is_made_of ale brewed from x2.
-x1 birje  x2 : x1 is_made_of brew brewed from x2.
+x1 birje  x2 : x1 is made of beer brewed from x2.
+x1 birje  x2 : x1 is made of ale brewed from x2.
+x1 birje  x2 : x1 is made of brew brewed from x2.
 x1 birje  x2 : x1 contains beer brewed from x2.
 x1 birje  x2 : x1 contains ale brewed from x2.
 x1 birje  x2 : x1 contains brew brewed from x2.
-x1 birje  x2 : x1 is_a_amount_of beer brewed from x2.
-x1 birje  x2 : x1 is_a_amount_of ale brewed from x2.
-x1 birje  x2 : x1 is_a_amount_of brew brewed from x2.
+x1 birje  x2 : x1 is a amount of beer brewed from x2.
+x1 birje  x2 : x1 is a amount of ale brewed from x2.
+x1 birje  x2 : x1 is a amount of brew brewed from x2.
 x1 birka  x2 : x1 is a arm of x2
 x1 birka  x2 : x1 is the arm of x2
 x1 birti  x2 : x1 is certain that x2 is true.
 x1 birti  x2 : x1 is sure that x2 is true.
 x1 birti  x2 : x1 is positive that x2 is true.
 x1 birti  x2 : x1 is convinced that x2 is true.
-x1 bisli  x2 : x1 is_a_quantity_of ice of composition x2.
-x1 bisli  x2 : x1 is_a_quantity_of ice of material x2.
-x1 bisli  x2 : x1 is_made_of ice of composition x2.
-x1 bisli  x2 : x1 is_made_of ice of material x2.
+x1 bisli  x2 : x1 is a quantity of ice of composition x2.
+x1 bisli  x2 : x1 is a quantity of ice of material x2.
+x1 bisli  x2 : x1 is made of ice of composition x2.
+x1 bisli  x2 : x1 is made of ice of material x2.
 x1 bisli  x2 : x1 contains ice of composition x2.
 x1 bisli  x2 : x1 contains ice of material x2.
 x1 bitmu  x4 x3 x2 : x1 is a wall separating x2 and x3 of structure x4.
@@ -252,8 +252,8 @@ x1 bitmu  x4 x3 x2 : x1 is a fence separating x2 and x3 of structure x4.
 x1 bitmu  x4 x3 x2 : x1 is a fence separating x2 and x3 in structure x4.
 x1 blabi  : x1 is white colored .
 x1 blabi  : x1 is very-light colored .
-x1 blaci  x2 : x1 is_a_quantity_of glass of composition including x2.
-x1 blaci  x2 : x1 is_made_of glass of composition including x2.
+x1 blaci  x2 : x1 is a quantity of glass of composition including x2.
+x1 blaci  x2 : x1 is made of glass of composition including x2.
 x1 blaci  x2 : x1 contains glass of composition including x2.
 x1 blanu  : x1 is blue .
 x1 bliku  x3 x2 : x1 is a block of material x2, surfaces x3.
@@ -286,10 +286,10 @@ x1 bratu  x2 : x1 is hail of material including x2.
 x1 bratu  x2 : x1 is hail of composition including x2.
 x1 bratu  x2 : x1 is sleet of material including x2.
 x1 bratu  x2 : x1 is sleet of composition including x2.
-x1 bratu  x2 : x1 is freezing_rain of material including x2.
-x1 bratu  x2 : x1 is freezing_rain of composition including x2.
-x1 bratu  x2 : x1 is solid_precipitation of material including x2.
-x1 bratu  x2 : x1 is solid_precipitation of composition including x2.
+x1 bratu  x2 : x1 is freezing rain of material including x2.
+x1 bratu  x2 : x1 is freezing rain of composition including x2.
+x1 bratu  x2 : x1 is solid precipitation of material including x2.
+x1 bratu  x2 : x1 is solid precipitation of composition including x2.
 x1 brazo  x2 : x1 reflects Brazilian culture in aspect x2.
 x1 brazo  x2 : x1 reflects Brazilian nationality in aspect x2.
 x1 brazo  x2 : x1 reflects Brazilian language in aspect x2.
@@ -314,14 +314,14 @@ x1 brode  : 2nd assignable variable predicate .
 x1 brodi  : 3rd assignable variable predicate .
 x1 brodo  : 4th assignable variable predicate .
 x1 brodu  : 5th assignable variable predicate .
-x1 bruna  x3 x2 : x1 is brother_of x2 by bond x3
-x1 bruna  x3 x2 : x1 is brother_of x2 by tie x3
-x1 bruna  x3 x2 : x1 is brother_of x2 by standard x3
-x1 bruna  x3 x2 : x1 is brother_of x2 by parent x3
-x1 bruna  x3 x2 : x1 is fraternal_to x2 by bond x3
-x1 bruna  x3 x2 : x1 is fraternal_to x2 by tie x3
-x1 bruna  x3 x2 : x1 is fraternal_to x2 by standard x3
-x1 bruna  x3 x2 : x1 is fraternal_to x2 by parent x3
+x1 bruna  x3 x2 : x1 is brother of x2 by bond x3
+x1 bruna  x3 x2 : x1 is brother of x2 by tie x3
+x1 bruna  x3 x2 : x1 is brother of x2 by standard x3
+x1 bruna  x3 x2 : x1 is brother of x2 by parent x3
+x1 bruna  x3 x2 : x1 is fraternal to x2 by bond x3
+x1 bruna  x3 x2 : x1 is fraternal to x2 by tie x3
+x1 bruna  x3 x2 : x1 is fraternal to x2 by standard x3
+x1 bruna  x3 x2 : x1 is fraternal to x2 by parent x3
 x1 budjo  x2 : x1 pertains to the Buddhist culture in aspect x2.
 x1 budjo  x2 : x1 pertains to the Buddhist religion in aspect x2.
 x1 budjo  x2 : x1 pertains to the Buddhist ethos in aspect x2.
@@ -344,11 +344,11 @@ x1 burna  x2 : x1 is flustered about conditions x2 .
 x1 burna  x2 : x1 is flustered under conditions x2 .
 x1 burna  x2 : x1 is ill-at-ease about conditions x2 .
 x1 burna  x2 : x1 is ill-at-ease under conditions x2 .
-x1 cabna  x2 : x1 is current_at x2 in time.
-x1 cabna  x2 : x1 is in_the_present_of x2 in time.
+x1 cabna  x2 : x1 is current at x2 in time.
+x1 cabna  x2 : x1 is in the present of x2 in time.
 x1 cabna  x2 : x1 is during x2 in time.
-x1 cabna  x2 : x1 is concurrent_with x2 in time.
-x1 cabna  x2 : x1 is simultaneous_with x2 in time.
+x1 cabna  x2 : x1 is concurrent with x2 in time.
+x1 cabna  x2 : x1 is simultaneous with x2 in time.
 x1 cabra  x3 x2 : x1 is apparatus for function x2 controlled by x3 .
 x1 cabra  x3 x2 : x1 is mechanism for function x2 controlled by x3 .
 x1 cabra  x3 x2 : x1 is device for function x2 controlled by x3 .
@@ -365,18 +365,18 @@ x1 cafne  x2 : x1 commonly occurs by standard x2.
 x1 cafne  x2 : x1 commonly recurs by standard x2.
 x1 cafne  x2 : x1 customarily occurs by standard x2.
 x1 cafne  x2 : x1 customarily recurs by standard x2.
-x1 cakla  : x1 is_made_of chocolate
-x1 cakla  : x1 is_made_of cocoa.
+x1 cakla  : x1 is made of chocolate
+x1 cakla  : x1 is made of cocoa.
 x1 cakla  : x1 contains chocolate
 x1 cakla  : x1 contains cocoa.
-x1 cakla  : x1 is_a_quantity_of chocolate
-x1 cakla  : x1 is_a_quantity_of cocoa.
+x1 cakla  : x1 is a quantity of chocolate
+x1 cakla  : x1 is a quantity of cocoa.
 x1 calku  x3 x2 : x1 is a shell around x2 composed of x3.
 x1 calku  x3 x2 : x1 is a husk around x2 composed of x3.
 x1 canci  x2 : x1 vanishes from location x2
 x1 canci  x2 : x1 disappears from location x2
 x1 cando  : x1 is idle
-x1 cando  : x1 is at_rest
+x1 cando  : x1 is at rest
 x1 cando  : x1 is inactive.
 x1 cange  x4 x3 x2 : x1 is a farm at x2, farmed by x3, raising x4
 x1 cange  x4 x3 x2 : x1 is a farm at x2, farmed by x3, producing x4
@@ -400,12 +400,12 @@ x1 canlu  x2 : x1 is region occupied by x2.
 x1 canlu  x2 : x1 is room occupied by x2.
 x1 canpa  x2 : x1 is a shovel for digging x2.
 x1 canpa  x2 : x1 is a spade for digging x2.
-x1 canre  x3 x2 : x1 is_a_quantity_of sand from source x2 of composition including x3.
-x1 canre  x3 x2 : x1 is_a_quantity_of grit from source x2 of composition including x3.
+x1 canre  x3 x2 : x1 is a quantity of sand from source x2 of composition including x3.
+x1 canre  x3 x2 : x1 is a quantity of grit from source x2 of composition including x3.
 x1 canre  x3 x2 : x1 contains sand from source x2 of composition including x3.
 x1 canre  x3 x2 : x1 contains grit from source x2 of composition including x3.
-x1 canre  x3 x2 : x1 is_made_of sand from source x2 of composition including x3.
-x1 canre  x3 x2 : x1 is_made_of grit from source x2 of composition including x3.
+x1 canre  x3 x2 : x1 is made of sand from source x2 of composition including x3.
+x1 canre  x3 x2 : x1 is made of grit from source x2 of composition including x3.
 x1 canti  x2 : x1 is a gut system of x2.
 x1 canti  x2 : x1 is a entrails system of x2.
 x1 canti  x2 : x1 is a intestines system of x2.
@@ -457,24 +457,24 @@ x1 catlu  x2 : x1 looks inspects at x2.
 x1 catlu  x2 : x1 looks regards at x2.
 x1 catlu  x2 : x1 looks watches at x2.
 x1 catlu  x2 : x1 looks gazes at x2.
-x1 catni  x3 x2 : x1 has_authority in matter x2 derived on basis x3.
-x1 catni  x3 x2 : x1 has_authority in sphere x2 derived on basis x3.
-x1 catni  x3 x2 : x1 has_authority in persons x2 derived on basis x3.
-x1 catni  x3 x2 : x1 has_authority on matter x2 derived on basis x3.
-x1 catni  x3 x2 : x1 has_authority on sphere x2 derived on basis x3.
-x1 catni  x3 x2 : x1 has_authority on persons x2 derived on basis x3.
-x1 catni  x3 x2 : x1 has_authority over matter x2 derived on basis x3.
-x1 catni  x3 x2 : x1 has_authority over sphere x2 derived on basis x3.
-x1 catni  x3 x2 : x1 has_authority over persons x2 derived on basis x3.
-x1 catni  x3 x2 : x1 is_an_official in matter x2 derived on basis x3.
-x1 catni  x3 x2 : x1 is_an_official in sphere x2 derived on basis x3.
-x1 catni  x3 x2 : x1 is_an_official in persons x2 derived on basis x3.
-x1 catni  x3 x2 : x1 is_an_official on matter x2 derived on basis x3.
-x1 catni  x3 x2 : x1 is_an_official on sphere x2 derived on basis x3.
-x1 catni  x3 x2 : x1 is_an_official on persons x2 derived on basis x3.
-x1 catni  x3 x2 : x1 is_an_official over matter x2 derived on basis x3.
-x1 catni  x3 x2 : x1 is_an_official over sphere x2 derived on basis x3.
-x1 catni  x3 x2 : x1 is_an_official over persons x2 derived on basis x3.
+x1 catni  x3 x2 : x1 has authority in matter x2 derived on basis x3.
+x1 catni  x3 x2 : x1 has authority in sphere x2 derived on basis x3.
+x1 catni  x3 x2 : x1 has authority in persons x2 derived on basis x3.
+x1 catni  x3 x2 : x1 has authority on matter x2 derived on basis x3.
+x1 catni  x3 x2 : x1 has authority on sphere x2 derived on basis x3.
+x1 catni  x3 x2 : x1 has authority on persons x2 derived on basis x3.
+x1 catni  x3 x2 : x1 has authority over matter x2 derived on basis x3.
+x1 catni  x3 x2 : x1 has authority over sphere x2 derived on basis x3.
+x1 catni  x3 x2 : x1 has authority over persons x2 derived on basis x3.
+x1 catni  x3 x2 : x1 is an official in matter x2 derived on basis x3.
+x1 catni  x3 x2 : x1 is an official in sphere x2 derived on basis x3.
+x1 catni  x3 x2 : x1 is an official in persons x2 derived on basis x3.
+x1 catni  x3 x2 : x1 is an official on matter x2 derived on basis x3.
+x1 catni  x3 x2 : x1 is an official on sphere x2 derived on basis x3.
+x1 catni  x3 x2 : x1 is an official on persons x2 derived on basis x3.
+x1 catni  x3 x2 : x1 is an official over matter x2 derived on basis x3.
+x1 catni  x3 x2 : x1 is an official over sphere x2 derived on basis x3.
+x1 catni  x3 x2 : x1 is an official over persons x2 derived on basis x3.
 x1 catra  x3 x2 : x1 kills x2 by action x3.
 x1 catra  x3 x2 : x1 kills x2 by method x3.
 x1 catra  x3 x2 : x1 slaughters x2 by action x3.
@@ -519,10 +519,10 @@ x1 centi  x3 x2 : x1 is a hundredth of x2 in aspect x3 .
 x1 cerda  x4 x3 x2 : x1 is an heir to to inherit x2 from x3 according to rule x4.
 x1 cerda  x4 x3 x2 : x1 is an heir is to inherit x2 from x3 according to rule x4.
 x1 cerni  x3 x2 : x1 is a morning of day x2 at location x3.
-x1 certu  x3 x2 : x1 is an expert_in x2 by standard x3.
-x1 certu  x3 x2 : x1 is an pro_in x2 by standard x3.
-x1 certu  x3 x2 : x1 is an has_prowess_in x2 by standard x3.
-x1 certu  x3 x2 : x1 is an is_skilled_at x2 by standard x3.
+x1 certu  x3 x2 : x1 is an expert in x2 by standard x3.
+x1 certu  x3 x2 : x1 is an pro in x2 by standard x3.
+x1 certu  x3 x2 : x1 is an has prowess in x2 by standard x3.
+x1 certu  x3 x2 : x1 is an is skilled at x2 by standard x3.
 x1 cevni  x3 x2 : x1 is a god of people x2 with dominion over x3
 x1 cevni  x3 x2 : x1 is a god of religion x2 with dominion over x3
 x1 cevni  x3 x2 : x1 is a deity of people x2 with dominion over x3
@@ -558,9 +558,9 @@ x1 cidni  x3 x2 : x1 is a knuckle of limb x2 of body x3.
 x1 cidni  x3 x2 : x1 is the knee of limb x2 of body x3.
 x1 cidni  x3 x2 : x1 is the elbow of limb x2 of body x3.
 x1 cidni  x3 x2 : x1 is the knuckle of limb x2 of body x3.
-x1 cidro  : x1 is_a_quantity_of hydrogen
+x1 cidro  : x1 is a quantity of hydrogen
 x1 cidro  : x1 contains hydrogen
-x1 cidro  : x1 is_made_of hydrogen
+x1 cidro  : x1 is made of hydrogen
 x1 cifnu  x2 : x1 is an infant of species x2.
 x1 cifnu  x2 : x1 is an baby of species x2.
 x1 cigla  x3 x2 : x1 is a gland secreting x2, of body x3
@@ -612,15 +612,15 @@ x1 cinla  x3 x2 : x1 is thin in direction x2 by standard x3
 x1 cinla  x3 x2 : x1 is thin in dimension x2 by standard x3
 x1 cinmo  x3 x2 : x1 feels emotion x2 about x3.
 x1 cinri  x2 : x1 interests x2
-x1 cinri  x2 : x1 is_interesting_to x2
+x1 cinri  x2 : x1 is interesting to x2
 x1 cinse  x4 x3 x2 : x1 in activity x2 exhibits sexuality x3 by standard x4.
 x1 cinse  x4 x3 x2 : x1 in activity x2 exhibits gender x3 by standard x4.
-x1 cinse  x4 x3 x2 : x1 in activity x2 exhibits sexual_orientation x3 by standard x4.
+x1 cinse  x4 x3 x2 : x1 in activity x2 exhibits sexual orientation x3 by standard x4.
 x1 cinse  x4 x3 x2 : x1 in state x2 exhibits sexuality x3 by standard x4.
 x1 cinse  x4 x3 x2 : x1 in state x2 exhibits gender x3 by standard x4.
-x1 cinse  x4 x3 x2 : x1 in state x2 exhibits sexual_orientation x3 by standard x4.
+x1 cinse  x4 x3 x2 : x1 in state x2 exhibits sexual orientation x3 by standard x4.
 x1 cinta  x3 x2 : x1 is a paint of pigment x2, in a base of x3.
-x1 cinta  x3 x2 : x1 is a paint of active_substance x2, in a base of x3.
+x1 cinta  x3 x2 : x1 is a paint of active substance x2, in a base of x3.
 x1 cinza  x3 x2 : x1 is a tong for x2 to pinch x3.
 x1 cinza  x3 x2 : x1 is a chopsticks for x2 to pinch x3.
 x1 cinza  x3 x2 : x1 is a pincers for x2 to pinch x3.
@@ -634,16 +634,16 @@ x1 cinza  x3 x2 : x1 is are pliers for x2 to pinch x3.
 x1 cipni  x2 : x1 is a bird of species x2.
 x1 cipni  x2 : x1 is a avian of species x2.
 x1 cipni  x2 : x1 is a fowl of species x2.
-x1 cipra  x3 x2 : x1 is a test_for property x2 in subject x3 .
-x1 cipra  x3 x2 : x1 is a test_for state x2 in subject x3 .
-x1 cipra  x3 x2 : x1 is a proof_of property x2 in subject x3 .
-x1 cipra  x3 x2 : x1 is a proof_of state x2 in subject x3 .
+x1 cipra  x3 x2 : x1 is a test for property x2 in subject x3 .
+x1 cipra  x3 x2 : x1 is a test for state x2 in subject x3 .
+x1 cipra  x3 x2 : x1 is a proof of property x2 in subject x3 .
+x1 cipra  x3 x2 : x1 is a proof of state x2 in subject x3 .
 x1 cirko  x3 x2 : x1 loses person x2 at x3
 x1 cirko  x3 x2 : x1 loses person x2 near x3
 x1 cirko  x3 x2 : x1 loses thing x2 at x3
 x1 cirko  x3 x2 : x1 loses thing x2 near x3
-x1 cirla  x2 : x1 is_a_quantity_of cheese from source x2.
-x1 cirla  x2 : x1 is_a_quantity_of curd from source x2.
+x1 cirla  x2 : x1 is a quantity of cheese from source x2.
+x1 cirla  x2 : x1 is a quantity of curd from source x2.
 x1 cirla  x2 : x1 contains cheese from source x2.
 x1 cirla  x2 : x1 contains curd from source x2.
 x1 ciska  x4 x3 x2 : x1 inscribes x2 on display medium x3 with writing implement x4
@@ -659,10 +659,10 @@ x1 citka  x2 : x1 consumes x2.
 x1 citno  x2 : x1 is young by standard x2.
 x1 citno  x2 : x1 is youthful by standard x2.
 x1 citri  x3 x2 : x1 is a history of x2 according to x3.
-x1 citsi  x3 x2 : x1 is_a_season , defined by interval x2, of year x3.
-x1 citsi  x3 x2 : x1 is_a_season , defined by property x2, of year x3.
-x1 citsi  x3 x2 : x1 is_seasonal , defined by interval x2, of year x3.
-x1 citsi  x3 x2 : x1 is_seasonal , defined by property x2, of year x3.
+x1 citsi  x3 x2 : x1 is a season , defined by interval x2, of year x3.
+x1 citsi  x3 x2 : x1 is a season , defined by property x2, of year x3.
+x1 citsi  x3 x2 : x1 is seasonal , defined by interval x2, of year x3.
+x1 citsi  x3 x2 : x1 is seasonal , defined by property x2, of year x3.
 x1 civla  x3 x2 : x1 is a louse of species x2, parasitic on x3.
 x1 civla  x3 x2 : x1 is a louse of breed x2, parasitic on x3.
 x1 civla  x3 x2 : x1 is a flea of species x2, parasitic on x3.
@@ -672,21 +672,21 @@ x1 cizra  x3 x2 : x1 is weird to x2 in property x3 .
 x1 cizra  x3 x2 : x1 is deviant to x2 in property x3 .
 x1 cizra  x3 x2 : x1 is bizarre to x2 in property x3 .
 x1 cizra  x3 x2 : x1 is odd to x2 in property x3 .
-x1 ckabu  x3 x2 : x1 is_a_quantity_of rubber from source x2 of composition including x3.
-x1 ckabu  x3 x2 : x1 is_a_quantity_of latex from source x2 of composition including x3.
+x1 ckabu  x3 x2 : x1 is a quantity of rubber from source x2 of composition including x3.
+x1 ckabu  x3 x2 : x1 is a quantity of latex from source x2 of composition including x3.
 x1 ckabu  x3 x2 : x1 contains rubber from source x2 of composition including x3.
 x1 ckabu  x3 x2 : x1 contains latex from source x2 of composition including x3.
-x1 ckabu  x3 x2 : x1 is_made_of rubber from source x2 of composition including x3.
-x1 ckabu  x3 x2 : x1 is_made_of latex from source x2 of composition including x3.
-x1 ckafi  x2 : x1 is_made_of coffee from source x2.
-x1 ckafi  x2 : x1 is_made_of coffee from bean x2.
-x1 ckafi  x2 : x1 is_made_of coffee from grain x2.
+x1 ckabu  x3 x2 : x1 is made of rubber from source x2 of composition including x3.
+x1 ckabu  x3 x2 : x1 is made of latex from source x2 of composition including x3.
+x1 ckafi  x2 : x1 is made of coffee from source x2.
+x1 ckafi  x2 : x1 is made of coffee from bean x2.
+x1 ckafi  x2 : x1 is made of coffee from grain x2.
 x1 ckafi  x2 : x1 contains coffee from source x2.
 x1 ckafi  x2 : x1 contains coffee from bean x2.
 x1 ckafi  x2 : x1 contains coffee from grain x2.
-x1 ckafi  x2 : x1 is_a_quantity_of coffee from source x2.
-x1 ckafi  x2 : x1 is_a_quantity_of coffee from bean x2.
-x1 ckafi  x2 : x1 is_a_quantity_of coffee from grain x2.
+x1 ckafi  x2 : x1 is a quantity of coffee from source x2.
+x1 ckafi  x2 : x1 is a quantity of coffee from bean x2.
+x1 ckafi  x2 : x1 is a quantity of coffee from grain x2.
 x1 ckaji  x2 : x1 has characterized by property x2
 x1 ckaji  x2 : x1 has characterized by feature x2
 x1 ckaji  x2 : x1 has characterized by trait x2
@@ -720,12 +720,12 @@ x1 ckiku  x3 x2 : x1 is a key unlocking lock x2, and having relevant properties 
 x1 ckilu  x2 : x1 is a scale of units for measuring x2 .
 x1 ckilu  x2 : x1 is a scale of units for observing x2 .
 x1 ckilu  x2 : x1 is a scale of units for determining x2 .
-x1 ckini  x3 x2 : x1 is related_to x2 by relationship x3.
-x1 ckini  x3 x2 : x1 is associated_with x2 by relationship x3.
-x1 ckini  x3 x2 : x1 is akin_to x2 by relationship x3.
-x1 ckire  x3 x2 : x1 is grateful_to x2 for x3 .
-x1 ckire  x3 x2 : x1 is thankful_to x2 for x3 .
-x1 ckire  x3 x2 : x1 is appreciative_of x2 for x3 .
+x1 ckini  x3 x2 : x1 is related to x2 by relationship x3.
+x1 ckini  x3 x2 : x1 is associated with x2 by relationship x3.
+x1 ckini  x3 x2 : x1 is akin to x2 by relationship x3.
+x1 ckire  x3 x2 : x1 is grateful to x2 for x3 .
+x1 ckire  x3 x2 : x1 is thankful to x2 for x3 .
+x1 ckire  x3 x2 : x1 is appreciative of x2 for x3 .
 x1 ckule  x5 x4 x3 x2 : x1 is school at x2 teaching subject x3 to audien. x4 operated by x5.
 x1 ckule  x5 x4 x3 x2 : x1 is school at x2 teaching subject x3 to commun. x4 operated by x5.
 x1 ckule  x5 x4 x3 x2 : x1 is institute at x2 teaching subject x3 to audien. x4 operated by x5.
@@ -744,7 +744,7 @@ x1 clani  x3 x2 : x1 is long in dimension x2 by measurement standard x3.
 x1 clani  x3 x2 : x1 is long in direction x2 by measurement standard x3.
 x1 claxu  x2 : x1 is without x2
 x1 claxu  x2 : x1 is lacking x2
-x1 claxu  x2 : x1 is free_of x2
+x1 claxu  x2 : x1 is free of x2
 x1 claxu  x2 : x1 is lacks x2
 x1 clika  x3 x2 : x1 is a moss of species x2 growing on x3
 x1 clika  x3 x2 : x1 is a moss of strain x2 growing on x3
@@ -758,7 +758,7 @@ x1 clite  x3 x2 : x1 is courteous in matter x2 according to custom x3.
 x1 clite  x3 x2 : x1 is civil in matter x2 according to standard x3.
 x1 clite  x3 x2 : x1 is civil in matter x2 according to custom x3.
 x1 cliva  x3 x2 : x1 leaves from x2 via route x3.
-x1 cliva  x3 x2 : x1 goes_away from x2 via route x3.
+x1 cliva  x3 x2 : x1 goes away from x2 via route x3.
 x1 cliva  x3 x2 : x1 departs from x2 via route x3.
 x1 cliva  x3 x2 : x1 parts from x2 via route x3.
 x1 cliva  x3 x2 : x1 separates from x2 via route x3.
@@ -822,22 +822,22 @@ x1 cnici  x2 : x1 is ordered in quantity x2 .
 x1 cnino  x4 x3 x2 : x1 is new to observer x2 in feature x3 by standard x4
 x1 cnino  x4 x3 x2 : x1 is unfamiliar to observer x2 in feature x3 by standard x4
 x1 cnino  x4 x3 x2 : x1 is novel to observer x2 in feature x3 by standard x4
-x1 cnisa  : x1 is_a_quantity_of lead
+x1 cnisa  : x1 is a quantity of lead
 x1 cnisa  : x1 contains lead
-x1 cnisa  : x1 is_made_of lead
-x1 cnita  x3 x2 : x1 is directly beneath x2 in frame_of_reference x3.
-x1 cnita  x3 x2 : x1 is directly below x2 in frame_of_reference x3.
-x1 cnita  x3 x2 : x1 is directly under x2 in frame_of_reference x3.
-x1 cnita  x3 x2 : x1 is directly underneath x2 in frame_of_reference x3.
-x1 cnita  x3 x2 : x1 is directly down_from x2 in frame_of_reference x3.
-x1 cnita  x3 x2 : x1 is vertically beneath x2 in frame_of_reference x3.
-x1 cnita  x3 x2 : x1 is vertically below x2 in frame_of_reference x3.
-x1 cnita  x3 x2 : x1 is vertically under x2 in frame_of_reference x3.
-x1 cnita  x3 x2 : x1 is vertically underneath x2 in frame_of_reference x3.
-x1 cnita  x3 x2 : x1 is vertically down_from x2 in frame_of_reference x3.
-x1 cokcu  x4 x3 x2 : x1 soaks_up x2 from x3 into x4
+x1 cnisa  : x1 is made of lead
+x1 cnita  x3 x2 : x1 is directly beneath x2 in frame of reference x3.
+x1 cnita  x3 x2 : x1 is directly below x2 in frame of reference x3.
+x1 cnita  x3 x2 : x1 is directly under x2 in frame of reference x3.
+x1 cnita  x3 x2 : x1 is directly underneath x2 in frame of reference x3.
+x1 cnita  x3 x2 : x1 is directly down from x2 in frame of reference x3.
+x1 cnita  x3 x2 : x1 is vertically beneath x2 in frame of reference x3.
+x1 cnita  x3 x2 : x1 is vertically below x2 in frame of reference x3.
+x1 cnita  x3 x2 : x1 is vertically under x2 in frame of reference x3.
+x1 cnita  x3 x2 : x1 is vertically underneath x2 in frame of reference x3.
+x1 cnita  x3 x2 : x1 is vertically down from x2 in frame of reference x3.
+x1 cokcu  x4 x3 x2 : x1 soaks up x2 from x3 into x4
 x1 cokcu  x4 x3 x2 : x1 absorbs x2 from x3 into x4
-x1 cokcu  x4 x3 x2 : x1 sucks_up x2 from x3 into x4
+x1 cokcu  x4 x3 x2 : x1 sucks up x2 from x3 into x4
 x1 condi  x4 x3 x2 : x1 is deep in extent in direction x2 away from reference point x3 by standard x4.
 x1 condi  x4 x3 x2 : x1 is deep in extent in property x2 away from reference point x3 by standard x4.
 x1 cortu  x2 : x1 hurts pain at locus x2.
@@ -849,17 +849,17 @@ x1 cpacu  x3 x2 : x1 procures x2 from source x3 .
 x1 cpacu  x3 x2 : x1 acquires x2 from source x3 .
 x1 cpacu  x3 x2 : x1 obtains x2 from source x3 .
 x1 cpacu  x3 x2 : x1 accepts x2 from source x3 .
-x1 cpana  x3 x2 : x1 is upon on on x2 in frame_of_reference x3.
+x1 cpana  x3 x2 : x1 is upon on on x2 in frame of reference x3.
 x1 cpana  x3 x2 : x1 is upon on on x2 in gravity x3.
-x1 cpana  x3 x2 : x1 is upon lying on x2 in frame_of_reference x3.
+x1 cpana  x3 x2 : x1 is upon lying on x2 in frame of reference x3.
 x1 cpana  x3 x2 : x1 is upon lying on x2 in gravity x3.
-x1 cpana  x3 x2 : x1 is atop on on x2 in frame_of_reference x3.
+x1 cpana  x3 x2 : x1 is atop on on x2 in frame of reference x3.
 x1 cpana  x3 x2 : x1 is atop on on x2 in gravity x3.
-x1 cpana  x3 x2 : x1 is atop lying on x2 in frame_of_reference x3.
+x1 cpana  x3 x2 : x1 is atop lying on x2 in frame of reference x3.
 x1 cpana  x3 x2 : x1 is atop lying on x2 in gravity x3.
-x1 cpana  x3 x2 : x1 is resting on on x2 in frame_of_reference x3.
+x1 cpana  x3 x2 : x1 is resting on on x2 in frame of reference x3.
 x1 cpana  x3 x2 : x1 is resting on on x2 in gravity x3.
-x1 cpana  x3 x2 : x1 is resting lying on x2 in frame_of_reference x3.
+x1 cpana  x3 x2 : x1 is resting lying on x2 in frame of reference x3.
 x1 cpana  x3 x2 : x1 is resting lying on x2 in gravity x3.
 x1 cpare  x4 x3 x2 : x1 climbs on surface x2 in direction x3 using x4 .
 x1 cpare  x4 x3 x2 : x1 clambers on surface x2 in direction x3 using x4 .
@@ -968,12 +968,12 @@ x1 cteki  x4 x3 x2 : x1 is a duty on services x2 levied against x3 by authority 
 x1 cteki  x4 x3 x2 : x1 is a duty on services x2 levied against x3 by collector x4.
 x1 cteki  x4 x3 x2 : x1 is a duty on event x2 levied against x3 by authority x4.
 x1 cteki  x4 x3 x2 : x1 is a duty on event x2 levied against x3 by collector x4.
-x1 ctile  x2 : x1 is_a_quantity_of petroleum from source x2.
-x1 ctile  x2 : x1 is_a_quantity_of oil from source x2.
-x1 ctino  x3 x2 : x1 is a_shadow of object x2, made by light source x3.
-x1 ctino  x3 x2 : x1 is a_shadow of object x2, made by energy source x3.
-x1 ctino  x3 x2 : x1 is the_shade of object x2, made by light source x3.
-x1 ctino  x3 x2 : x1 is the_shade of object x2, made by energy source x3.
+x1 ctile  x2 : x1 is a quantity of petroleum from source x2.
+x1 ctile  x2 : x1 is a quantity of oil from source x2.
+x1 ctino  x3 x2 : x1 is a shadow of object x2, made by light source x3.
+x1 ctino  x3 x2 : x1 is a shadow of object x2, made by energy source x3.
+x1 ctino  x3 x2 : x1 is the shade of object x2, made by light source x3.
+x1 ctino  x3 x2 : x1 is the shade of object x2, made by energy source x3.
 x1 ctuca  x5 x4 x3 x2 : x1 teaches audience x2 ideas x3 about subject x4 by method x5 .
 x1 ctuca  x5 x4 x3 x2 : x1 teaches audience x2 methods x3 about subject x4 by method x5 .
 x1 ctuca  x5 x4 x3 x2 : x1 teaches audience x2 lore x3 about subject x4 by method x5 .
@@ -985,21 +985,21 @@ x1 culno  x2 : x1 is completely filled with x2.
 x1 cumki  x2 : x1 is possible under conditions x2
 x1 cumla  x2 : x1 is humble about x2
 x1 cumla  x2 : x1 is modest about x2
-x1 cunmi  x2 : x1 is_a_quantity_of millet of species x2.
-x1 cunmi  x2 : x1 is_a_quantity_of millet of strain x2.
+x1 cunmi  x2 : x1 is a quantity of millet of species x2.
+x1 cunmi  x2 : x1 is a quantity of millet of strain x2.
 x1 cunso  x3 x2 : x1 is random under conditions x2, with probability distribution x3.
 x1 cunso  x3 x2 : x1 is fortuitous under conditions x2, with probability distribution x3.
 x1 cunso  x3 x2 : x1 is unpredictable under conditions x2, with probability distribution x3.
 x1 cuntu  x2 : x1 is an affair involving person x2
-x1 cuntu  x2 : x1 is an organized_activity involving person x2
+x1 cuntu  x2 : x1 is an organized activity involving person x2
 x1 cupra  x3 x2 : x1 produces x2 by process x3.
 x1 curmi  x3 x2 : x1 lets x2 under conditions x3
 x1 curmi  x3 x2 : x1 permits x2 under conditions x3
 x1 curmi  x3 x2 : x1 allows x2 under conditions x3
 x1 curnu  x2 : x1 is a worm of species x2.
 x1 curnu  x2 : x1 is a worm of breed x2.
-x1 curnu  x2 : x1 is a invertebrate_animal of species x2.
-x1 curnu  x2 : x1 is a invertebrate_animal of breed x2.
+x1 curnu  x2 : x1 is a invertebrate animal of species x2.
+x1 curnu  x2 : x1 is a invertebrate animal of breed x2.
 x1 curve  x2 : x1 is pure in property x2 .
 x1 curve  x2 : x1 is unadulterated in property x2 .
 x1 curve  x2 : x1 is unmitigated in property x2 .
@@ -1045,9 +1045,9 @@ x1 dandu  x3 x2 : x1 hangs from x2 with joint x3.
 x1 dandu  x3 x2 : x1 dangles from x2 by joint x3.
 x1 dandu  x3 x2 : x1 dangles from x2 at joint x3.
 x1 dandu  x3 x2 : x1 dangles from x2 with joint x3.
-x1 dandu  x3 x2 : x1 is_suspended from x2 by joint x3.
-x1 dandu  x3 x2 : x1 is_suspended from x2 at joint x3.
-x1 dandu  x3 x2 : x1 is_suspended from x2 with joint x3.
+x1 dandu  x3 x2 : x1 is suspended from x2 by joint x3.
+x1 dandu  x3 x2 : x1 is suspended from x2 at joint x3.
+x1 dandu  x3 x2 : x1 is suspended from x2 with joint x3.
 x1 danfu  x2 : x1 is the answer to question x2.
 x1 danfu  x2 : x1 is the answer to problem x2.
 x1 danfu  x2 : x1 is the response to question x2.
@@ -1056,18 +1056,18 @@ x1 danfu  x2 : x1 is the solution to question x2.
 x1 danfu  x2 : x1 is the solution to problem x2.
 x1 danlu  x2 : x1 is an animal of species x2
 x1 danlu  x2 : x1 is an creature of species x2
-x1 danmo  x2 : x1 is_made_of smoke from source x2.
-x1 danmo  x2 : x1 is_made_of smog from source x2.
-x1 danmo  x2 : x1 is_made_of air_pollution from source x2.
+x1 danmo  x2 : x1 is made of smoke from source x2.
+x1 danmo  x2 : x1 is made of smog from source x2.
+x1 danmo  x2 : x1 is made of air pollution from source x2.
 x1 danmo  x2 : x1 contains smoke from source x2.
 x1 danmo  x2 : x1 contains smog from source x2.
-x1 danmo  x2 : x1 contains air_pollution from source x2.
-x1 danmo  x2 : x1 is_a_quantity_of smoke from source x2.
-x1 danmo  x2 : x1 is_a_quantity_of smog from source x2.
-x1 danmo  x2 : x1 is_a_quantity_of air_pollution from source x2.
-x1 danre  x2 : x1 puts_pressure_on x2.
+x1 danmo  x2 : x1 contains air pollution from source x2.
+x1 danmo  x2 : x1 is a quantity of smoke from source x2.
+x1 danmo  x2 : x1 is a quantity of smog from source x2.
+x1 danmo  x2 : x1 is a quantity of air pollution from source x2.
+x1 danre  x2 : x1 puts pressure on x2.
 x1 danre  x2 : x1 presses x2.
-x1 danre  x2 : x1 applies_force_to x2.
+x1 danre  x2 : x1 applies force to x2.
 x1 dansu  x2 : x1 dances to accompaniment x2.
 x1 dansu  x2 : x1 dances to music x2.
 x1 dansu  x2 : x1 dances to rhythm x2.
@@ -1097,8 +1097,8 @@ x1 daski  x2 : x1 is a pouch of item x2.
 x1 daski  x2 : x1 is a pouch in garment x2.
 x1 daski  x2 : x1 is a pouch in item x2.
 x1 dasni  x3 x2 : x1 wears x2 as a garment of type x3.
-x1 dasni  x3 x2 : x1 is_robed_in x2 as a garment of type x3.
-x1 dasni  x3 x2 : x1 is_garbed_in x2 as a garment of type x3.
+x1 dasni  x3 x2 : x1 is robed in x2 as a garment of type x3.
+x1 dasni  x3 x2 : x1 is garbed in x2 as a garment of type x3.
 x1 daspo  x2 : x1 destroys x2
 x1 daspo  x2 : x1 ruins x2
 x1 daspo  x2 : x1 wrecks x2
@@ -1158,18 +1158,18 @@ x1 denpa  x4 x3 x2 : x1 pauses for x2 at state x3 before starting x4 .
 x1 denpa  x4 x3 x2 : x1 pauses for x2 at state x3 before continuing x4 .
 x1 denpa  x4 x3 x2 : x1 pauses until x2 at state x3 before starting x4 .
 x1 denpa  x4 x3 x2 : x1 pauses until x2 at state x3 before continuing x4 .
-x1 dertu  x3 x2 : x1 is_a_quantity_of dirt from source x2 of composition x3.
-x1 dertu  x3 x2 : x1 is_a_quantity_of soil from source x2 of composition x3.
-x1 dertu  x3 x2 : x1 is_a_quantity_of earth from source x2 of composition x3.
-x1 dertu  x3 x2 : x1 is_a_quantity_of ground from source x2 of composition x3.
+x1 dertu  x3 x2 : x1 is a quantity of dirt from source x2 of composition x3.
+x1 dertu  x3 x2 : x1 is a quantity of soil from source x2 of composition x3.
+x1 dertu  x3 x2 : x1 is a quantity of earth from source x2 of composition x3.
+x1 dertu  x3 x2 : x1 is a quantity of ground from source x2 of composition x3.
 x1 dertu  x3 x2 : x1 contains dirt from source x2 of composition x3.
 x1 dertu  x3 x2 : x1 contains soil from source x2 of composition x3.
 x1 dertu  x3 x2 : x1 contains earth from source x2 of composition x3.
 x1 dertu  x3 x2 : x1 contains ground from source x2 of composition x3.
-x1 dertu  x3 x2 : x1 is_made_of dirt from source x2 of composition x3.
-x1 dertu  x3 x2 : x1 is_made_of soil from source x2 of composition x3.
-x1 dertu  x3 x2 : x1 is_made_of earth from source x2 of composition x3.
-x1 dertu  x3 x2 : x1 is_made_of ground from source x2 of composition x3.
+x1 dertu  x3 x2 : x1 is made of dirt from source x2 of composition x3.
+x1 dertu  x3 x2 : x1 is made of soil from source x2 of composition x3.
+x1 dertu  x3 x2 : x1 is made of earth from source x2 of composition x3.
+x1 dertu  x3 x2 : x1 is made of ground from source x2 of composition x3.
 x1 derxi  x3 x2 : x1 is a heap of materials x2 at location x3.
 x1 derxi  x3 x2 : x1 is a pile of materials x2 at location x3.
 x1 derxi  x3 x2 : x1 is a stack of materials x2 at location x3.
@@ -1205,10 +1205,10 @@ x1 dikni  x3 x2 : x1 is periodic in property x2 with interval x3.
 x1 dikni  x3 x2 : x1 is periodic in activity x2 with period x3.
 x1 dikni  x3 x2 : x1 is periodic in activity x2 with interval x3.
 x1 dilcu  x4 x3 x2 : x1 is a quotient of x2 devided by x3 leaving remainder x4.
-x1 dilnu  x4 x3 x2 : x1 is a_cloud of material x2 in air mass x3 at floor elevation x4.
-x1 dilnu  x4 x3 x2 : x1 is a_cloud of material x2 in air mass x3 at base elevation x4.
-x1 dilnu  x4 x3 x2 : x1 is mass_of_clouds of material x2 in air mass x3 at floor elevation x4.
-x1 dilnu  x4 x3 x2 : x1 is mass_of_clouds of material x2 in air mass x3 at base elevation x4.
+x1 dilnu  x4 x3 x2 : x1 is a cloud of material x2 in air mass x3 at floor elevation x4.
+x1 dilnu  x4 x3 x2 : x1 is a cloud of material x2 in air mass x3 at base elevation x4.
+x1 dilnu  x4 x3 x2 : x1 is mass of clouds of material x2 in air mass x3 at floor elevation x4.
+x1 dilnu  x4 x3 x2 : x1 is mass of clouds of material x2 in air mass x3 at base elevation x4.
 x1 dimna  x2 : x1 is a fate of x2
 x1 dimna  x2 : x1 is a destiny of x2
 x1 dinju  x2 : x1 is a building for purpose x2.
@@ -1223,16 +1223,16 @@ x1 dirba  x2 : x1 is darling to x2
 x1 dirce  x3 x2 : x1 radiates x2 under conditions x3.
 x1 dirce  x3 x2 : x1 emits x2 under conditions x3.
 x1 dirgo  x3 x2 : x1 is a drop of material x2 in surrounding material x3.
-x1 dizlo  x3 x2 : x1 is low in frame_of_reference x2 as compared with baseline height x3.
-x1 dizlo  x3 x2 : x1 is low in frame_of_reference x2 as compared with standard height x3.
-x1 dizlo  x3 x2 : x1 is down in frame_of_reference x2 as compared with baseline height x3.
-x1 dizlo  x3 x2 : x1 is down in frame_of_reference x2 as compared with standard height x3.
-x1 dizlo  x3 x2 : x1 is downward in frame_of_reference x2 as compared with baseline height x3.
-x1 dizlo  x3 x2 : x1 is downward in frame_of_reference x2 as compared with standard height x3.
-x1 djacu  : x1 is_made_of water
+x1 dizlo  x3 x2 : x1 is low in frame of reference x2 as compared with baseline height x3.
+x1 dizlo  x3 x2 : x1 is low in frame of reference x2 as compared with standard height x3.
+x1 dizlo  x3 x2 : x1 is down in frame of reference x2 as compared with baseline height x3.
+x1 dizlo  x3 x2 : x1 is down in frame of reference x2 as compared with standard height x3.
+x1 dizlo  x3 x2 : x1 is downward in frame of reference x2 as compared with baseline height x3.
+x1 dizlo  x3 x2 : x1 is downward in frame of reference x2 as compared with standard height x3.
+x1 djacu  : x1 is made of water
 x1 djacu  : x1 contains water
-x1 djacu  : x1 is_a_quantity_of water
-x1 djacu  : x1 is_a_expanse_of water
+x1 djacu  : x1 is a quantity of water
+x1 djacu  : x1 is a expanse of water
 x1 djedi  x3 x2 : x1 is x2 full days in duration by standard x3
 x1 djica  x3 x2 : x1 desires x2 for purpose x3.
 x1 djica  x3 x2 : x1 wants x2 for purpose x3.
@@ -1259,20 +1259,20 @@ x1 drani  x4 x3 x2 : x1 is right in property x2 in situation x3 by standard x4.
 x1 drani  x4 x3 x2 : x1 is right in aspect x2 in situation x3 by standard x4.
 x1 drani  x4 x3 x2 : x1 is perfect in property x2 in situation x3 by standard x4.
 x1 drani  x4 x3 x2 : x1 is perfect in aspect x2 in situation x3 by standard x4.
-x1 drata  x3 x2 : x1 isn't_the_same_thing_as x2 by standard x3
-x1 drata  x3 x2 : x1 is_different_from x2 by standard x3
-x1 drata  x3 x2 : x1 differs_from x2 by standard x3
+x1 drata  x3 x2 : x1 isn't the same thing as x2 by standard x3
+x1 drata  x3 x2 : x1 is different from x2 by standard x3
+x1 drata  x3 x2 : x1 differs from x2 by standard x3
 x1 drudi  x2 : x1 is a roof of x2.
 x1 drudi  x2 : x1 is a top of x2.
 x1 drudi  x2 : x1 is a ceiling of x2.
 x1 drudi  x2 : x1 is a lid of x2.
 x1 dugri  x3 x2 : x1 is the logarithm of x2 with base x3.
-x1 dukse  x3 x2 : x1 is an_excess of x2 by standard x3.
-x1 dukse  x3 x2 : x1 is too_much of x2 by standard x3.
-x1 dukti  x3 x2 : x1 is polar_opposite_from x2 in property scale x3 .
-x1 dukti  x3 x2 : x1 is polar_opposite_from x2 in on scale x3 .
-x1 dukti  x3 x2 : x1 is contrary_to x2 in property scale x3 .
-x1 dukti  x3 x2 : x1 is contrary_to x2 in on scale x3 .
+x1 dukse  x3 x2 : x1 is an excess of x2 by standard x3.
+x1 dukse  x3 x2 : x1 is too much of x2 by standard x3.
+x1 dukti  x3 x2 : x1 is polar opposite from x2 in property scale x3 .
+x1 dukti  x3 x2 : x1 is polar opposite from x2 in on scale x3 .
+x1 dukti  x3 x2 : x1 is contrary to x2 in property scale x3 .
+x1 dukti  x3 x2 : x1 is contrary to x2 in on scale x3 .
 x1 dunda  x3 x2 : x1 gives gift x2 to recipient x3 .
 x1 dunda  x3 x2 : x1 gives gift x2 to beneficiary x3 .
 x1 dunda  x3 x2 : x1 gives present x2 to recipient x3 .
@@ -1286,17 +1286,17 @@ x1 dunja  x3 x2 : x1 jells at temperature x2 and pressure x3.
 x1 dunja  x3 x2 : x1 solidifies at temperature x2 and pressure x3.
 x1 dunku  x2 : x1 is anguished by x2.
 x1 dunku  x2 : x1 is distressed by x2.
-x1 dunku  x2 : x1 is emotionally_wrought by x2.
+x1 dunku  x2 : x1 is emotionally wrought by x2.
 x1 dunku  x2 : x1 is stressed by x2.
 x1 dunli  x3 x2 : x1 is equal x2 in property x3.
 x1 dunli  x3 x2 : x1 is equal x2 in dimension x3.
 x1 dunli  x3 x2 : x1 is equal x2 in quantity x3.
-x1 dunli  x3 x2 : x1 is congruent_to x2 in property x3.
-x1 dunli  x3 x2 : x1 is congruent_to x2 in dimension x3.
-x1 dunli  x3 x2 : x1 is congruent_to x2 in quantity x3.
-x1 dunli  x3 x2 : x1 is as_much_as x2 in property x3.
-x1 dunli  x3 x2 : x1 is as_much_as x2 in dimension x3.
-x1 dunli  x3 x2 : x1 is as_much_as x2 in quantity x3.
+x1 dunli  x3 x2 : x1 is congruent to x2 in property x3.
+x1 dunli  x3 x2 : x1 is congruent to x2 in dimension x3.
+x1 dunli  x3 x2 : x1 is congruent to x2 in quantity x3.
+x1 dunli  x3 x2 : x1 is as much as x2 in property x3.
+x1 dunli  x3 x2 : x1 is as much as x2 in dimension x3.
+x1 dunli  x3 x2 : x1 is as much as x2 in quantity x3.
 x1 dunra  x3 x2 : x1 is winter of year x2 at location x3.
 x1 dunra  x3 x2 : x1 is wintertime of year x2 at location x3.
 x1 dzena  x3 x2 : x1 is an elder of x2 by bond x3
@@ -1316,10 +1316,10 @@ x1 fadni  x3 x2 : x1 is ordinary in property x2 among members of x3 .
 x1 fadni  x3 x2 : x1 is common in property x2 among members of x3 .
 x1 fadni  x3 x2 : x1 is typical in property x2 among members of x3 .
 x1 fadni  x3 x2 : x1 is usual in property x2 among members of x3 .
-x1 fagri  x3 x2 : x1 is a fire with fuel x2 burning_in oxidizer x3 .
-x1 fagri  x3 x2 : x1 is a fire with fuel x2 reacting_with oxidizer x3 .
-x1 fagri  x3 x2 : x1 is a flame with fuel x2 burning_in oxidizer x3 .
-x1 fagri  x3 x2 : x1 is a flame with fuel x2 reacting_with oxidizer x3 .
+x1 fagri  x3 x2 : x1 is a fire with fuel x2 burning in oxidizer x3 .
+x1 fagri  x3 x2 : x1 is a fire with fuel x2 reacting with oxidizer x3 .
+x1 fagri  x3 x2 : x1 is a flame with fuel x2 burning in oxidizer x3 .
+x1 fagri  x3 x2 : x1 is a flame with fuel x2 reacting with oxidizer x3 .
 x1 falnu  x3 x2 : x1 is a sail for gathering propelling material x2 on vehicle x3.
 x1 falnu  x3 x2 : x1 is a sail for gathering propelling material x2 on motor x3.
 x1 famti  x3 x2 : x1 is an aunt of x2 by bond x3
@@ -1328,8 +1328,8 @@ x1 famti  x3 x2 : x1 is an uncle of x2 by bond x3
 x1 famti  x3 x2 : x1 is an uncle of x2 by tie x3
 x1 fancu  x4 x3 x2 : x1 is a function from domain x2 to range x3 defined by expression x4.
 x1 fancu  x4 x3 x2 : x1 is a function from domain x2 to range x3 defined by rule x4.
-x1 fancu  x4 x3 x2 : x1 is a single_valued_mapping from domain x2 to range x3 defined by expression x4.
-x1 fancu  x4 x3 x2 : x1 is a single_valued_mapping from domain x2 to range x3 defined by rule x4.
+x1 fancu  x4 x3 x2 : x1 is a single valued mapping from domain x2 to range x3 defined by expression x4.
+x1 fancu  x4 x3 x2 : x1 is a single valued mapping from domain x2 to range x3 defined by rule x4.
 x1 fange  x3 x2 : x1 is foreign to x2 in property x3 .
 x1 fange  x3 x2 : x1 is alien to x2 in property x3 .
 x1 fange  x3 x2 : x1 is unfamiliar to x2 in property x3 .
@@ -1341,7 +1341,7 @@ x1 fanmo  x2 : x1 is an termination of thing x2
 x1 fanmo  x2 : x1 is an termination of process x2
 x1 fanri  x3 x2 : x1 is a factory producing x2 from materials x3.
 x1 fanri  x3 x2 : x1 is a foundry producing x2 from materials x3.
-x1 fanri  x3 x2 : x1 is a industrial_plant producing x2 from materials x3.
+x1 fanri  x3 x2 : x1 is a industrial plant producing x2 from materials x3.
 x1 fanri  x3 x2 : x1 is a mill producing x2 from materials x3.
 x1 fanta  x2 : x1 prevents event x2 from occurring.
 x1 fanta  x2 : x1 keeps event x2 from occurring.
@@ -1356,13 +1356,13 @@ x1 fanza  x2 : x1 bothers x2.
 x1 fanza  x2 : x1 distracts x2.
 x1 fapro  x3 x2 : x1 opposes opponent x2 about x3 .
 x1 fapro  x3 x2 : x1 balances opponent x2 about x3 .
-x1 fapro  x3 x2 : x1 contends_against opponent x2 about x3 .
-x1 farlu  x4 x3 x2 : x1 falls to x2 from x3 in gravity_well x4.
-x1 farlu  x4 x3 x2 : x1 falls to x2 from x3 in frame_of_reference x4.
-x1 farlu  x4 x3 x2 : x1 drops to x2 from x3 in gravity_well x4.
-x1 farlu  x4 x3 x2 : x1 drops to x2 from x3 in frame_of_reference x4.
-x1 farna  x3 x2 : x1 is the direction of x2 from_origin x3.
-x1 farna  x3 x2 : x1 is the direction of x2 in_frame_of_reference x3.
+x1 fapro  x3 x2 : x1 contends against opponent x2 about x3 .
+x1 farlu  x4 x3 x2 : x1 falls to x2 from x3 in gravity well x4.
+x1 farlu  x4 x3 x2 : x1 falls to x2 from x3 in frame of reference x4.
+x1 farlu  x4 x3 x2 : x1 drops to x2 from x3 in gravity well x4.
+x1 farlu  x4 x3 x2 : x1 drops to x2 from x3 in frame of reference x4.
+x1 farna  x3 x2 : x1 is the direction of x2 from origin x3.
+x1 farna  x3 x2 : x1 is the direction of x2 in frame of reference x3.
 x1 farvi  x4 x3 x2 : x1 develops towards x2 from x3 through stages x4.
 x1 farvi  x4 x3 x2 : x1 develops into x2 from x3 through stages x4.
 x1 farvi  x4 x3 x2 : x1 evolves towards x2 from x3 through stages x4.
@@ -1374,7 +1374,7 @@ x1 fatci  : x1 is a fact
 x1 fatci  : x1 is a reality
 x1 fatci  : x1 is a truth
 x1 fatci  : x1 is a actuality.
-x1 fatne  x2 : x1 is in_reverse_order from x2.
+x1 fatne  x2 : x1 is in reverse order from x2.
 x1 fatne  x2 : x1 is inverted from x2.
 x1 fatri  x3 x2 : x1 is distributed among x2 with shares x3
 x1 fatri  x3 x2 : x1 is distributed among x2 with portions x3
@@ -1406,7 +1406,7 @@ x1 fenki  x2 : x1 is crazy by standard x2.
 x1 fenki  x2 : x1 is insane by standard x2.
 x1 fenki  x2 : x1 is mad by standard x2.
 x1 fenki  x2 : x1 is frantic by standard x2.
-x1 fenki  x2 : x1 is in_a_frenzy by standard x2.
+x1 fenki  x2 : x1 is in a frenzy by standard x2.
 x1 fenra  x2 : x1 is a crack in x2.
 x1 fenra  x2 : x1 is a fissure in x2.
 x1 fenra  x2 : x1 is a pass in x2.
@@ -1481,12 +1481,12 @@ x1 fliba  x2 : x1 fails at doing x2
 x1 flira  x2 : x1 is a face of x2
 x1 flira  x2 : x1 is the face of x2
 x1 foldi  x2 : x1 is a field of material x2
-x1 fonmo  x3 x2 : x1 is_a_quantity_of foam of material x2, with bubbles of material x3.
-x1 fonmo  x3 x2 : x1 is_a_quantity_of foam of material x2, with vacuoles of material x3.
-x1 fonmo  x3 x2 : x1 is_a_quantity_of froth of material x2, with bubbles of material x3.
-x1 fonmo  x3 x2 : x1 is_a_quantity_of froth of material x2, with vacuoles of material x3.
-x1 fonmo  x3 x2 : x1 is_a_quantity_of suds of material x2, with bubbles of material x3.
-x1 fonmo  x3 x2 : x1 is_a_quantity_of suds of material x2, with vacuoles of material x3.
+x1 fonmo  x3 x2 : x1 is a quantity of foam of material x2, with bubbles of material x3.
+x1 fonmo  x3 x2 : x1 is a quantity of foam of material x2, with vacuoles of material x3.
+x1 fonmo  x3 x2 : x1 is a quantity of froth of material x2, with bubbles of material x3.
+x1 fonmo  x3 x2 : x1 is a quantity of froth of material x2, with vacuoles of material x3.
+x1 fonmo  x3 x2 : x1 is a quantity of suds of material x2, with bubbles of material x3.
+x1 fonmo  x3 x2 : x1 is a quantity of suds of material x2, with vacuoles of material x3.
 x1 fonxa  x2 : x1 is a telephone transceiver attached to system x2.
 x1 fonxa  x2 : x1 is a telephone transceiver attached to network x2.
 x1 fonxa  x2 : x1 is a telephone modem attached to system x2.
@@ -1495,10 +1495,10 @@ x1 forca  x4 x3 x2 : x1 is a fork for purpose x2 with tines x3 on base x4.
 x1 forca  x4 x3 x2 : x1 is a fork for purpose x2 with tines x3 on support x4.
 x1 forca  x4 x3 x2 : x1 is a fork for purpose x2 with prongs x3 on base x4.
 x1 forca  x4 x3 x2 : x1 is a fork for purpose x2 with prongs x3 on support x4.
-x1 forca  x4 x3 x2 : x1 is a fork-type_tool for purpose x2 with tines x3 on base x4.
-x1 forca  x4 x3 x2 : x1 is a fork-type_tool for purpose x2 with tines x3 on support x4.
-x1 forca  x4 x3 x2 : x1 is a fork-type_tool for purpose x2 with prongs x3 on base x4.
-x1 forca  x4 x3 x2 : x1 is a fork-type_tool for purpose x2 with prongs x3 on support x4.
+x1 forca  x4 x3 x2 : x1 is a fork-type tool for purpose x2 with tines x3 on base x4.
+x1 forca  x4 x3 x2 : x1 is a fork-type tool for purpose x2 with tines x3 on support x4.
+x1 forca  x4 x3 x2 : x1 is a fork-type tool for purpose x2 with prongs x3 on base x4.
+x1 forca  x4 x3 x2 : x1 is a fork-type tool for purpose x2 with prongs x3 on support x4.
 x1 fraso  x2 : x1 reflects French culture in aspect x2.
 x1 fraso  x2 : x1 reflects French nationality in aspect x2.
 x1 fraso  x2 : x1 reflects French language in aspect x2.
@@ -1514,15 +1514,15 @@ x1 fraxu  x3 x2 : x1 forgives x2 for activity x3.
 x1 frica  x3 x2 : x1 differs x2 in property x3.
 x1 frica  x3 x2 : x1 differs x2 in dimension x3.
 x1 frica  x3 x2 : x1 differs x2 in quantity x3.
-x1 frica  x3 x2 : x1 is_distinct_from x2 in property x3.
-x1 frica  x3 x2 : x1 is_distinct_from x2 in dimension x3.
-x1 frica  x3 x2 : x1 is_distinct_from x2 in quantity x3.
-x1 frica  x3 x2 : x1 contrasts_with x2 in property x3.
-x1 frica  x3 x2 : x1 contrasts_with x2 in dimension x3.
-x1 frica  x3 x2 : x1 contrasts_with x2 in quantity x3.
-x1 frica  x3 x2 : x1 is_unlike x2 in property x3.
-x1 frica  x3 x2 : x1 is_unlike x2 in dimension x3.
-x1 frica  x3 x2 : x1 is_unlike x2 in quantity x3.
+x1 frica  x3 x2 : x1 is distinct from x2 in property x3.
+x1 frica  x3 x2 : x1 is distinct from x2 in dimension x3.
+x1 frica  x3 x2 : x1 is distinct from x2 in quantity x3.
+x1 frica  x3 x2 : x1 contrasts with x2 in property x3.
+x1 frica  x3 x2 : x1 contrasts with x2 in dimension x3.
+x1 frica  x3 x2 : x1 contrasts with x2 in quantity x3.
+x1 frica  x3 x2 : x1 is unlike x2 in property x3.
+x1 frica  x3 x2 : x1 is unlike x2 in dimension x3.
+x1 frica  x3 x2 : x1 is unlike x2 in quantity x3.
 x1 friko  x2 : x1 reflects African culture in aspect x2.
 x1 friko  x2 : x1 reflects African nationality in aspect x2.
 x1 friko  x2 : x1 reflects African geography in aspect x2.
@@ -1565,12 +1565,12 @@ x1 galfi  x3 x2 : x1 alters x2 into x3.
 x1 galfi  x3 x2 : x1 changes x2 into x3.
 x1 galfi  x3 x2 : x1 transforms x2 into x3.
 x1 galfi  x3 x2 : x1 converts x2 into x3.
-x1 galtu  x3 x2 : x1 is high in frame_of_reference x2 as compared with baseline height x3.
-x1 galtu  x3 x2 : x1 is high in frame_of_reference x2 as compared with standard height x3.
-x1 galtu  x3 x2 : x1 is up in frame_of_reference x2 as compared with baseline height x3.
-x1 galtu  x3 x2 : x1 is up in frame_of_reference x2 as compared with standard height x3.
-x1 galtu  x3 x2 : x1 is upward in frame_of_reference x2 as compared with baseline height x3.
-x1 galtu  x3 x2 : x1 is upward in frame_of_reference x2 as compared with standard height x3.
+x1 galtu  x3 x2 : x1 is high in frame of reference x2 as compared with baseline height x3.
+x1 galtu  x3 x2 : x1 is high in frame of reference x2 as compared with standard height x3.
+x1 galtu  x3 x2 : x1 is up in frame of reference x2 as compared with baseline height x3.
+x1 galtu  x3 x2 : x1 is up in frame of reference x2 as compared with standard height x3.
+x1 galtu  x3 x2 : x1 is upward in frame of reference x2 as compared with baseline height x3.
+x1 galtu  x3 x2 : x1 is upward in frame of reference x2 as compared with standard height x3.
 x1 galxe  x2 : x1 is a throat of x2
 x1 galxe  x2 : x1 is a gullet of x2
 x1 galxe  x2 : x1 is the throat of x2
@@ -1579,8 +1579,8 @@ x1 ganlo  x3 x2 : x1 is closed preventing passage to x2 by x3 .
 x1 ganlo  x3 x2 : x1 is closed preventing access to x2 by x3 .
 x1 ganlo  x3 x2 : x1 is shut preventing passage to x2 by x3 .
 x1 ganlo  x3 x2 : x1 is shut preventing access to x2 by x3 .
-x1 ganlo  x3 x2 : x1 is not_open, preventing passage to x2 by x3 .
-x1 ganlo  x3 x2 : x1 is not_open, preventing access to x2 by x3 .
+x1 ganlo  x3 x2 : x1 is not open, preventing passage to x2 by x3 .
+x1 ganlo  x3 x2 : x1 is not open, preventing access to x2 by x3 .
 x1 ganra  x3 x2 : x1 is broad in dimension x2 by standard x3.
 x1 ganra  x3 x2 : x1 is wide in dimension x2 by standard x3.
 x1 ganse  x4 x3 x2 : x1 senses stimulus x2 by means x3 under conditions x4.
@@ -1603,11 +1603,11 @@ x1 ganti  x3 x2 : x1 is the gonad of x2 with gender x3.
 x1 ganti  x3 x2 : x1 is the stamen of x2 with gender x3.
 x1 ganti  x3 x2 : x1 is the pistil of x2 with gender x3.
 x1 ganxo  x2 : x1 is a anus of x2
-x1 ganxo  x2 : x1 is a anal_orifice of x2
+x1 ganxo  x2 : x1 is a anal orifice of x2
 x1 ganxo  x2 : x1 is a asshole of x2
 x1 ganxo  x2 : x1 is a arsehole of x2
 x1 ganxo  x2 : x1 is the anus of x2
-x1 ganxo  x2 : x1 is the anal_orifice of x2
+x1 ganxo  x2 : x1 is the anal orifice of x2
 x1 ganxo  x2 : x1 is the asshole of x2
 x1 ganxo  x2 : x1 is the arsehole of x2
 x1 ganzu  x4 x3 x2 : x1 organizes x2 into x3 by system x4.
@@ -1616,18 +1616,18 @@ x1 gapci  x3 x2 : x1 is gaseous of material including x2, under conditions x3.
 x1 gapci  x3 x2 : x1 is gaseous of composition including x2, under conditions x3.
 x1 gapci  x3 x2 : x1 is fumes of material including x2, under conditions x3.
 x1 gapci  x3 x2 : x1 is fumes of composition including x2, under conditions x3.
-x1 gapci  x3 x2 : x1 is a_gas of material including x2, under conditions x3.
-x1 gapci  x3 x2 : x1 is a_gas of composition including x2, under conditions x3.
+x1 gapci  x3 x2 : x1 is a gas of material including x2, under conditions x3.
+x1 gapci  x3 x2 : x1 is a gas of composition including x2, under conditions x3.
 x1 gapci  x3 x2 : x1 is vapor of material including x2, under conditions x3.
 x1 gapci  x3 x2 : x1 is vapor of composition including x2, under conditions x3.
 x1 gapru  x3 x2 : x1 is directly above x2 in gravity x3.
-x1 gapru  x3 x2 : x1 is directly above x2 in frame_of_reference x3.
+x1 gapru  x3 x2 : x1 is directly above x2 in frame of reference x3.
 x1 gapru  x3 x2 : x1 is directly upwards-from x2 in gravity x3.
-x1 gapru  x3 x2 : x1 is directly upwards-from x2 in frame_of_reference x3.
+x1 gapru  x3 x2 : x1 is directly upwards-from x2 in frame of reference x3.
 x1 gapru  x3 x2 : x1 is vertically above x2 in gravity x3.
-x1 gapru  x3 x2 : x1 is vertically above x2 in frame_of_reference x3.
+x1 gapru  x3 x2 : x1 is vertically above x2 in frame of reference x3.
 x1 gapru  x3 x2 : x1 is vertically upwards-from x2 in gravity x3.
-x1 gapru  x3 x2 : x1 is vertically upwards-from x2 in frame_of_reference x3.
+x1 gapru  x3 x2 : x1 is vertically upwards-from x2 in frame of reference x3.
 x1 garna  x3 x2 : x1 is a rail supporting x2, of material x3.
 x1 garna  x3 x2 : x1 is a rail restraining x2, of material x3.
 x1 garna  x3 x2 : x1 is a railing supporting x2, of material x3.
@@ -1635,8 +1635,8 @@ x1 garna  x3 x2 : x1 is a railing restraining x2, of material x3.
 x1 garna  x3 x2 : x1 is a bar supporting x2, of material x3.
 x1 garna  x3 x2 : x1 is a bar restraining x2, of material x3.
 x1 gasnu  x2 : x1 is an agentive cause of event x2
-x1 gasta  x2 : x1 is_a_quantity_of steel of composition including x2.
-x1 gasta  x2 : x1 is_made_of steel of composition including x2.
+x1 gasta  x2 : x1 is a quantity of steel of composition including x2.
+x1 gasta  x2 : x1 is made of steel of composition including x2.
 x1 gasta  x2 : x1 contains steel of composition including x2.
 x1 genja  x2 : x1 is a root of plant x2
 x1 genja  x2 : x1 is a root of species x2
@@ -1652,8 +1652,8 @@ x1 gerna  x3 x2 : x1 is the grammar of language x2 for structure x3.
 x1 gerna  x3 x2 : x1 is the grammar of language x2 for text x3.
 x1 gerna  x3 x2 : x1 is the rules of language x2 for structure x3.
 x1 gerna  x3 x2 : x1 is the rules of language x2 for text x3.
-x1 gerna  x3 x2 : x1 is the defining_form of language x2 for structure x3.
-x1 gerna  x3 x2 : x1 is the defining_form of language x2 for text x3.
+x1 gerna  x3 x2 : x1 is the defining form of language x2 for structure x3.
+x1 gerna  x3 x2 : x1 is the defining form of language x2 for text x3.
 x1 gidva  x3 x2 : x1 guides x2 in x3 .
 x1 gidva  x3 x2 : x1 guides x2 at x3 .
 x1 gidva  x3 x2 : x1 conducts x2 in x3 .
@@ -1679,8 +1679,8 @@ x1 gleki  x2 : x1 is gleeful about x2 .
 x1 gletu  x2 : x1 copulates with x2.
 x1 gletu  x2 : x1 fucks with x2.
 x1 gletu  x2 : x1 mates with x2.
-x1 gletu  x2 : x1 has_coitus with x2.
-x1 gletu  x2 : x1 has_sexual_intercourse with x2.
+x1 gletu  x2 : x1 has coitus with x2.
+x1 gletu  x2 : x1 has sexual intercourse with x2.
 x1 glico  x2 : x1 is English to English-speaking culture in aspect x2.
 x1 glico  x2 : x1 is pertains to English-speaking culture in aspect x2.
 x1 gluta  x2 : x1 is a mitten of material x2.
@@ -1703,28 +1703,28 @@ x1 grana  x2 : x1 is a pole of material x2.
 x1 grana  x2 : x1 is a staff of material x2.
 x1 grana  x2 : x1 is a stick of material x2.
 x1 grana  x2 : x1 is a cane of material x2.
-x1 grasu  x2 : x1 is_a_quantity_of grease from source x2.
-x1 grasu  x2 : x1 is_a_quantity_of fat from source x2.
-x1 grasu  x2 : x1 is_a_quantity_of oil from source x2.
-x1 grasu  x2 : x1 is_made_of grease from source x2.
-x1 grasu  x2 : x1 is_made_of fat from source x2.
-x1 grasu  x2 : x1 is_made_of oil from source x2.
+x1 grasu  x2 : x1 is a quantity of grease from source x2.
+x1 grasu  x2 : x1 is a quantity of fat from source x2.
+x1 grasu  x2 : x1 is a quantity of oil from source x2.
+x1 grasu  x2 : x1 is made of grease from source x2.
+x1 grasu  x2 : x1 is made of fat from source x2.
+x1 grasu  x2 : x1 is made of oil from source x2.
 x1 grasu  x2 : x1 contains grease from source x2.
 x1 grasu  x2 : x1 contains fat from source x2.
 x1 grasu  x2 : x1 contains oil from source x2.
 x1 greku  x2 : x1 is a frame of x2.
 x1 greku  x2 : x1 is a structure of x2.
 x1 greku  x2 : x1 is a skeleton of x2.
-x1 greku  x2 : x1 is a outline_supporting of x2.
+x1 greku  x2 : x1 is a outline supporting of x2.
 x1 greku  x2 : x1 is a load-bearing of x2.
-x1 greku  x2 : x1 is a determining_the_form of x2.
+x1 greku  x2 : x1 is a determining the form of x2.
 x1 grusi  : x1 is gray.
 x1 grute  x2 : x1 is a fruit of species x2.
-x1 gubni  x2 : x1 is public_to x2 .
-x1 gubni  x2 : x1 is un-hidden_to x2 .
-x1 gubni  x2 : x1 is open_to x2 .
-x1 gubni  x2 : x1 is jointly_available_to x2 .
-x1 gubni  x2 : x1 is owned_by_all_among_community x2 .
+x1 gubni  x2 : x1 is public to x2 .
+x1 gubni  x2 : x1 is un-hidden to x2 .
+x1 gubni  x2 : x1 is open to x2 .
+x1 gubni  x2 : x1 is jointly available to x2 .
+x1 gubni  x2 : x1 is owned by all among community x2 .
 x1 gugde  x3 x2 : x1 is the country of peoples x2 with land x3
 x1 gugde  x3 x2 : x1 is the country of peoples x2 with territory x3
 x1 gundi  x3 x2 : x1 is industry manufacturing activity producing x2 by process x3.
@@ -1759,8 +1759,8 @@ x1 gunta  x3 x2 : x1 attacks victim x2 with goal x3.
 x1 gunta  x3 x2 : x1 attacks victim x2 with objective x3.
 x1 gunta  x3 x2 : x1 invades victim x2 with goal x3.
 x1 gunta  x3 x2 : x1 invades victim x2 with objective x3.
-x1 gunta  x3 x2 : x1 commits_aggression_upon victim x2 with goal x3.
-x1 gunta  x3 x2 : x1 commits_aggression_upon victim x2 with objective x3.
+x1 gunta  x3 x2 : x1 commits aggression upon victim x2 with goal x3.
+x1 gunta  x3 x2 : x1 commits aggression upon victim x2 with objective x3.
 x1 gurni  x2 : x1 is grain from plant x2.
 x1 gurni  x2 : x1 is grain from species x2.
 x1 gurni  x2 : x1 is cereal from plant x2.
@@ -1794,21 +1794,21 @@ x1 jabre  x3 x2 : x1 brakes motion x2 with principle x3.
 x1 jabre  x3 x2 : x1 brakes activity x2 with device x3.
 x1 jabre  x3 x2 : x1 brakes activity x2 with mechanism x3.
 x1 jabre  x3 x2 : x1 brakes activity x2 with principle x3.
-x1 jabre  x3 x2 : x1 causes_to_slow motion x2 with device x3.
-x1 jabre  x3 x2 : x1 causes_to_slow motion x2 with mechanism x3.
-x1 jabre  x3 x2 : x1 causes_to_slow motion x2 with principle x3.
-x1 jabre  x3 x2 : x1 causes_to_slow activity x2 with device x3.
-x1 jabre  x3 x2 : x1 causes_to_slow activity x2 with mechanism x3.
-x1 jabre  x3 x2 : x1 causes_to_slow activity x2 with principle x3.
+x1 jabre  x3 x2 : x1 causes to slow motion x2 with device x3.
+x1 jabre  x3 x2 : x1 causes to slow motion x2 with mechanism x3.
+x1 jabre  x3 x2 : x1 causes to slow motion x2 with principle x3.
+x1 jabre  x3 x2 : x1 causes to slow activity x2 with device x3.
+x1 jabre  x3 x2 : x1 causes to slow activity x2 with mechanism x3.
+x1 jabre  x3 x2 : x1 causes to slow activity x2 with principle x3.
 x1 jadni  x2 : x1 adorns x2
 x1 jadni  x2 : x1 decorates x2
 x1 jakne  x3 x2 : x1 is a rocket propelled by jet expelling x2 carrying payload x3.
 x1 jalge  x2 : x1 is a result of antecedent x2 .
 x1 jalge  x2 : x1 is a outcome of antecedent x2 .
 x1 jalge  x2 : x1 is a conclusion of antecedent x2 .
-x1 jalna  x3 x2 : x1 is_a_quantity_of starch from source x2 of composition including x3.
+x1 jalna  x3 x2 : x1 is a quantity of starch from source x2 of composition including x3.
 x1 jalna  x3 x2 : x1 contains starch from source x2 of composition including x3.
-x1 jalna  x3 x2 : x1 is_made_of starch from source x2 of composition including x3.
+x1 jalna  x3 x2 : x1 is made of starch from source x2 of composition including x3.
 x1 jalra  x2 : x1 is a cockroach of order x2.
 x1 jalra  x2 : x1 is a cockroach of species x2.
 x1 jalra  x2 : x1 is a cockroach of breed x2.
@@ -1838,10 +1838,10 @@ x1 janco  x3 x2 : x1 is the hip attaching limb x2 to body x3.
 x1 janco  x3 x2 : x1 is the hip attaching extremity x2 to body x3.
 x1 janco  x3 x2 : x1 is the joint attaching limb x2 to body x3.
 x1 janco  x3 x2 : x1 is the joint attaching extremity x2 to body x3.
-x1 janli  x2 : x1 collides_with x2.
-x1 janli  x2 : x1 crashes_into x2.
-x1 janli  x2 : x1 bumps_into x2.
-x1 janli  x2 : x1 runs_into x2.
+x1 janli  x2 : x1 collides with x2.
+x1 janli  x2 : x1 crashes into x2.
+x1 janli  x2 : x1 bumps into x2.
+x1 janli  x2 : x1 runs into x2.
 x1 jansu  x4 x3 x2 : x1 is a diplomat representing polity x2 in negotiation x3 for function x4.
 x1 jansu  x4 x3 x2 : x1 is a diplomat representing polity x2 in negotiation x3 for purpose x4.
 x1 jansu  x4 x3 x2 : x1 is a diplomat representing polity x2 at negotiation x3 for function x4.
@@ -1925,10 +1925,10 @@ x1 jdima  x4 x3 x2 : x1 is the price of x2 to purchaser x3 set by vendor x4.
 x1 jdima  x4 x3 x2 : x1 is the price of x2 to consumer x3 set by vendor x4.
 x1 jdini  x2 : x1 is money issued by x2
 x1 jdini  x2 : x1 is currency issued by x2
-x1 jduli  x2 : x1 is_a_quantity_of jelly of material including x2.
-x1 jduli  x2 : x1 is_a_quantity_of jelly of composition including x2.
-x1 jduli  x2 : x1 is_a_quantity_of semisolid of material including x2.
-x1 jduli  x2 : x1 is_a_quantity_of semisolid of composition including x2.
+x1 jduli  x2 : x1 is a quantity of jelly of material including x2.
+x1 jduli  x2 : x1 is a quantity of jelly of composition including x2.
+x1 jduli  x2 : x1 is a quantity of semisolid of material including x2.
+x1 jduli  x2 : x1 is a quantity of semisolid of composition including x2.
 x1 jecta  x2 : x1 is a polity governing territory x2
 x1 jecta  x2 : x1 is a polity governing domain x2
 x1 jecta  x2 : x1 is a state governing territory x2
@@ -2030,18 +2030,18 @@ x1 jicmu  x2 : x1 is a underlying or fundamental principle of x2
 x1 jijnu  x3 x2 : x1 intuits x2 about subject x3
 x1 jikca  x2 : x1 interacts socially with x2
 x1 jikca  x2 : x1 behaves socially with x2
-x1 jikru  x2 : x1 is_made_of liquor distilled from x2.
-x1 jikru  x2 : x1 is_made_of spirits distilled from x2.
+x1 jikru  x2 : x1 is made of liquor distilled from x2.
+x1 jikru  x2 : x1 is made of spirits distilled from x2.
 x1 jikru  x2 : x1 contains liquor distilled from x2.
 x1 jikru  x2 : x1 contains spirits distilled from x2.
-x1 jikru  x2 : x1 is_a_quantity_of liquor distilled from x2.
-x1 jikru  x2 : x1 is_a_quantity_of spirits distilled from x2.
-x1 jilka  x2 : x1 is_a_quantity_of alkali of composition including x2.
-x1 jilka  x2 : x1 is_a_quantity_of base of composition including x2.
+x1 jikru  x2 : x1 is a quantity of liquor distilled from x2.
+x1 jikru  x2 : x1 is a quantity of spirits distilled from x2.
+x1 jilka  x2 : x1 is a quantity of alkali of composition including x2.
+x1 jilka  x2 : x1 is a quantity of base of composition including x2.
 x1 jilka  x2 : x1 contains alkali of composition including x2.
 x1 jilka  x2 : x1 contains base of composition including x2.
-x1 jilka  x2 : x1 is_made_of alkali of composition including x2.
-x1 jilka  x2 : x1 is_made_of base of composition including x2.
+x1 jilka  x2 : x1 is made of alkali of composition including x2.
+x1 jilka  x2 : x1 is made of base of composition including x2.
 x1 jilra  x3 x2 : x1 is jealous of x2 about x3 .
 x1 jilra  x3 x2 : x1 is jealous of x2 for x3 .
 x1 jilra  x3 x2 : x1 is jealous envies x2 about x3 .
@@ -2069,9 +2069,9 @@ x1 jinga  x4 x3 x2 : x1 gains prize x2 from x3 in competition x4.
 x1 jinga  x4 x3 x2 : x1 gains prize x2 over x3 in competition x4.
 x1 jinku  x4 x3 x2 : x1 is a vaccine stimulant protecting x2 against disease x3 introduced by method x4.
 x1 jinku  x4 x3 x2 : x1 is a immune-system stimulant protecting x2 against disease x3 introduced by method x4.
-x1 jinme  x2 : x1 is_a_quantity_of made of metal of composition including x2.
+x1 jinme  x2 : x1 is a quantity of made of metal of composition including x2.
 x1 jinme  x2 : x1 contains made of metal of composition including x2.
-x1 jinme  x2 : x1 is_made_of made of metal of composition including x2.
+x1 jinme  x2 : x1 is made of made of metal of composition including x2.
 x1 jinru  x2 : x1 is immersed in liquid x2.
 x1 jinru  x2 : x1 is submerged in liquid x2.
 x1 jinru  x2 : x1 is bathes in liquid x2.
@@ -2110,18 +2110,18 @@ x1 jipno  x3 x2 : x1 is a extremity on object x2 at locus x3.
 x1 jipno  x3 x2 : x1 is a end on object x2 at locus x3.
 x1 jirna  x2 : x1 is a horn of x2
 x1 jirna  x2 : x1 is the horn of x2
-x1 jisra  x2 : x1 is_made_of juice from-source x2.
-x1 jisra  x2 : x1 is_made_of juice of-type x2.
-x1 jisra  x2 : x1 is_made_of nectar from-source x2.
-x1 jisra  x2 : x1 is_made_of nectar of-type x2.
+x1 jisra  x2 : x1 is made of juice from-source x2.
+x1 jisra  x2 : x1 is made of juice of-type x2.
+x1 jisra  x2 : x1 is made of nectar from-source x2.
+x1 jisra  x2 : x1 is made of nectar of-type x2.
 x1 jisra  x2 : x1 contains juice from-source x2.
 x1 jisra  x2 : x1 contains juice of-type x2.
 x1 jisra  x2 : x1 contains nectar from-source x2.
 x1 jisra  x2 : x1 contains nectar of-type x2.
-x1 jisra  x2 : x1 is_a_quantity_of juice from-source x2.
-x1 jisra  x2 : x1 is_a_quantity_of juice of-type x2.
-x1 jisra  x2 : x1 is_a_quantity_of nectar from-source x2.
-x1 jisra  x2 : x1 is_a_quantity_of nectar of-type x2.
+x1 jisra  x2 : x1 is a quantity of juice from-source x2.
+x1 jisra  x2 : x1 is a quantity of juice of-type x2.
+x1 jisra  x2 : x1 is a quantity of nectar from-source x2.
+x1 jisra  x2 : x1 is a quantity of nectar of-type x2.
 x1 jitfa  x2 : x1 is false an untruth by standard x2.
 x1 jitfa  x2 : x1 is false an untruth by epistemology x2.
 x1 jitfa  x2 : x1 is false an untruth by metaphysics x2.
@@ -2397,9 +2397,9 @@ x1 kevna  x2 : x1 is a hole in x2
 x1 kevna  x2 : x1 is a hollow in x2
 x1 kevna  x2 : x1 is a cavern in x2
 x1 kicne  x3 x2 : x1 cushions x2 with material x3
-x1 kijno  : x1 is_a_quantity_of oxygen
+x1 kijno  : x1 is a quantity of oxygen
 x1 kijno  : x1 contains oxygen
-x1 kijno  : x1 is_made_of oxygen
+x1 kijno  : x1 is made of oxygen
 x1 kilto  x3 x2 : x1 is a thousand of x2 in dimension x3 .
 x1 kilto  x3 x2 : x1 is a thousand of x2 in aspect x3 .
 x1 kinli  x2 : x1 is sharp at locus x2.
@@ -2435,40 +2435,40 @@ x1 klesi  x3 x2 : x1 is a subset within x2 with defining property x3 .
 x1 klina  x2 : x1 is clear obstacle to in-the-clear x2 .
 x1 klina  x2 : x1 is transparent obstacle to in-the-clear x2 .
 x1 klina  x2 : x1 is without obstacle to in-the-clear x2 .
-x1 kliru  x2 : x1 is_a_quantity_of halogen of type x2 .
+x1 kliru  x2 : x1 is a quantity of halogen of type x2 .
 x1 kliru  x2 : x1 contains halogen of type x2 .
-x1 kliru  x2 : x1 is_made_of halogen of type x2 .
-x1 kliti  x2 : x1 is_a_quantity_of clay of composition including x2.
+x1 kliru  x2 : x1 is made of halogen of type x2 .
+x1 kliti  x2 : x1 is a quantity of clay of composition including x2.
 x1 kliti  x2 : x1 contains clay of composition including x2.
-x1 kliti  x2 : x1 is_made_of clay of composition including x2.
+x1 kliti  x2 : x1 is made of clay of composition including x2.
 x1 klupe  x4 x3 x2 : x1 is a screw for purpose x2, threads x3, frame x4.
 x1 kluza  x3 x2 : x1 is loose tight on x2 at locus x3.
 x1 kluza  x3 x2 : x1 is bloused tight on x2 at locus x3.
 x1 kluza  x3 x2 : x1 is not tight on x2 at locus x3.
-x1 kobli  x2 : x1 is_a_quantity_of cabbage vegetable of species x2.
-x1 kobli  x2 : x1 is_a_quantity_of cabbage vegetable of strain x2.
-x1 kobli  x2 : x1 is_a_quantity_of lettuce vegetable of species x2.
-x1 kobli  x2 : x1 is_a_quantity_of lettuce vegetable of strain x2.
-x1 kobli  x2 : x1 is_a_quantity_of leafy vegetable of species x2.
-x1 kobli  x2 : x1 is_a_quantity_of leafy vegetable of strain x2.
+x1 kobli  x2 : x1 is a quantity of cabbage vegetable of species x2.
+x1 kobli  x2 : x1 is a quantity of cabbage vegetable of strain x2.
+x1 kobli  x2 : x1 is a quantity of lettuce vegetable of species x2.
+x1 kobli  x2 : x1 is a quantity of lettuce vegetable of strain x2.
+x1 kobli  x2 : x1 is a quantity of leafy vegetable of species x2.
+x1 kobli  x2 : x1 is a quantity of leafy vegetable of strain x2.
 x1 kojna  x3 x2 : x1 is a corner angle in x2, of material x3.
 x1 kojna  x3 x2 : x1 is a corner angle on x2, of material x3.
 x1 kojna  x3 x2 : x1 is a point angle in x2, of material x3.
 x1 kojna  x3 x2 : x1 is a point angle on x2, of material x3.
 x1 kojna  x3 x2 : x1 is a at-least-3-dimensional angle in x2, of material x3.
 x1 kojna  x3 x2 : x1 is a at-least-3-dimensional angle on x2, of material x3.
-x1 kolme  x2 : x1 is_a_quantity_of coal from source x2.
-x1 kolme  x2 : x1 is_a_quantity_of peat from source x2.
-x1 kolme  x2 : x1 is_a_quantity_of anthracite from source x2.
-x1 kolme  x2 : x1 is_a_quantity_of bitumen from source x2.
+x1 kolme  x2 : x1 is a quantity of coal from source x2.
+x1 kolme  x2 : x1 is a quantity of peat from source x2.
+x1 kolme  x2 : x1 is a quantity of anthracite from source x2.
+x1 kolme  x2 : x1 is a quantity of bitumen from source x2.
 x1 kolme  x2 : x1 contains coal from source x2.
 x1 kolme  x2 : x1 contains peat from source x2.
 x1 kolme  x2 : x1 contains anthracite from source x2.
 x1 kolme  x2 : x1 contains bitumen from source x2.
-x1 kolme  x2 : x1 is_made_of coal from source x2.
-x1 kolme  x2 : x1 is_made_of peat from source x2.
-x1 kolme  x2 : x1 is_made_of anthracite from source x2.
-x1 kolme  x2 : x1 is_made_of bitumen from source x2.
+x1 kolme  x2 : x1 is made of coal from source x2.
+x1 kolme  x2 : x1 is made of peat from source x2.
+x1 kolme  x2 : x1 is made of anthracite from source x2.
+x1 kolme  x2 : x1 is made of bitumen from source x2.
 x1 komcu  x3 x2 : x1 is a comb of material x2 with tines x3.
 x1 komcu  x3 x2 : x1 is a comb of material x2 with needles x3.
 x1 konju  x3 x2 : x1 is a cone of material x2 with vertex x3.
@@ -2488,18 +2488,18 @@ x1 korcu  : x1 is crooked straight or direct
 x1 korcu  : x1 is crooked straight or folded.
 x1 korcu  : x1 is not straight or direct
 x1 korcu  : x1 is not straight or folded.
-x1 korka  x2 : x1 is_a_quantity_of cork from tree x2
-x1 korka  x2 : x1 is_a_quantity_of cork from species x2
-x1 korka  x2 : x1 is_a_quantity_of bark from tree x2
-x1 korka  x2 : x1 is_a_quantity_of bark from species x2
+x1 korka  x2 : x1 is a quantity of cork from tree x2
+x1 korka  x2 : x1 is a quantity of cork from species x2
+x1 korka  x2 : x1 is a quantity of bark from tree x2
+x1 korka  x2 : x1 is a quantity of bark from species x2
 x1 korka  x2 : x1 contains cork from tree x2
 x1 korka  x2 : x1 contains cork from species x2
 x1 korka  x2 : x1 contains bark from tree x2
 x1 korka  x2 : x1 contains bark from species x2
-x1 korka  x2 : x1 is_made_of cork from tree x2
-x1 korka  x2 : x1 is_made_of cork from species x2
-x1 korka  x2 : x1 is_made_of bark from tree x2
-x1 korka  x2 : x1 is_made_of bark from species x2
+x1 korka  x2 : x1 is made of cork from tree x2
+x1 korka  x2 : x1 is made of cork from species x2
+x1 korka  x2 : x1 is made of bark from tree x2
+x1 korka  x2 : x1 is made of bark from species x2
 x1 kosta  x2 : x1 is a coat of material x2.
 x1 kosta  x2 : x1 is a jacket of material x2.
 x1 kosta  x2 : x1 is a sweater of material x2.
@@ -2527,12 +2527,12 @@ x1 krici  x3 x2 : x1 believes belief x2 is true about subject x3.
 x1 krici  x3 x2 : x1 believes belief x2 is assumed about subject x3.
 x1 krici  x3 x2 : x1 believes creed x2 is true about subject x3.
 x1 krici  x3 x2 : x1 believes creed x2 is assumed about subject x3.
-x1 krili  x3 x2 : x1 is_a_quantity_of crystal of composition x2 in form x3.
-x1 krili  x3 x2 : x1 is_a_quantity_of crystal of composition x2 in arrangement x3.
+x1 krili  x3 x2 : x1 is a quantity of crystal of composition x2 in form x3.
+x1 krili  x3 x2 : x1 is a quantity of crystal of composition x2 in arrangement x3.
 x1 krili  x3 x2 : x1 contains crystal of composition x2 in form x3.
 x1 krili  x3 x2 : x1 contains crystal of composition x2 in arrangement x3.
-x1 krili  x3 x2 : x1 is_made_of crystal of composition x2 in form x3.
-x1 krili  x3 x2 : x1 is_made_of crystal of composition x2 in arrangement x3.
+x1 krili  x3 x2 : x1 is made of crystal of composition x2 in form x3.
+x1 krili  x3 x2 : x1 is made of crystal of composition x2 in arrangement x3.
 x1 krinu  x2 : x1 is a reason for x2 .
 x1 krinu  x2 : x1 is a reason causing x2 .
 x1 krinu  x2 : x1 is a reason permitting x2 .
@@ -2548,15 +2548,15 @@ x1 krixa  x2 : x1 cries howls sound x2
 x1 kruca  x3 x2 : x1 intersects x2 at locus x3.
 x1 kruca  x3 x2 : x1 crosses x2 at locus x3.
 x1 kruca  x3 x2 : x1 traverses x2 at locus x3.
-x1 kruji  x2 : x1 is_made_of cream of composition x2.
-x1 kruji  x2 : x1 is_made_of emulsion of composition x2.
-x1 kruji  x2 : x1 is_made_of puree of composition x2.
+x1 kruji  x2 : x1 is made of cream of composition x2.
+x1 kruji  x2 : x1 is made of emulsion of composition x2.
+x1 kruji  x2 : x1 is made of puree of composition x2.
 x1 kruji  x2 : x1 contains cream of composition x2.
 x1 kruji  x2 : x1 contains emulsion of composition x2.
 x1 kruji  x2 : x1 contains puree of composition x2.
-x1 kruji  x2 : x1 is_a_quantity_of cream of composition x2.
-x1 kruji  x2 : x1 is_a_quantity_of emulsion of composition x2.
-x1 kruji  x2 : x1 is_a_quantity_of puree of composition x2.
+x1 kruji  x2 : x1 is a quantity of cream of composition x2.
+x1 kruji  x2 : x1 is a quantity of emulsion of composition x2.
+x1 kruji  x2 : x1 is a quantity of puree of composition x2.
 x1 kruvi  x4 x3 x2 : x1 is a curve in x2, at locus x3, and defined by set of points x4.
 x1 kruvi  x4 x3 x2 : x1 is a curve in x2, at locus x3, and defined by set of properties x4.
 x1 kruvi  x4 x3 x2 : x1 is a turn in x2, at locus x3, and defined by set of points x4.
@@ -2760,9 +2760,9 @@ x1 lacri  x3 x2 : x1 counts on x2 to bring maintain x3 .
 x1 lacri  x3 x2 : x1 counts trusts x2 to bring about x3 .
 x1 lacri  x3 x2 : x1 counts trusts x2 to bring ensure x3 .
 x1 lacri  x3 x2 : x1 counts trusts x2 to bring maintain x3 .
-x1 ladru  x2 : x1 is_made_of milk from source x2
+x1 ladru  x2 : x1 is made of milk from source x2
 x1 ladru  x2 : x1 contains milk from source x2
-x1 ladru  x2 : x1 is_a_quantity_of milk from source x2
+x1 ladru  x2 : x1 is a quantity of milk from source x2
 x1 lafti  x4 x3 x2 : x1 lifts raising force to x2 at locus x3 in gravity well x4.
 x1 lafti  x4 x3 x2 : x1 lifts supporting force to x2 at locus x3 in gravity well x4.
 x1 lafti  x4 x3 x2 : x1 applies raising force to x2 at locus x3 in gravity well x4.
@@ -2788,8 +2788,8 @@ x1 lamji  x4 x3 x2 : x1 is next to contact with x2 in property x3 in direction x
 x1 lamji  x4 x3 x2 : x1 is next to contact with x2 in sequence x3 in direction x4.
 x1 lamji  x4 x3 x2 : x1 is next in contact with x2 in property x3 in direction x4.
 x1 lamji  x4 x3 x2 : x1 is next in contact with x2 in sequence x3 in direction x4.
-x1 lanbi  x3 x2 : x1 is_a_quantity_of protein of type x2 composed of amino acids x3 .
-x1 lanbi  x3 x2 : x1 is_a_quantity_of albumin of type x2 composed of amino acids x3 .
+x1 lanbi  x3 x2 : x1 is a quantity of protein of type x2 composed of amino acids x3 .
+x1 lanbi  x3 x2 : x1 is a quantity of albumin of type x2 composed of amino acids x3 .
 x1 lanci  x4 x3 x2 : x1 is a flag of x2 with pattern x3 on material x4.
 x1 lanci  x4 x3 x2 : x1 is a flag symbolizing x2 with pattern x3 on material x4.
 x1 lanci  x4 x3 x2 : x1 is a banner of x2 with pattern x3 on material x4.
@@ -2821,9 +2821,9 @@ x1 lasna  x4 x3 x2 : x1 connects x2 to x3 with fastener x4.
 x1 lasna  x4 x3 x2 : x1 attaches x2 to x3 with fastener x4.
 x1 lasna  x4 x3 x2 : x1 binds x2 to x3 with fastener x4.
 x1 lasna  x4 x3 x2 : x1 lashes x2 to x3 with fastener x4.
-x1 lastu  x2 : x1 is_a_quantity_of brass of composition including x2.
+x1 lastu  x2 : x1 is a quantity of brass of composition including x2.
 x1 lastu  x2 : x1 contains brass of composition including x2.
-x1 lastu  x2 : x1 is_made_of brass of composition including x2.
+x1 lastu  x2 : x1 is made of brass of composition including x2.
 x1 latmo  x2 : x1 reflects Latin culture in aspect x2.
 x1 latmo  x2 : x1 reflects Latin empire in aspect x2.
 x1 latmo  x2 : x1 reflects Latin language in aspect x2.
@@ -2970,17 +2970,17 @@ x1 lunsa  x4 x3 x2 : x1 condenses on x2 at temperature x3, pressure x4
 x1 lunsa  x4 x3 x2 : x1 condenses into x2 at temperature x3, pressure x4
 x1 lunsa  x4 x3 x2 : x1 liquefies on x2 at temperature x3, pressure x4
 x1 lunsa  x4 x3 x2 : x1 liquefies into x2 at temperature x3, pressure x4
-x1 mabla  : $x_1$ is execrable in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is deplorable in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is wretched in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is shitty in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is awful in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is rotten in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is miserable in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is contemptible in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is crappy in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is inferior in property $x_2$ by standard $x_3$
-x1 mabla  : $x_1$ is low-quality in property $x_2$ by standard $x_3$
+x1 mabla  : $x 1$ is execrable in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is deplorable in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is wretched in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is shitty in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is awful in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is rotten in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is miserable in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is contemptible in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is crappy in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is inferior in property $x 2$ by standard $x 3$
+x1 mabla  : $x 1$ is low-quality in property $x 2$ by standard $x 3$
 x1 mabru  x2 : x1 is a mammal of species x2.
 x1 mabru  x2 : x1 is a 'animal' of species x2.
 x1 mabru  x2 : x1 is a beast of species x2.
@@ -3023,12 +3023,12 @@ x1 manfo  x2 : x1 is uniform in property x2 .
 x1 manfo  x2 : x1 is homogeneous in property x2 .
 x1 manku  : x1 is dark in illumination.
 x1 manku  : x1 is lacking in illumination.
-x1 manri  x3 x2 : x1 is a frame_of_reference for observing x2, with rules x3.
-x1 manri  x3 x2 : x1 is a frame_of_reference for observing x2, by rules x3.
-x1 manri  x3 x2 : x1 is a frame_of_reference for measuring x2, with rules x3.
-x1 manri  x3 x2 : x1 is a frame_of_reference for measuring x2, by rules x3.
-x1 manri  x3 x2 : x1 is a frame_of_reference for determining x2, with rules x3.
-x1 manri  x3 x2 : x1 is a frame_of_reference for determining x2, by rules x3.
+x1 manri  x3 x2 : x1 is a frame of reference for observing x2, with rules x3.
+x1 manri  x3 x2 : x1 is a frame of reference for observing x2, by rules x3.
+x1 manri  x3 x2 : x1 is a frame of reference for measuring x2, with rules x3.
+x1 manri  x3 x2 : x1 is a frame of reference for measuring x2, by rules x3.
+x1 manri  x3 x2 : x1 is a frame of reference for determining x2, with rules x3.
+x1 manri  x3 x2 : x1 is a frame of reference for determining x2, by rules x3.
 x1 manri  x3 x2 : x1 is a standard for observing x2, with rules x3.
 x1 manri  x3 x2 : x1 is a standard for observing x2, by rules x3.
 x1 manri  x3 x2 : x1 is a standard for measuring x2, with rules x3.
@@ -3044,9 +3044,9 @@ x1 mapku  x2 : x1 is a hat of headgear of material x2.
 x1 mapku  x2 : x1 is a crown of headgear of material x2.
 x1 mapku  x2 : x1 is a helmet of headgear of material x2.
 x1 mapku  x2 : x1 is a piece of headgear of material x2.
-x1 mapni  : x1 is_a_quantity_of cotton .
+x1 mapni  : x1 is a quantity of cotton .
 x1 mapni  : x1 contains cotton .
-x1 mapni  : x1 is_made_of cotton .
+x1 mapni  : x1 is made of cotton .
 x1 mapti  x3 x2 : x1 fits compatible to x2 in property x3.
 x1 mapti  x3 x2 : x1 fits compatible to x2 in aspect x3.
 x1 mapti  x3 x2 : x1 fits compatible with x2 in property x3.
@@ -3129,8 +3129,8 @@ x1 marde  x3 x2 : x1 are the morals standards standards of x2 about situation x3
 x1 marde  x3 x2 : x1 are the morals ethical standards of x2 about situation x3.
 x1 marde  x3 x2 : x1 are the moral standards standards of x2 about situation x3.
 x1 marde  x3 x2 : x1 are the moral ethical standards of x2 about situation x3.
-x1 margu  : x1 is_a_quantity_of of mercury
-x1 margu  : x1 is_a_quantity_of of quicksilver
+x1 margu  : x1 is a quantity of of mercury
+x1 margu  : x1 is a quantity of of quicksilver
 x1 margu  : x1 contains of mercury
 x1 margu  : x1 contains of quicksilver
 x1 margu  : x1 made of mercury
@@ -3147,12 +3147,12 @@ x1 marji  x3 x2 : x1 is matter of type including x2 in shape x3.
 x1 marji  x3 x2 : x1 is matter of type including x2 in form x3.
 x1 marji  x3 x2 : x1 is matter of composition including x2 in shape x3.
 x1 marji  x3 x2 : x1 is matter of composition including x2 in form x3.
-x1 marna  x2 : x1 is_a_quantity_of hemp of species x2.
-x1 marna  x2 : x1 is_a_quantity_of hemp of strain x2.
-x1 marna  x2 : x1 is_a_quantity_of marijuana of species x2.
-x1 marna  x2 : x1 is_a_quantity_of marijuana of strain x2.
-x1 marna  x2 : x1 is_a_quantity_of jute of species x2.
-x1 marna  x2 : x1 is_a_quantity_of jute of strain x2.
+x1 marna  x2 : x1 is a quantity of hemp of species x2.
+x1 marna  x2 : x1 is a quantity of hemp of strain x2.
+x1 marna  x2 : x1 is a quantity of marijuana of species x2.
+x1 marna  x2 : x1 is a quantity of marijuana of strain x2.
+x1 marna  x2 : x1 is a quantity of jute of species x2.
+x1 marna  x2 : x1 is a quantity of jute of strain x2.
 x1 marxa  x3 x2 : x1 mashes x2 into pulp mass x3.
 x1 marxa  x3 x2 : x1 mashes x2 into mash mass x3.
 x1 marxa  x3 x2 : x1 mashes x2 into crumbs mass x3.
@@ -3180,16 +3180,16 @@ x1 matci  x2 : x1 is a mat of material x2.
 x1 matci  x2 : x1 is a pad of material x2.
 x1 matci  x2 : x1 is a mattress of material x2.
 x1 matci  x2 : x1 is a pallet of material x2.
-x1 matli  : x1 is_a_quantity_of linen .
-x1 matli  : x1 is_a_quantity_of flax .
+x1 matli  : x1 is a quantity of linen .
+x1 matli  : x1 is a quantity of flax .
 x1 matli  : x1 contains linen .
 x1 matli  : x1 contains flax .
-x1 matli  : x1 is_made_of linen .
-x1 matli  : x1 is_made_of flax .
-x1 matne  x2 : x1 is_a_quantity_of butter from source x2.
-x1 matne  x2 : x1 is_a_quantity_of oleo from source x2.
-x1 matne  x2 : x1 is_a_quantity_of margarine from source x2.
-x1 matne  x2 : x1 is_a_quantity_of shortening from source x2.
+x1 matli  : x1 is made of linen .
+x1 matli  : x1 is made of flax .
+x1 matne  x2 : x1 is a quantity of butter from source x2.
+x1 matne  x2 : x1 is a quantity of oleo from source x2.
+x1 matne  x2 : x1 is a quantity of margarine from source x2.
+x1 matne  x2 : x1 is a quantity of shortening from source x2.
 x1 matne  x2 : x1 contains butter from source x2.
 x1 matne  x2 : x1 contains oleo from source x2.
 x1 matne  x2 : x1 contains margarine from source x2.
@@ -3200,10 +3200,10 @@ x1 matra  x2 : x1 is a motor providing power to x2.
 x1 matra  x2 : x1 is a engine, driving power to x2.
 x1 matra  x2 : x1 is a engine, propelling power to x2.
 x1 matra  x2 : x1 is a engine, providing power to x2.
-x1 mavji  x2 : x1 is_a_quantity_of oats of species x2.
-x1 mavji  x2 : x1 is_a_quantity_of oats of strain x2.
-x1 maxri  x2 : x1 is_a_quantity_of wheat of species x2.
-x1 maxri  x2 : x1 is_a_quantity_of wheat of strain x2.
+x1 mavji  x2 : x1 is a quantity of oats of species x2.
+x1 mavji  x2 : x1 is a quantity of oats of strain x2.
+x1 maxri  x2 : x1 is a quantity of wheat of species x2.
+x1 maxri  x2 : x1 is a quantity of wheat of strain x2.
 x1 mebri  x2 : x1 is a brow of x2.
 x1 mebri  x2 : x1 is a forehead of x2.
 x1 mebri  x2 : x1 is the brow of x2.
@@ -3379,8 +3379,8 @@ x1 morsi  : x1 is dead ceased to be alive.
 x1 morsi  : x1 is has ceased to be alive.
 x1 mosra  x3 x2 : x1 is friction due to contact between x2 and x3
 x1 mosra  x3 x2 : x1 is friction due to rubbing between x2 and x3
-x1 mraji  x2 : x1 is_a_quantity_of rye of species x2.
-x1 mraji  x2 : x1 is_a_quantity_of rye of strain x2.
+x1 mraji  x2 : x1 is a quantity of rye of species x2.
+x1 mraji  x2 : x1 is a quantity of rye of strain x2.
 x1 mrilu  x5 x4 x3 x2 : x1 mails x2 to recipient address x3 from mailbox office address x4 by carrier x5.
 x1 mrilu  x5 x4 x3 x2 : x1 mails x2 to recipient address x3 from mailbox office address x4 by network x5.
 x1 mrilu  x5 x4 x3 x2 : x1 mails x2 to recipient address x3 from mailbox office address x4 by system x5.
@@ -3413,14 +3413,14 @@ x1 mucti  : x1 is immaterial physical material form.
 x1 mucti  : x1 is immaterial without material form.
 x1 mucti  : x1 is not physical material form.
 x1 mucti  : x1 is not without material form.
-x1 mudri  x2 : x1 is_a_quantity_of wood from tree of type x2.
-x1 mudri  x2 : x1 is_a_quantity_of wood from tree of species x2.
-x1 mudri  x2 : x1 is_a_quantity_of lumber from tree of type x2.
-x1 mudri  x2 : x1 is_a_quantity_of lumber from tree of species x2.
-x1 mudri  x2 : x1 is_made_of wood from tree of type x2.
-x1 mudri  x2 : x1 is_made_of wood from tree of species x2.
-x1 mudri  x2 : x1 is_made_of lumber from tree of type x2.
-x1 mudri  x2 : x1 is_made_of lumber from tree of species x2.
+x1 mudri  x2 : x1 is a quantity of wood from tree of type x2.
+x1 mudri  x2 : x1 is a quantity of wood from tree of species x2.
+x1 mudri  x2 : x1 is a quantity of lumber from tree of type x2.
+x1 mudri  x2 : x1 is a quantity of lumber from tree of species x2.
+x1 mudri  x2 : x1 is made of wood from tree of type x2.
+x1 mudri  x2 : x1 is made of wood from tree of species x2.
+x1 mudri  x2 : x1 is made of lumber from tree of type x2.
+x1 mudri  x2 : x1 is made of lumber from tree of species x2.
 x1 mudri  x2 : x1 contains wood from tree of type x2.
 x1 mudri  x2 : x1 contains wood from tree of species x2.
 x1 mudri  x2 : x1 contains lumber from tree of type x2.
@@ -3490,7 +3490,7 @@ x1 namcu  : x1 is a quantifier
 x1 namcu  : x1 is a digit
 x1 namcu  : x1 is a value
 x1 namcu  : x1 is a figure
-x1 nanba  x2 : x1 is_a_quantity_of bread made from grains x2.
+x1 nanba  x2 : x1 is a quantity of bread made from grains x2.
 x1 nanba  x2 : x1 contains bread made from grains x2.
 x1 nanca  x3 x2 : x1 is x2 years in duration by standard x3
 x1 nandu  x3 x2 : x1 is difficult for x2 under conditions x3
@@ -3517,9 +3517,9 @@ x1 natfe  x3 x2 : x1 negates x2 under rules x3.
 x1 natfe  x3 x2 : x1 negates x2 under logic x3.
 x1 natmi  x2 : x1 is a nation group of peoples x2
 x1 natmi  x2 : x1 is a ethnic group of peoples x2
-x1 navni  : $x_1$ is_a_quantity_of noble gas of type $x_2$ .
-x1 navni  : $x_1$ contains noble gas of type $x_2$ .
-x1 navni  : $x_1$ is_made_of noble gas of type $x_2$ .
+x1 navni  : $x 1$ is a quantity of noble gas of type $x 2$ .
+x1 navni  : $x 1$ contains noble gas of type $x 2$ .
+x1 navni  : $x 1$ is made of noble gas of type $x 2$ .
 x1 naxle  x4 x3 x2 : x1 is a canal to x2 from x3 with route x4.
 x1 naxle  x4 x3 x2 : x1 is a channel to x2 from x3 with route x4.
 x1 nazbi  x3 x2 : x1 is the nose of x2 with nostril passage x3
@@ -3550,16 +3550,16 @@ x1 nibli  x3 x2 : x1 logically implies event x2 under logic system x3.
 x1 nibli  x3 x2 : x1 logically implies state x2 under rules system x3.
 x1 nibli  x3 x2 : x1 logically implies state x2 under logic system x3.
 x1 nicte  x3 x2 : x1 is a nighttime of day x2 at location x3
-x1 nikle  : x1 is_made_of nickel metal resistant to oxidation.
-x1 nikle  : x1 is_made_of other metal resistant to oxidation.
+x1 nikle  : x1 is made of nickel metal resistant to oxidation.
+x1 nikle  : x1 is made of other metal resistant to oxidation.
 x1 nikle  : x1 contains nickel metal resistant to oxidation.
 x1 nikle  : x1 contains other metal resistant to oxidation.
-x1 nikle  : x1 is_a_quantity_of nickel metal resistant to oxidation.
-x1 nikle  : x1 is_a_quantity_of other metal resistant to oxidation.
+x1 nikle  : x1 is a quantity of nickel metal resistant to oxidation.
+x1 nikle  : x1 is a quantity of other metal resistant to oxidation.
 x1 nilce  x3 x2 : x1 furnishes x2 serving purpose x3.
 x1 nilce  x3 x2 : x1 furnishes x2 serving function x3.
-x1 nimre  x2 : x1 is_a_quantity_of citrus of species x2.
-x1 nimre  x2 : x1 is_a_quantity_of citrus of strain x2.
+x1 nimre  x2 : x1 is a quantity of citrus of species x2.
+x1 nimre  x2 : x1 is a quantity of citrus of strain x2.
 x1 ninmu  : x1 is a woman
 x1 ninmu  : x1 is a women
 x1 nirna  x2 : x1 is a nerve of x2
@@ -3687,12 +3687,12 @@ x1 pandi  x4 x3 x2 : x1 punctuates x2 with symbol x3 with syntactic effect x4.
 x1 pandi  x4 x3 x2 : x1 punctuates x2 with symbol x3 with semantic effect x4.
 x1 pandi  x4 x3 x2 : x1 punctuates x2 with word x3 with syntactic effect x4.
 x1 pandi  x4 x3 x2 : x1 punctuates x2 with word x3 with semantic effect x4.
-x1 panje  : x1 is_a_quantity_of sponge material.
-x1 panje  : x1 is_a_quantity_of porous material.
+x1 panje  : x1 is a quantity of sponge material.
+x1 panje  : x1 is a quantity of porous material.
 x1 panje  : x1 contains sponge material.
 x1 panje  : x1 contains porous material.
-x1 panje  : x1 is_made_of sponge material.
-x1 panje  : x1 is_made_of porous material.
+x1 panje  : x1 is made of sponge material.
+x1 panje  : x1 is made of porous material.
 x1 panka  x3 x2 : x1 is a park reserve managed by community x2 for purpose x3.
 x1 panka  x3 x2 : x1 is a park reserve managed by polity x2 for purpose x3.
 x1 panka  x3 x2 : x1 is a park reserve managed by company x2 for purpose x3.
@@ -3884,11 +3884,11 @@ x1 pinsi  x3 x2 : x1 is a stylus applying lead material x2, support x3.
 x1 pinsi  x3 x2 : x1 is a stylus applying marking material x2, frame x3.
 x1 pinsi  x3 x2 : x1 is a stylus applying marking material x2, support x3.
 x1 pinta  x2 : x1 is flat in gravity x2.
-x1 pinta  x2 : x1 is flat in frame_of_reference x2.
+x1 pinta  x2 : x1 is flat in frame of reference x2.
 x1 pinta  x2 : x1 is level in gravity x2.
-x1 pinta  x2 : x1 is level in frame_of_reference x2.
+x1 pinta  x2 : x1 is level in frame of reference x2.
 x1 pinta  x2 : x1 is horizontal in gravity x2.
-x1 pinta  x2 : x1 is horizontal in frame_of_reference x2.
+x1 pinta  x2 : x1 is horizontal in frame of reference x2.
 x1 pinxe  x3 x2 : x1 drinks beverage refreshment x2 from container x3.
 x1 pinxe  x3 x2 : x1 drinks beverage refreshment x2 from source x3.
 x1 pinxe  x3 x2 : x1 drinks beverage refreshment x2 out-of container x3.
@@ -3977,16 +3977,16 @@ x1 pluja  x3 x2 : x1 is involved in aspect x2 by standard x3.
 x1 pluja  x3 x2 : x1 is involved in property x2 by standard x3.
 x1 pluka  x3 x2 : x1 seems pleasant to x2 under conditions x3.
 x1 pluka  x3 x2 : x1 seems pleasant pleases x2 under conditions x3.
-x1 pluta  : $x_1$ is a route to $x_2$ from $x_3$ via by points including $x_4$ .
-x1 pluta  : $x_1$ is a route to $x_2$ from $x_3$ defined by points including $x_4$ .
-x1 pluta  : $x_1$ is a path to $x_2$ from $x_3$ via by points including $x_4$ .
-x1 pluta  : $x_1$ is a path to $x_2$ from $x_3$ defined by points including $x_4$ .
-x1 pluta  : $x_1$ is a way to $x_2$ from $x_3$ via by points including $x_4$ .
-x1 pluta  : $x_1$ is a way to $x_2$ from $x_3$ defined by points including $x_4$ .
-x1 pluta  : $x_1$ is a course to $x_2$ from $x_3$ via by points including $x_4$ .
-x1 pluta  : $x_1$ is a course to $x_2$ from $x_3$ defined by points including $x_4$ .
-x1 pluta  : $x_1$ is a track to $x_2$ from $x_3$ via by points including $x_4$ .
-x1 pluta  : $x_1$ is a track to $x_2$ from $x_3$ defined by points including $x_4$ .
+x1 pluta  : $x 1$ is a route to $x 2$ from $x 3$ via by points including $x 4$ .
+x1 pluta  : $x 1$ is a route to $x 2$ from $x 3$ defined by points including $x 4$ .
+x1 pluta  : $x 1$ is a path to $x 2$ from $x 3$ via by points including $x 4$ .
+x1 pluta  : $x 1$ is a path to $x 2$ from $x 3$ defined by points including $x 4$ .
+x1 pluta  : $x 1$ is a way to $x 2$ from $x 3$ via by points including $x 4$ .
+x1 pluta  : $x 1$ is a way to $x 2$ from $x 3$ defined by points including $x 4$ .
+x1 pluta  : $x 1$ is a course to $x 2$ from $x 3$ via by points including $x 4$ .
+x1 pluta  : $x 1$ is a course to $x 2$ from $x 3$ defined by points including $x 4$ .
+x1 pluta  : $x 1$ is a track to $x 2$ from $x 3$ via by points including $x 4$ .
+x1 pluta  : $x 1$ is a track to $x 2$ from $x 3$ defined by points including $x 4$ .
 x1 polje  x3 x2 : x1 folds x2 at locus crease x3.
 x1 polje  x3 x2 : x1 folds x2 at locus bend x3.
 x1 polje  x3 x2 : x1 folds x2 at loci crease x3.
@@ -4285,9 +4285,9 @@ x1 ranji  x2 : x1 continues over interval x2
 x1 ranji  x2 : x1 persists over interval x2
 x1 ranmi  x4 x3 x2 : x1 is a myth a culturally significant story about x2 in mythos x3 of culture x4.
 x1 ranmi  x4 x3 x2 : x1 is a legend, a culturally significant story about x2 in mythos x3 of culture x4.
-x1 ransu  x2 : x1 is_a_quantity_of bronze of composition including x2.
+x1 ransu  x2 : x1 is a quantity of bronze of composition including x2.
 x1 ransu  x2 : x1 contains bronze of composition including x2.
-x1 ransu  x2 : x1 is_made_of bronze of composition including x2.
+x1 ransu  x2 : x1 is made of bronze of composition including x2.
 x1 ranti  x3 x2 : x1 is soft to force x2 in conditions x3.
 x1 ranti  x3 x2 : x1 is malleable to force x2 in conditions x3.
 x1 ranti  x3 x2 : x1 is moldable to force x2 in conditions x3.
@@ -4313,10 +4313,10 @@ x1 rebla  x2 : x1 is a tail of x2
 x1 rebla  x2 : x1 is a appendix of x2
 x1 rebla  x2 : x1 is the tail of x2
 x1 rebla  x2 : x1 is the appendix of x2
-x1 rectu  x2 : x1 is_a_quantity_of meat from source x2.
-x1 rectu  x2 : x1 is_a_quantity_of meat from animal x2.
-x1 rectu  x2 : x1 is_a_quantity_of flesh from source x2.
-x1 rectu  x2 : x1 is_a_quantity_of flesh from animal x2.
+x1 rectu  x2 : x1 is a quantity of meat from source x2.
+x1 rectu  x2 : x1 is a quantity of meat from animal x2.
+x1 rectu  x2 : x1 is a quantity of flesh from source x2.
+x1 rectu  x2 : x1 is a quantity of flesh from animal x2.
 x1 rectu  x2 : x1 contains meat from source x2.
 x1 rectu  x2 : x1 contains meat from animal x2.
 x1 rectu  x2 : x1 contains flesh from source x2.
@@ -4361,12 +4361,12 @@ x1 ricfu  x2 : x1 is wealthy in property x2.
 x1 ricfu  x2 : x1 is wealthy in aspect x2.
 x1 rigni  x3 x2 : x1 is repugnant to disgust to x2 under conditions x3.
 x1 rigni  x3 x2 : x1 is repugnant causes disgust to x2 under conditions x3.
-x1 rijno  : x1 is_made_of silver
-x1 rijno  : x1 is_made_of argentum
+x1 rijno  : x1 is made of silver
+x1 rijno  : x1 is made of argentum
 x1 rijno  : x1 contains silver
 x1 rijno  : x1 contains argentum
-x1 rijno  : x1 is_a_quantity_of silver
-x1 rijno  : x1 is_a_quantity_of argentum
+x1 rijno  : x1 is a quantity of silver
+x1 rijno  : x1 is a quantity of argentum
 x1 rilti  x2 : x1 is a rhythm of music form x2.
 x1 rilti  x2 : x1 is a rhythm of expressive form x2.
 x1 rilti  x2 : x1 is a beat of music form x2.
@@ -4407,8 +4407,8 @@ x1 rirni  x2 : x1 is a parent raises x2
 x1 rirni  x2 : x1 is a parent rears x2
 x1 rirxe  x4 x3 x2 : x1 is a river of land mass x2, draining watershed x3 into x4 at x4.
 x1 rirxe  x4 x3 x2 : x1 is a river of land mass x2, draining watershed x3 into terminating at x4.
-x1 rismi  x2 : x1 is_a_quantity_of rice of strain x2.
-x1 rismi  x2 : x1 is_a_quantity_of rice of cultivar x2.
+x1 rismi  x2 : x1 is a quantity of rice of strain x2.
+x1 rismi  x2 : x1 is a quantity of rice of cultivar x2.
 x1 risna  x2 : x1 is a heart of x2
 x1 risna  x2 : x1 is the heart of x2
 x1 ritli  x4 x3 x2 : x1 is a rite for purpose x2, by custom community x3, with form x4.
@@ -4445,14 +4445,14 @@ x1 rivbi  x3 x2 : x1 escapes x2 through action x3 .
 x1 rivbi  x3 x2 : x1 escapes x2 through state x3 .
 x1 rivbi  x3 x2 : x1 skirts x2 through action x3 .
 x1 rivbi  x3 x2 : x1 skirts x2 through state x3 .
-x1 rokci  x3 x2 : x1 is_a_quantity_of rock of type x2 from location x3.
-x1 rokci  x3 x2 : x1 is_a_quantity_of rock of composition x2 from location x3.
-x1 rokci  x3 x2 : x1 is_a_quantity_of stone of type x2 from location x3.
-x1 rokci  x3 x2 : x1 is_a_quantity_of stone of composition x2 from location x3.
-x1 rokci  x3 x2 : x1 is_made_of rock of type x2 from location x3.
-x1 rokci  x3 x2 : x1 is_made_of rock of composition x2 from location x3.
-x1 rokci  x3 x2 : x1 is_made_of stone of type x2 from location x3.
-x1 rokci  x3 x2 : x1 is_made_of stone of composition x2 from location x3.
+x1 rokci  x3 x2 : x1 is a quantity of rock of type x2 from location x3.
+x1 rokci  x3 x2 : x1 is a quantity of rock of composition x2 from location x3.
+x1 rokci  x3 x2 : x1 is a quantity of stone of type x2 from location x3.
+x1 rokci  x3 x2 : x1 is a quantity of stone of composition x2 from location x3.
+x1 rokci  x3 x2 : x1 is made of rock of type x2 from location x3.
+x1 rokci  x3 x2 : x1 is made of rock of composition x2 from location x3.
+x1 rokci  x3 x2 : x1 is made of stone of type x2 from location x3.
+x1 rokci  x3 x2 : x1 is made of stone of composition x2 from location x3.
 x1 rokci  x3 x2 : x1 contains rock of type x2 from location x3.
 x1 rokci  x3 x2 : x1 contains rock of composition x2 from location x3.
 x1 rokci  x3 x2 : x1 contains stone of type x2 from location x3.
@@ -4515,9 +4515,9 @@ x1 sakci  x3 x2 : x1 is relatively low pressure of gas x2 relative to high press
 x1 sakli  x2 : x1 slides on x2.
 x1 sakli  x2 : x1 slips on x2.
 x1 sakli  x2 : x1 glides on x2.
-x1 sakta  x3 x2 : x1 is_made_of sugar from source x2 of composition x3.
+x1 sakta  x3 x2 : x1 is made of sugar from source x2 of composition x3.
 x1 sakta  x3 x2 : x1 contains sugar from source x2 of composition x3.
-x1 sakta  x3 x2 : x1 is_a_quantity_of sugar from source x2 of composition x3.
+x1 sakta  x3 x2 : x1 is a quantity of sugar from source x2 of composition x3.
 x1 salci  x3 x2 : x1 celebrates x2 with activity x3.
 x1 salci  x3 x2 : x1 recognizes x2 with activity x3.
 x1 salci  x3 x2 : x1 honors x2 with activity x3.
@@ -4529,18 +4529,18 @@ x1 salpo  x3 x2 : x1 is slanted with angle x2 to horizon x3.
 x1 salpo  x3 x2 : x1 is slanted with angle x2 to frame x3.
 x1 salpo  x3 x2 : x1 is aslant with angle x2 to horizon x3.
 x1 salpo  x3 x2 : x1 is aslant with angle x2 to frame x3.
-x1 salta  x2 : x1 is_a_quantity_of salad with ingredients including x2.
-x1 salta  x2 : x1 is_a_quantity_of salad with components including x2.
-x1 samcu  x2 : x1 is_a_quantity_of cassava of species x2.
-x1 samcu  x2 : x1 is_a_quantity_of cassava of strain x2.
-x1 samcu  x2 : x1 is_a_quantity_of taro of species x2.
-x1 samcu  x2 : x1 is_a_quantity_of taro of strain x2.
-x1 samcu  x2 : x1 is_a_quantity_of manioc of species x2.
-x1 samcu  x2 : x1 is_a_quantity_of manioc of strain x2.
-x1 samcu  x2 : x1 is_a_quantity_of tapioca of species x2.
-x1 samcu  x2 : x1 is_a_quantity_of tapioca of strain x2.
-x1 samcu  x2 : x1 is_a_quantity_of yam of species x2.
-x1 samcu  x2 : x1 is_a_quantity_of yam of strain x2.
+x1 salta  x2 : x1 is a quantity of salad with ingredients including x2.
+x1 salta  x2 : x1 is a quantity of salad with components including x2.
+x1 samcu  x2 : x1 is a quantity of cassava of species x2.
+x1 samcu  x2 : x1 is a quantity of cassava of strain x2.
+x1 samcu  x2 : x1 is a quantity of taro of species x2.
+x1 samcu  x2 : x1 is a quantity of taro of strain x2.
+x1 samcu  x2 : x1 is a quantity of manioc of species x2.
+x1 samcu  x2 : x1 is a quantity of manioc of strain x2.
+x1 samcu  x2 : x1 is a quantity of tapioca of species x2.
+x1 samcu  x2 : x1 is a quantity of tapioca of strain x2.
+x1 samcu  x2 : x1 is a quantity of yam of species x2.
+x1 samcu  x2 : x1 is a quantity of yam of strain x2.
 x1 sampu  x2 : x1 is simple in property x2 .
 x1 sampu  x2 : x1 is unmixed in property x2 .
 x1 sampu  x2 : x1 is uncomplicated in property x2 .
@@ -4739,9 +4739,9 @@ x1 sigja  x3 x2 : x1 is a cigarette made from tobacco substance x2 by x3.
 x1 sigja  x3 x2 : x1 is a cigarette made from smokable substance x2 by x3.
 x1 sigja  x3 x2 : x1 is a cigarillo made from tobacco substance x2 by x3.
 x1 sigja  x3 x2 : x1 is a cigarillo made from smokable substance x2 by x3.
-x1 silka  x2 : x1 is_a_quantity_of silk produced by x2.
+x1 silka  x2 : x1 is a quantity of silk produced by x2.
 x1 silka  x2 : x1 contains silk produced by x2.
-x1 silka  x2 : x1 is_made_of silk produced by x2.
+x1 silka  x2 : x1 is made of silk produced by x2.
 x1 silna  x3 x2 : x1 is a portion of salt from source x2, of composition including x3.
 x1 silna  x3 x2 : x1 is a quantity of salt from source x2, of composition including x3.
 x1 simlu  x4 x3 x2 : x1 seems to have property x2 to observer x3 under conditions x4.
@@ -4873,20 +4873,20 @@ x1 slabu  x4 x3 x2 : x1 is old to observer x2 in feature x3 by standard x4.
 x1 slabu  x4 x3 x2 : x1 is familiar to observer x2 in feature x3 by standard x4.
 x1 slabu  x4 x3 x2 : x1 is well-known to observer x2 in feature x3 by standard x4.
 x1 slaka  x2 : x1 is a syllable in language x2.
-x1 slami  x2 : x1 is_a_quantity_of acid of composition x2
+x1 slami  x2 : x1 is a quantity of acid of composition x2
 x1 slami  x2 : x1 contains acid of composition x2
-x1 slami  x2 : x1 is_made_of acid of composition x2
+x1 slami  x2 : x1 is made of acid of composition x2
 x1 slanu  x2 : x1 is a cylinder of material x2.
 x1 slari  x2 : x1 is sour to observer x2.
 x1 slari  x2 : x1 is tart to observer x2.
-x1 slasi  x2 : x1 is_a_quantity_of plastic of type unit x2.
-x1 slasi  x2 : x1 is_a_quantity_of plastic of component unit x2.
-x1 slasi  x2 : x1 is_a_quantity_of polymer of type unit x2.
-x1 slasi  x2 : x1 is_a_quantity_of polymer of component unit x2.
-x1 slasi  x2 : x1 is_made_of plastic of type unit x2.
-x1 slasi  x2 : x1 is_made_of plastic of component unit x2.
-x1 slasi  x2 : x1 is_made_of polymer of type unit x2.
-x1 slasi  x2 : x1 is_made_of polymer of component unit x2.
+x1 slasi  x2 : x1 is a quantity of plastic of type unit x2.
+x1 slasi  x2 : x1 is a quantity of plastic of component unit x2.
+x1 slasi  x2 : x1 is a quantity of polymer of type unit x2.
+x1 slasi  x2 : x1 is a quantity of polymer of component unit x2.
+x1 slasi  x2 : x1 is made of plastic of type unit x2.
+x1 slasi  x2 : x1 is made of plastic of component unit x2.
+x1 slasi  x2 : x1 is made of polymer of type unit x2.
+x1 slasi  x2 : x1 is made of polymer of component unit x2.
 x1 slasi  x2 : x1 contains plastic of type unit x2.
 x1 slasi  x2 : x1 contains plastic of component unit x2.
 x1 slasi  x2 : x1 contains polymer of type unit x2.
@@ -4897,21 +4897,21 @@ x1 slilu  x3 x2 : x1 oscillates at rate x2 through set x3 .
 x1 slilu  x3 x2 : x1 oscillates at rate x2 through sequence-of-states x3 .
 x1 slilu  x3 x2 : x1 oscillates at frequency x2 through set x3 .
 x1 slilu  x3 x2 : x1 oscillates at frequency x2 through sequence-of-states x3 .
-x1 sliri  : x1 is_a_quantity_of sulfur
-x1 sliri  : x1 is_a_quantity_of brimstone
+x1 sliri  : x1 is a quantity of sulfur
+x1 sliri  : x1 is a quantity of brimstone
 x1 sliri  : x1 contains sulfur
 x1 sliri  : x1 contains brimstone
-x1 sliri  : x1 is_made_of sulfur
-x1 sliri  : x1 is_made_of brimstone
+x1 sliri  : x1 is made of sulfur
+x1 sliri  : x1 is made of brimstone
 x1 slovo  x2 : x1 reflects Slavic language in aspect x2.
 x1 slovo  x2 : x1 reflects Slavic culture in aspect x2.
 x1 slovo  x2 : x1 reflects Slavic ethos in aspect x2.
 x1 sluji  x3 x2 : x1 is a muscle controlling x2, of body x3
 x1 sluji  x3 x2 : x1 is the muscle controlling x2, of body x3
-x1 sluni  x2 : x1 is_a_quantity_of onions of type x2.
-x1 sluni  x2 : x1 is_a_quantity_of onions of cultivar x2.
-x1 sluni  x2 : x1 is_a_quantity_of scallions of type x2.
-x1 sluni  x2 : x1 is_a_quantity_of scallions of cultivar x2.
+x1 sluni  x2 : x1 is a quantity of onions of type x2.
+x1 sluni  x2 : x1 is a quantity of onions of cultivar x2.
+x1 sluni  x2 : x1 is a quantity of scallions of type x2.
+x1 sluni  x2 : x1 is a quantity of scallions of cultivar x2.
 x1 sluni  x2 : x1 contains onions of type x2.
 x1 sluni  x2 : x1 contains onions of cultivar x2.
 x1 sluni  x2 : x1 contains scallions of type x2.
@@ -4955,11 +4955,11 @@ x1 snada  x3 x2 : x1 succeeds completes x2 as a result of try x3.
 x1 snada  x3 x2 : x1 succeeds accomplishes x2 as a result of effort x3.
 x1 snada  x3 x2 : x1 succeeds accomplishes x2 as a result of attempt x3.
 x1 snada  x3 x2 : x1 succeeds accomplishes x2 as a result of try x3.
-x1 snanu  x3 x2 : x1 is to the south side of x2 according to frame_of_reference x3.
-x1 snanu  x3 x2 : x1 is to the southern side of x2 according to frame_of_reference x3.
+x1 snanu  x3 x2 : x1 is to the south side of x2 according to frame of reference x3.
+x1 snanu  x3 x2 : x1 is to the southern side of x2 according to frame of reference x3.
 x1 snidu  x3 x2 : x1 is x2 seconds in duration by standard x3.
-x1 snime  : x1 is_made_of a quantity of snow.
-x1 snime  : x1 is_made_of a expanse of snow.
+x1 snime  : x1 is made of a quantity of snow.
+x1 snime  : x1 is made of a expanse of snow.
 x1 snime  : x1 contains a quantity of snow.
 x1 snime  : x1 contains a expanse of snow.
 x1 snime  : x1 is a quantity of snow.
@@ -4972,23 +4972,23 @@ x1 snura  x2 : x1 is secure from threat x2 .
 x1 snura  x2 : x1 is safe from threat x2 .
 x1 snuti  x2 : x1 is an accident on the part of x2
 x1 snuti  x2 : x1 is an unintentional on the part of x2
-x1 sobde  x2 : x1 is_a_quantity_of soya of species x2.
-x1 sobde  x2 : x1 is_a_quantity_of soya of strain x2.
-x1 sodna  x2 : x1 is_a_quantity_of alkali metal of type x2 .
+x1 sobde  x2 : x1 is a quantity of soya of species x2.
+x1 sobde  x2 : x1 is a quantity of soya of strain x2.
+x1 sodna  x2 : x1 is a quantity of alkali metal of type x2 .
 x1 sodna  x2 : x1 contains alkali metal of type x2 .
-x1 sodna  x2 : x1 is_made_of alkali metal of type x2 .
-x1 sodva  x2 : x1 is_made_of a carbonated beverage of flavor x2.
-x1 sodva  x2 : x1 is_made_of a carbonated beverage of brand x2.
-x1 sodva  x2 : x1 is_made_of a carbonated soda of flavor x2.
-x1 sodva  x2 : x1 is_made_of a carbonated soda of brand x2.
+x1 sodna  x2 : x1 is made of alkali metal of type x2 .
+x1 sodva  x2 : x1 is made of a carbonated beverage of flavor x2.
+x1 sodva  x2 : x1 is made of a carbonated beverage of brand x2.
+x1 sodva  x2 : x1 is made of a carbonated soda of flavor x2.
+x1 sodva  x2 : x1 is made of a carbonated soda of brand x2.
 x1 sodva  x2 : x1 contains a carbonated beverage of flavor x2.
 x1 sodva  x2 : x1 contains a carbonated beverage of brand x2.
 x1 sodva  x2 : x1 contains a carbonated soda of flavor x2.
 x1 sodva  x2 : x1 contains a carbonated soda of brand x2.
-x1 sodva  x2 : x1 is_a_quantity_of a carbonated beverage of flavor x2.
-x1 sodva  x2 : x1 is_a_quantity_of a carbonated beverage of brand x2.
-x1 sodva  x2 : x1 is_a_quantity_of a carbonated soda of flavor x2.
-x1 sodva  x2 : x1 is_a_quantity_of a carbonated soda of brand x2.
+x1 sodva  x2 : x1 is a quantity of a carbonated beverage of flavor x2.
+x1 sodva  x2 : x1 is a quantity of a carbonated beverage of brand x2.
+x1 sodva  x2 : x1 is a quantity of a carbonated soda of flavor x2.
+x1 sodva  x2 : x1 is a quantity of a carbonated soda of brand x2.
 x1 softo  x2 : x1 reflects Russian empire (Soviet] culture in aspect x2.
 x1 softo  x2 : x1 reflects Russian empire (Soviet] nationality in aspect x2.
 x1 softo  x2 : x1 reflects Russian empire CIS culture in aspect x2.
@@ -5001,9 +5001,9 @@ x1 softo  x2 : x1 reflects Russian ex-USSR (Soviet] culture in aspect x2.
 x1 softo  x2 : x1 reflects Russian ex-USSR (Soviet] nationality in aspect x2.
 x1 softo  x2 : x1 reflects Russian ex-USSR CIS culture in aspect x2.
 x1 softo  x2 : x1 reflects Russian ex-USSR CIS nationality in aspect x2.
-x1 solji  : x1 is_a_quantity_of gold
+x1 solji  : x1 is a quantity of gold
 x1 solji  : x1 contains gold
-x1 solji  : x1 is_made_of gold
+x1 solji  : x1 is made of gold
 x1 solri  x3 x2 : x1 is the sun of home planet x2 of race x3
 x1 sombo  x3 x2 : x1 sows x2 at x3.
 x1 sombo  x3 x2 : x1 sows x2 in x3.
@@ -5020,8 +5020,8 @@ x1 sorcu  x3 x2 : x1 is a supply of materials x2 in containment x3.
 x1 sorcu  x3 x2 : x1 is a supply of energy x2 in containment x3.
 x1 sorcu  x3 x2 : x1 is a reserve of materials x2 in containment x3.
 x1 sorcu  x3 x2 : x1 is a reserve of energy x2 in containment x3.
-x1 sorgu  x2 : x1 is_a_quantity_of sorghum of species x2.
-x1 sorgu  x2 : x1 is_a_quantity_of sorghum of strain x2.
+x1 sorgu  x2 : x1 is a quantity of sorghum of species x2.
+x1 sorgu  x2 : x1 is a quantity of sorghum of strain x2.
 x1 sovda  x2 : x1 is an egg of organism x2.
 x1 sovda  x2 : x1 is an egg from organism x2.
 x1 sovda  x2 : x1 is an ovum of organism x2.
@@ -5225,12 +5225,12 @@ x1 stace  x3 x2 : x1 is truthfully revealing candid with x2 about fact x3.
 x1 stace  x3 x2 : x1 is truthfully revealing frank with x2 about matter x3.
 x1 stace  x3 x2 : x1 is truthfully revealing frank with x2 about fact x3.
 x1 stagi  x3 x2 : x1 is the edible x2 portion of plant x3
-x1 staku  x4 x3 x2 : x1 is_a_quantity_of ceramic made by x2, of composition x3, in form x4.
-x1 staku  x4 x3 x2 : x1 is_a_quantity_of ceramic made by x2, of composition x3, in shape x4.
+x1 staku  x4 x3 x2 : x1 is a quantity of ceramic made by x2, of composition x3, in form x4.
+x1 staku  x4 x3 x2 : x1 is a quantity of ceramic made by x2, of composition x3, in shape x4.
 x1 staku  x4 x3 x2 : x1 contains ceramic made by x2, of composition x3, in form x4.
 x1 staku  x4 x3 x2 : x1 contains ceramic made by x2, of composition x3, in shape x4.
-x1 staku  x4 x3 x2 : x1 is_made_of ceramic made by x2, of composition x3, in form x4.
-x1 staku  x4 x3 x2 : x1 is_made_of ceramic made by x2, of composition x3, in shape x4.
+x1 staku  x4 x3 x2 : x1 is made of ceramic made by x2, of composition x3, in form x4.
+x1 staku  x4 x3 x2 : x1 is made of ceramic made by x2, of composition x3, in shape x4.
 x1 stali  x2 : x1 remains at with x2.
 x1 stali  x2 : x1 remains abides with x2.
 x1 stali  x2 : x1 remains lasts with x2.
@@ -5253,10 +5253,10 @@ x1 stapa  x3 x2 : x1 steps on surface x2 using limbs x3.
 x1 stapa  x3 x2 : x1 steps in surface x2 using limbs x3.
 x1 stapa  x3 x2 : x1 treads on surface x2 using limbs x3.
 x1 stapa  x3 x2 : x1 treads in surface x2 using limbs x3.
-x1 stasu  x2 : x1 is_a_quantity_of soup of ingredients including x2.
-x1 stasu  x2 : x1 is_a_quantity_of stew of ingredients including x2.
-x1 stasu  x2 : x1 is_a_quantity_of olla of ingredients including x2.
-x1 stasu  x2 : x1 is_a_quantity_of olio of ingredients including x2.
+x1 stasu  x2 : x1 is a quantity of soup of ingredients including x2.
+x1 stasu  x2 : x1 is a quantity of stew of ingredients including x2.
+x1 stasu  x2 : x1 is a quantity of olla of ingredients including x2.
+x1 stasu  x2 : x1 is a quantity of olio of ingredients including x2.
 x1 stati  x2 : x1 has a talent skill for doing x2.
 x1 stati  x2 : x1 has a talent skill for being x2.
 x1 stati  x2 : x1 has a aptitude skill for doing x2.
@@ -5283,8 +5283,8 @@ x1 stela  x3 x2 : x1 is a seal on sealing x2 by locking mechanism x3.
 x1 stela  x3 x2 : x1 is a seal for sealing x2 with locking mechanism x3.
 x1 stela  x3 x2 : x1 is a seal for sealing x2 by locking mechanism x3.
 x1 stero  x3 x2 : x1 is x2 steradian in solid angle by standard x3.
-x1 stici  x3 x2 : x1 is to the west side of x2 according to frame_of_reference x3.
-x1 stici  x3 x2 : x1 is to the western side of x2 according to frame_of_reference x3.
+x1 stici  x3 x2 : x1 is to the west side of x2 according to frame of reference x3.
+x1 stici  x3 x2 : x1 is to the western side of x2 according to frame of reference x3.
 x1 stidi  x3 x2 : x1 suggests idea x2 to audience x3
 x1 stidi  x3 x2 : x1 suggests action x2 to audience x3
 x1 stidi  x3 x2 : x1 proposes idea x2 to audience x3
@@ -5305,8 +5305,8 @@ x1 stodi  x3 x2 : x1 is invariant in property x2 in response to stimulus x3.
 x1 stodi  x3 x2 : x1 is invariant in property x2 in response to conditions x3.
 x1 stodi  x3 x2 : x1 is unchanging in property x2 in response to stimulus x3.
 x1 stodi  x3 x2 : x1 is unchanging in property x2 in response to conditions x3.
-x1 stuna  x3 x2 : x1 is to the east side of x2 according to frame_of_reference x3.
-x1 stuna  x3 x2 : x1 is to the eastern side of x2 according to frame_of_reference x3.
+x1 stuna  x3 x2 : x1 is to the east side of x2 according to frame of reference x3.
+x1 stuna  x3 x2 : x1 is to the eastern side of x2 according to frame of reference x3.
 x1 stura  x2 : x1 is a structure of x2 .
 x1 stura  x2 : x1 is a arrangement of x2 .
 x1 stura  x2 : x1 is a organization of x2 .
@@ -5352,14 +5352,14 @@ x1 sumti  x3 x2 : x1 is a argument of predicate x2 filling place x3 .
 x1 sumti  x3 x2 : x1 is a argument of function x2 filling place x3 .
 x1 sumti  x3 x2 : x1 is the argument of predicate x2 filling place x3 .
 x1 sumti  x3 x2 : x1 is the argument of function x2 filling place x3 .
-x1 sunga  x2 : x1 is_a_quantity_of garlic of species x2.
-x1 sunga  x2 : x1 is_a_quantity_of garlic of strain x2.
-x1 sunla  x2 : x1 is_a_quantity_of from of wool from animal x2.
-x1 sunla  x2 : x1 is_a_quantity_of from of wool from species x2.
-x1 sunla  x2 : x1 is_a_quantity_of from of wool from source x2.
-x1 sunla  x2 : x1 is_a_quantity_of consists of wool from animal x2.
-x1 sunla  x2 : x1 is_a_quantity_of consists of wool from species x2.
-x1 sunla  x2 : x1 is_a_quantity_of consists of wool from source x2.
+x1 sunga  x2 : x1 is a quantity of garlic of species x2.
+x1 sunga  x2 : x1 is a quantity of garlic of strain x2.
+x1 sunla  x2 : x1 is a quantity of from of wool from animal x2.
+x1 sunla  x2 : x1 is a quantity of from of wool from species x2.
+x1 sunla  x2 : x1 is a quantity of from of wool from source x2.
+x1 sunla  x2 : x1 is a quantity of consists of wool from animal x2.
+x1 sunla  x2 : x1 is a quantity of consists of wool from species x2.
+x1 sunla  x2 : x1 is a quantity of consists of wool from source x2.
 x1 sunla  x2 : x1 made from of wool from animal x2.
 x1 sunla  x2 : x1 made from of wool from species x2.
 x1 sunla  x2 : x1 made from of wool from source x2.
@@ -5393,15 +5393,15 @@ x1 sutra  x2 : x1 is hastes at bringing about x2 .
 x1 sutra  x2 : x1 is rapid at doing about x2 .
 x1 sutra  x2 : x1 is rapid at being about x2 .
 x1 sutra  x2 : x1 is rapid at bringing about x2 .
-x1 tabno  : x1 is_a_quantity_of carbon
-x1 tabno  : x1 is_a_quantity_of graphite
-x1 tabno  : x1 is_a_quantity_of charcoal
+x1 tabno  : x1 is a quantity of carbon
+x1 tabno  : x1 is a quantity of graphite
+x1 tabno  : x1 is a quantity of charcoal
 x1 tabno  : x1 contains carbon
 x1 tabno  : x1 contains graphite
 x1 tabno  : x1 contains charcoal
-x1 tabno  : x1 is_made_of carbon
-x1 tabno  : x1 is_made_of graphite
-x1 tabno  : x1 is_made_of charcoal
+x1 tabno  : x1 is made of carbon
+x1 tabno  : x1 is made of graphite
+x1 tabno  : x1 is made of charcoal
 x1 tabra  : x1 is a horn .
 x1 tabra  : x1 is a trumpet .
 x1 tabra  : x1 is a trombone .
@@ -5432,8 +5432,8 @@ x1 tance  x2 : x1 is a tongue of x2
 x1 tance  x2 : x1 is the tongue of x2
 x1 tanjo  x2 : x1 is the trigonometric tangent of angle x2.
 x1 tanjo  x2 : x1 is the trigonometric tangent of arctangent x2.
-x1 tanko  x2 : x1 is_a_quantity_of tobacco of species x2.
-x1 tanko  x2 : x1 is_a_quantity_of tobacco of strain x2.
+x1 tanko  x2 : x1 is a quantity of tobacco of species x2.
+x1 tanko  x2 : x1 is a quantity of tobacco of strain x2.
 x1 tanru  x5 x4 x3 x2 : x1 is a binary metaphor formed with x2 modifying x3, giving meaning x4 in usage x5.
 x1 tanru  x5 x4 x3 x2 : x1 is a binary metaphor formed with x2 modifying x3, giving meaning x4 in instance x5.
 x1 tansi  x3 x2 : x1 is a pan a shallow container for contents x2, of material x3.
@@ -5456,12 +5456,12 @@ x1 tarbi  x3 x2 : x1 is an fetus egg with mother x2, and father x3.
 x1 tarbi  x3 x2 : x1 is an fertilized egg with mother x2, and father x3.
 x1 tarci  x2 : x1 is a star with stellar properties x2.
 x1 tarci  x2 : x1 is a sun with stellar properties x2.
-x1 tarla  x2 : x1 is_a_quantity_of tar from source x2.
-x1 tarla  x2 : x1 is_a_quantity_of asphalt from source x2.
+x1 tarla  x2 : x1 is a quantity of tar from source x2.
+x1 tarla  x2 : x1 is a quantity of asphalt from source x2.
 x1 tarla  x2 : x1 contains tar from source x2.
 x1 tarla  x2 : x1 contains asphalt from source x2.
-x1 tarla  x2 : x1 is_made_of tar from source x2.
-x1 tarla  x2 : x1 is_made_of asphalt from source x2.
+x1 tarla  x2 : x1 is made of tar from source x2.
+x1 tarla  x2 : x1 is made of asphalt from source x2.
 x1 tarmi  x2 : x1 is the conceptual shape of object x2 .
 x1 tarmi  x2 : x1 is the conceptual shape of abstraction x2 .
 x1 tarmi  x2 : x1 is the conceptual shape of manifestation x2 .
@@ -5531,9 +5531,9 @@ x1 tcana  x2 : x1 is a node on communication system x2.
 x1 tcana  x2 : x1 is a node on communication network x2.
 x1 tcana  x2 : x1 is a node on distribution system x2.
 x1 tcana  x2 : x1 is a node on distribution network x2.
-x1 tcati  x2 : x1 is_made_of tea brewed from leaves x2.
+x1 tcati  x2 : x1 is made of tea brewed from leaves x2.
 x1 tcati  x2 : x1 contains tea brewed from leaves x2.
-x1 tcati  x2 : x1 is_a_quantity_of tea brewed from leaves x2.
+x1 tcati  x2 : x1 is a quantity of tea brewed from leaves x2.
 x1 tcena  x4 x3 x2 : x1 stretches to range x2 in dimension x3 from relaxed range x4.
 x1 tcena  x4 x3 x2 : x1 extends to range x2 in dimension x3 from relaxed range x4.
 x1 tcica  x3 x2 : x1 misleads x2 into x3 .
@@ -5600,18 +5600,18 @@ x1 tinbe  x3 x2 : x1 obeys the command x2 made by x3
 x1 tinbe  x3 x2 : x1 obeys the rule x2 made by x3
 x1 tinbe  x3 x2 : x1 follows the command x2 made by x3
 x1 tinbe  x3 x2 : x1 follows the rule x2 made by x3
-x1 tinci  : x1 is_a_quantity_of tin
+x1 tinci  : x1 is a quantity of tin
 x1 tinci  : x1 contains tin
-x1 tinci  : x1 is_made_of tin
+x1 tinci  : x1 is made of tin
 x1 tinsa  x4 x3 x2 : x1 is stiff in direction x2 against force x3 under conditions x4.
 x1 tinsa  x4 x3 x2 : x1 is rigid in direction x2 against force x3 under conditions x4.
 x1 tinsa  x4 x3 x2 : x1 is inflexible in direction x2 against force x3 under conditions x4.
 x1 tinsa  x4 x3 x2 : x1 is resistant in direction x2 against force x3 under conditions x4.
 x1 tirna  x3 x2 : x1 hears x2 against background x3
 x1 tirna  x3 x2 : x1 hears x2 against noise x3
-x1 tirse  : x1 is_a_quantity_of iron
+x1 tirse  : x1 is a quantity of iron
 x1 tirse  : x1 contains iron
-x1 tirse  : x1 is_made_of iron
+x1 tirse  : x1 is made of iron
 x1 tirxu  x3 x2 : x1 is a tiger of species x2 with coat markings x3.
 x1 tirxu  x3 x2 : x1 is a tiger of breed x2 with coat markings x3.
 x1 tirxu  x3 x2 : x1 is a leopard of species x2 with coat markings x3.
@@ -5652,15 +5652,15 @@ x1 torni  x2 : x1 twists under force x2.
 x1 torni  x2 : x1 twists under torsion x2.
 x1 traji  x4 x3 x2 : x1 is superlative in property x2 , the x3 extreme among set x4.
 x1 traji  x4 x3 x2 : x1 is superlative in property x2 , the x3 extreme among range x4.
-x1 trano  : x1 is_a_quantity_of nitrogen
-x1 trano  : x1 is_a_quantity_of ammonia
-x1 trano  : x1 is_a_quantity_of nitrates.
+x1 trano  : x1 is a quantity of nitrogen
+x1 trano  : x1 is a quantity of ammonia
+x1 trano  : x1 is a quantity of nitrates.
 x1 trano  : x1 contains nitrogen
 x1 trano  : x1 contains ammonia
 x1 trano  : x1 contains nitrates.
-x1 trano  : x1 is_made_of nitrogen
-x1 trano  : x1 is_made_of ammonia
-x1 trano  : x1 is_made_of nitrates.
+x1 trano  : x1 is made of nitrogen
+x1 trano  : x1 is made of ammonia
+x1 trano  : x1 is made of nitrates.
 x1 trati  x2 : x1 is taut tight in direction x2.
 x1 trati  x2 : x1 is tense tight in direction x2.
 x1 trati  x2 : x1 is strained tight in direction x2.
@@ -5736,9 +5736,9 @@ x1 tunba  x3 x2 : x1 is a sibling of x2 by bond x3.
 x1 tunba  x3 x2 : x1 is a sibling of x2 by tie x3.
 x1 tunba  x3 x2 : x1 is a sibling of x2 by standard x3.
 x1 tunba  x3 x2 : x1 is a sibling of x2 by parent x3.
-x1 tunka  : x1 is_made_of copper
+x1 tunka  : x1 is made of copper
 x1 tunka  : x1 contains copper
-x1 tunka  : x1 is_a_quantity_of copper
+x1 tunka  : x1 is a quantity of copper
 x1 tunlo  : x1 gulps
 x1 tunlo  : x1 swallows.
 x1 tunta  x2 : x1 pokes x2 .
@@ -5812,8 +5812,8 @@ x1 tutra  x2 : x1 is space of to by x2.
 x1 tutra  x2 : x1 is space of controlled by x2.
 x1 tutra  x2 : x1 is space belonging to by x2.
 x1 tutra  x2 : x1 is space belonging controlled by x2.
-x1 vacri  x3 x2 : x1 is_a_quantity_of air atmosphere of planet x2, of composition including x3.
-x1 vacri  x3 x2 : x1 is_a_quantity_of normally-gaseous atmosphere of planet x2, of composition including x3.
+x1 vacri  x3 x2 : x1 is a quantity of air atmosphere of planet x2, of composition including x3.
+x1 vacri  x3 x2 : x1 is a quantity of normally-gaseous atmosphere of planet x2, of composition including x3.
 x1 vajni  x3 x2 : x1 is important to x2 in aspect reason x3 .
 x1 vajni  x3 x2 : x1 is important to x2 in for reason x3 .
 x1 vajni  x3 x2 : x1 is significant to x2 in aspect reason x3 .
@@ -5831,12 +5831,12 @@ x1 vanbi  x2 : x1 is part of an surroundings of x2.
 x1 vanbi  x2 : x1 is part of an context of x2.
 x1 vanbi  x2 : x1 is part of an ambience of x2.
 x1 vanci  x3 x2 : x1 is an evening of day x2 at location x3.
-x1 vanju  x2 : x1 is_made_of wine from fruit x2.
-x1 vanju  x2 : x1 is_made_of wine from grapes x2.
+x1 vanju  x2 : x1 is made of wine from fruit x2.
+x1 vanju  x2 : x1 is made of wine from grapes x2.
 x1 vanju  x2 : x1 contains wine from fruit x2.
 x1 vanju  x2 : x1 contains wine from grapes x2.
-x1 vanju  x2 : x1 is_a_quantity_of wine from fruit x2.
-x1 vanju  x2 : x1 is_a_quantity_of wine from grapes x2.
+x1 vanju  x2 : x1 is a quantity of wine from fruit x2.
+x1 vanju  x2 : x1 is a quantity of wine from grapes x2.
 x1 vasru  x2 : x1 contains contents x2 within
 x1 vasru  x2 : x1 holds contents x2 within
 x1 vasru  x2 : x1 encloses contents x2 within
@@ -6054,12 +6054,12 @@ x1 xalbo  x2 : x1 uses levity non-serious about x2 .
 x1 xalbo  x2 : x1 uses levity frivolous about x2 .
 x1 xalbo  x2 : x1 uses is non-serious about x2 .
 x1 xalbo  x2 : x1 uses is frivolous about x2 .
-x1 xalka  x3 x2 : x1 is_a_quantity_of alcohol of type x2 from source x3.
-x1 xalka  x3 x2 : x1 is_a_quantity_of alcohol of type x2 from process x3.
+x1 xalka  x3 x2 : x1 is a quantity of alcohol of type x2 from source x3.
+x1 xalka  x3 x2 : x1 is a quantity of alcohol of type x2 from process x3.
 x1 xalka  x3 x2 : x1 contains alcohol of type x2 from source x3.
 x1 xalka  x3 x2 : x1 contains alcohol of type x2 from process x3.
-x1 xalka  x3 x2 : x1 is_made_of alcohol of type x2 from source x3.
-x1 xalka  x3 x2 : x1 is_made_of alcohol of type x2 from process x3.
+x1 xalka  x3 x2 : x1 is made of alcohol of type x2 from source x3.
+x1 xalka  x3 x2 : x1 is made of alcohol of type x2 from process x3.
 x1 xalni  x2 : x1 is panicked by crisis x2 .
 x1 xamgu  x3 x2 : x1 is good for x2 by standard x3.
 x1 xamgu  x3 x2 : x1 is beneficial for x2 by standard x3.
@@ -6143,8 +6143,8 @@ x1 xexso  x3 x2 : x1 is $10^{18}$ of x2 in aspect x3 .
 x1 xindo  x2 : x1 reflects Hindi language in aspect x2.
 x1 xindo  x2 : x1 reflects Hindi culture in aspect x2.
 x1 xindo  x2 : x1 reflects Hindi religion in aspect x2.
-x1 xinmo  x3 x2 : x1 is_a_quantity_of ink of color x2 used by writing device x3.
-x1 xinmo  x3 x2 : x1 is_a_quantity_of ink of pigment x2 used by writing device x3.
+x1 xinmo  x3 x2 : x1 is a quantity of ink of color x2 used by writing device x3.
+x1 xinmo  x3 x2 : x1 is a quantity of ink of pigment x2 used by writing device x3.
 x1 xirma  x2 : x1 is a horse of species x2.
 x1 xirma  x2 : x1 is a horse of breed x2.
 x1 xirma  x2 : x1 is a equine of species x2.
@@ -6185,12 +6185,12 @@ x1 xrani  x4 x3 x2 : x1 damages victim x2 in property x3 resulting in injury x4 
 x1 xriso  x2 : x1 pertains to the Christian religion in aspect x2.
 x1 xriso  x2 : x1 pertains to the Christian culture in aspect x2.
 x1 xriso  x2 : x1 pertains to the Christian nationality in aspect x2.
-x1 xruba  x2 : x1 is_a_quantity_of buckwheat grass of species x2.
-x1 xruba  x2 : x1 is_a_quantity_of buckwheat grass of strain x2.
-x1 xruba  x2 : x1 is_a_quantity_of rhubarb grass of species x2.
-x1 xruba  x2 : x1 is_a_quantity_of rhubarb grass of strain x2.
-x1 xruba  x2 : x1 is_a_quantity_of sorrel grass of species x2.
-x1 xruba  x2 : x1 is_a_quantity_of sorrel grass of strain x2.
+x1 xruba  x2 : x1 is a quantity of buckwheat grass of species x2.
+x1 xruba  x2 : x1 is a quantity of buckwheat grass of strain x2.
+x1 xruba  x2 : x1 is a quantity of rhubarb grass of species x2.
+x1 xruba  x2 : x1 is a quantity of rhubarb grass of strain x2.
+x1 xruba  x2 : x1 is a quantity of sorrel grass of species x2.
+x1 xruba  x2 : x1 is a quantity of sorrel grass of strain x2.
 x1 xruki  x2 : x1 is a turkey of species x2.
 x1 xruki  x2 : x1 is a turkey of breed x2.
 x1 xrula  x2 : x1 is a flower of plant x2
@@ -6223,26 +6223,26 @@ x1 xutla  : x1 is smooth in texture
 x1 xutla  : x1 is smooth in regularity.
 x1 xutla  : x1 is even in texture
 x1 xutla  : x1 is even in regularity.
-x1 zabna  : $x_1$ is favorable in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is great in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is superb in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is fabulous in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is dandy in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is outstanding in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is swell in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is admirable in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is nice in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is commendable in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is delightful in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is desirable in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is enjoyable in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is laudable in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is likable in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is lovable in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is wonderful in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is praiseworthy in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is high-quality in property $x_2$ by standard $x_3$
-x1 zabna  : $x_1$ is cool in property $x_2$ by standard $x_3$
+x1 zabna  : $x 1$ is favorable in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is great in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is superb in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is fabulous in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is dandy in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is outstanding in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is swell in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is admirable in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is nice in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is commendable in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is delightful in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is desirable in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is enjoyable in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is laudable in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is likable in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is lovable in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is wonderful in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is praiseworthy in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is high-quality in property $x 2$ by standard $x 3$
+x1 zabna  : $x 1$ is cool in property $x 2$ by standard $x 3$
 x1 zajba  x2 : x1 is a gymnast at gymnastics feat x2.
 x1 zajba  x2 : x1 is a gymnast performs gymnastics feat x2.
 x1 zalvi  x3 x2 : x1 grinds x2 into powder x3.
@@ -6290,9 +6290,9 @@ x1 zasti  x3 x2 : x1 exists reality for x2 under metaphysics x3.
 x1 zasti  x3 x2 : x1 is real for x2 under metaphysics x3.
 x1 zasti  x3 x2 : x1 is actual for x2 under metaphysics x3.
 x1 zasti  x3 x2 : x1 is reality for x2 under metaphysics x3.
-x1 zbabu  x3 x2 : x1 is_a_quantity_of soap from source x2 of composition including x3.
+x1 zbabu  x3 x2 : x1 is a quantity of soap from source x2 of composition including x3.
 x1 zbabu  x3 x2 : x1 contains soap from source x2 of composition including x3.
-x1 zbabu  x3 x2 : x1 is_made_of soap from source x2 of composition including x3.
+x1 zbabu  x3 x2 : x1 is made of soap from source x2 of composition including x3.
 x1 zbani  x2 : x1 is a bay in coast x2.
 x1 zbani  x2 : x1 is a bay in shoreline x2.
 x1 zbani  x2 : x1 is a bay of coast x2.
@@ -6360,9 +6360,9 @@ x1 zifre  x3 x2 : x1 is free liberty to do x2 under conditions x3.
 x1 zifre  x3 x2 : x1 is free liberty to be x2 under conditions x3.
 x1 zifre  x3 x2 : x1 is at liberty to do x2 under conditions x3.
 x1 zifre  x3 x2 : x1 is at liberty to be x2 under conditions x3.
-x1 zinki  : x1 is_a_quantity_of zinc
+x1 zinki  : x1 is a quantity of zinc
 x1 zinki  : x1 contains zinc
-x1 zinki  : x1 is_made_of zinc
+x1 zinki  : x1 is made of zinc
 x1 zirpu  : x1 is purple .
 x1 zirpu  : x1 is violet .
 x1 zivle  x4 x3 x2 : x1 invests resources x2 in investment x3 expecting return x4 
@@ -6386,10 +6386,10 @@ x1 zukte  x3 x2 : x1 is a volitional entity employing taking action x2 for purpo
 x1 zukte  x3 x2 : x1 is a volitional entity employing taking action x2 for purpose to end x3.
 x1 zukte  x3 x2 : x1 is a volitional entity employing taking action x2 for goal x3 end x3.
 x1 zukte  x3 x2 : x1 is a volitional entity employing taking action x2 for goal to end x3.
-x1 zumri  x2 : x1 is_a_quantity_of maize of species x2.
-x1 zumri  x2 : x1 is_a_quantity_of maize of strain x2.
-x1 zumri  x2 : x1 is_a_quantity_of corn of species x2.
-x1 zumri  x2 : x1 is_a_quantity_of corn of strain x2.
+x1 zumri  x2 : x1 is a quantity of maize of species x2.
+x1 zumri  x2 : x1 is a quantity of maize of strain x2.
+x1 zumri  x2 : x1 is a quantity of corn of species x2.
+x1 zumri  x2 : x1 is a quantity of corn of strain x2.
 x1 zungi  x2 : x1 feels guilt about x2 .
 x1 zungi  x2 : x1 feels remorse about x2 .
 x1 zunle  x3 x2 : x1 is to the left side of x2 which faces x3.
