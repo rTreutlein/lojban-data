@@ -6400,6 +6400,6 @@ x1 zunti  x3 x2 : x1 interferes with x2 due to quality x3.
 x1 zunti  x3 x2 : x1 interferes hinders x2 due to quality x3.
 x1 zunti  x3 x2 : x1 interferes disrupts x2 due to quality x3.
 x1 zutse  x2 : x1 sits on surface x2.
-x1 zvati  x2 : x1 is at at x2.
+x1 zvati  x2 : x1 is at x2.
 x1 zvati  x2 : x1 is attending at x2.
 x1 zvati  x2 : x1 is present at x2.
