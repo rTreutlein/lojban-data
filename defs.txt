@@ -6,9 +6,9 @@ x1 badna  x2 : x1 is a banana of species x2.
 x1 badna  x2 : x1 is a banana of breed x2.
 x1 badna  x2 : x1 is a plantain of species x2.
 x1 badna  x2 : x1 is a plantain of breed x2.
-x1 badri  x2 : x1 is sad about x2 .
-x1 badri  x2 : x1 is depressed about x2 .
-x1 badri  x2 : x1 is dejected about x2 .
+x1 badri  x2 : x1 is sad about x2.
+x1 badri  x2 : x1 is depressed about x2.
+x1 badri  x2 : x1 is dejected about x2.
 x1 bajra  x4 x3 x2 : x1 runs on surface x2 using limbs x3 with gait x4.
 x1 bakfu  x3 x2 : x1 is a bundle containing x2, held together by x3.
 x1 bakfu  x3 x2 : x1 is a package containing x2, held together by x3.
@@ -45,35 +45,35 @@ x1 balre  x2 : x1 is a blade of weapon x2.
 x1 balvi  x2 : x1 is in the future of x2 in time sequence
 x1 balvi  x2 : x1 is later than x2 in time sequence
 x1 balvi  x2 : x1 is after x2 in time sequence
-x1 bancu  x4 x3 x2 : x1 exceeds x2 from x3 in property x4 .
-x1 bancu  x4 x3 x2 : x1 exceeds x2 from x3 in amount x4 .
-x1 bancu  x4 x3 x2 : x1 is beyond limit x2 from x3 in property x4 .
-x1 bancu  x4 x3 x2 : x1 is beyond limit x2 from x3 in amount x4 .
-x1 bancu  x4 x3 x2 : x1 boundary x2 from x3 in property x4 .
-x1 bancu  x4 x3 x2 : x1 boundary x2 from x3 in amount x4 .
-x1 bandu  x3 x2 : x1 defends x2 from threat x3 .
-x1 bandu  x3 x2 : x1 defends x2 from peril x3 .
-x1 bandu  x3 x2 : x1 defends x2 from potential x3 .
-x1 bandu  x3 x2 : x1 protects x2 from threat x3 .
-x1 bandu  x3 x2 : x1 protects x2 from peril x3 .
-x1 bandu  x3 x2 : x1 protects x2 from potential x3 .
+x1 bancu  x4 x3 x2 : x1 exceeds x2 from x3 in property x4.
+x1 bancu  x4 x3 x2 : x1 exceeds x2 from x3 in amount x4.
+x1 bancu  x4 x3 x2 : x1 is beyond limit x2 from x3 in property x4.
+x1 bancu  x4 x3 x2 : x1 is beyond limit x2 from x3 in amount x4.
+x1 bancu  x4 x3 x2 : x1 boundary x2 from x3 in property x4.
+x1 bancu  x4 x3 x2 : x1 boundary x2 from x3 in amount x4.
+x1 bandu  x3 x2 : x1 defends x2 from threat x3.
+x1 bandu  x3 x2 : x1 defends x2 from peril x3.
+x1 bandu  x3 x2 : x1 defends x2 from potential x3.
+x1 bandu  x3 x2 : x1 protects x2 from threat x3.
+x1 bandu  x3 x2 : x1 protects x2 from peril x3.
+x1 bandu  x3 x2 : x1 protects x2 from potential x3.
 x1 banfi  x2 : x1 is an amphibian of species x2.
 x1 banfi  x2 : x1 is an amphibian of breed x2.
-x1 bangu  x3 x2 : x1 is a language used by x2 to express x3 .
-x1 bangu  x3 x2 : x1 is a language used by x2 to communicate x3 .
-x1 bangu  x3 x2 : x1 is a dialect used by x2 to express x3 .
-x1 bangu  x3 x2 : x1 is a dialect used by x2 to communicate x3 .
-x1 bangu  x3 x2 : x1 is the language used by x2 to express x3 .
-x1 bangu  x3 x2 : x1 is the language used by x2 to communicate x3 .
-x1 bangu  x3 x2 : x1 is the dialect used by x2 to express x3 .
-x1 bangu  x3 x2 : x1 is the dialect used by x2 to communicate x3 .
+x1 bangu  x3 x2 : x1 is a language used by x2 to express x3.
+x1 bangu  x3 x2 : x1 is a language used by x2 to communicate x3.
+x1 bangu  x3 x2 : x1 is a dialect used by x2 to express x3.
+x1 bangu  x3 x2 : x1 is a dialect used by x2 to communicate x3.
+x1 bangu  x3 x2 : x1 is the language used by x2 to express x3.
+x1 bangu  x3 x2 : x1 is the language used by x2 to communicate x3.
+x1 bangu  x3 x2 : x1 is the dialect used by x2 to express x3.
+x1 bangu  x3 x2 : x1 is the dialect used by x2 to communicate x3.
 x1 banli  x3 x2 : x1 is great in property x2 by standard x3.
 x1 banli  x3 x2 : x1 is grand in property x2 by standard x3.
 x1 banro  x3 x2 : x1 grows to size form x2 from x3.
 x1 banro  x3 x2 : x1 grows to into form x2 from x3.
 x1 banro  x3 x2 : x1 expands to size form x2 from x3.
 x1 banro  x3 x2 : x1 expands to into form x2 from x3.
-x1 banxa  x3 x2 : x1 is a bank owned by x2 for banking function x3 .
+x1 banxa  x3 x2 : x1 is a bank owned by x2 for banking function x3.
 x1 banzu  x3 x2 : x1 suffices for purpose x2 under conditions x3.
 x1 banzu  x3 x2 : x1 is enough for purpose x2 under conditions x3.
 x1 banzu  x3 x2 : x1 is sufficient for purpose x2 under conditions x3.
@@ -154,9 +154,9 @@ x1 benji  x5 x4 x3 x2 : x1 transmits x2 to receiver x3 from transmitter x4 via m
 x1 benji  x5 x4 x3 x2 : x1 transmits x2 to receiver x3 from transmitter x4 via medium x5.
 x1 benji  x5 x4 x3 x2 : x1 transmits x2 to receiver x3 from origin x4 via means x5.
 x1 benji  x5 x4 x3 x2 : x1 transmits x2 to receiver x3 from origin x4 via medium x5.
-x1 bersa  x2 : x1 is a son of mother x2 .
-x1 bersa  x2 : x1 is a son of father x2 .
-x1 bersa  x2 : x1 is a son of parents x2 .
+x1 bersa  x2 : x1 is a son of mother x2.
+x1 bersa  x2 : x1 is a son of father x2.
+x1 bersa  x2 : x1 is a son of parents x2.
 x1 berti  x3 x2 : x1 is to the north side of x2 according to frame of reference x3.
 x1 berti  x3 x2 : x1 is to the northern side of x2 according to frame of reference x3.
 x1 besna  x2 : x1 is a brain of x2
@@ -182,9 +182,9 @@ x1 bifce  x2 : x1 is a wasp of species x2.
 x1 bifce  x2 : x1 is a wasp of breed x2.
 x1 bifce  x2 : x1 is a hornet of species x2.
 x1 bifce  x2 : x1 is a hornet of breed x2.
-x1 bikla  : x1 whips .
-x1 bikla  : x1 lashes .
-x1 bikla  : x1 snaps .
+x1 bikla  : x1 whips.
+x1 bikla  : x1 lashes.
+x1 bikla  : x1 snaps.
 x1 bilga  x3 x2 : x1 is bound do x2 in standard x3
 x1 bilga  x3 x2 : x1 is bound do x2 in agreement x3
 x1 bilga  x3 x2 : x1 is bound do x2 by standard x3
@@ -219,8 +219,8 @@ x1 bilni  x3 x2 : x1 is prepared by system x2 for purpose x3.
 x1 bindo  x2 : x1 reflects Indonesian culture in aspect x2.
 x1 bindo  x2 : x1 reflects Indonesian nationality in aspect x2.
 x1 bindo  x2 : x1 reflects Indonesian language in aspect x2.
-x1 binra  x4 x3 x2 : x1 insures x2 against peril x3 providing benefit x4 .
-x1 binra  x4 x3 x2 : x1 indemnifies x2 against peril x3 providing benefit x4 .
+x1 binra  x4 x3 x2 : x1 insures x2 against peril x3 providing benefit x4.
+x1 binra  x4 x3 x2 : x1 indemnifies x2 against peril x3 providing benefit x4.
 x1 binxo  x3 x2 : x1 becomes into x2 under conditions x3.
 x1 binxo  x3 x2 : x1 changes into x2 under conditions x3.
 x1 binxo  x3 x2 : x1 converts into x2 under conditions x3.
@@ -250,12 +250,12 @@ x1 bitmu  x4 x3 x2 : x1 is a wall separating x2 and x3 of structure x4.
 x1 bitmu  x4 x3 x2 : x1 is a wall separating x2 and x3 in structure x4.
 x1 bitmu  x4 x3 x2 : x1 is a fence separating x2 and x3 of structure x4.
 x1 bitmu  x4 x3 x2 : x1 is a fence separating x2 and x3 in structure x4.
-x1 blabi  : x1 is white colored .
-x1 blabi  : x1 is very-light colored .
+x1 blabi  : x1 is white colored.
+x1 blabi  : x1 is very-light colored.
 x1 blaci  x2 : x1 is a quantity of glass of composition including x2.
 x1 blaci  x2 : x1 is made of glass of composition including x2.
 x1 blaci  x2 : x1 contains glass of composition including x2.
-x1 blanu  : x1 is blue .
+x1 blanu  : x1 is blue.
 x1 bliku  x3 x2 : x1 is a block of material x2, surfaces x3.
 x1 bliku  x3 x2 : x1 is a block of material x2, sides x3.
 x1 bloti  x3 x2 : x1 is a boat for carrying x2, propelled by x3.
@@ -293,8 +293,8 @@ x1 bratu  x2 : x1 is solid precipitation of composition including x2.
 x1 brazo  x2 : x1 reflects Brazilian culture in aspect x2.
 x1 brazo  x2 : x1 reflects Brazilian nationality in aspect x2.
 x1 brazo  x2 : x1 reflects Brazilian language in aspect x2.
-x1 bredi  x2 : x1 is ready for x2 .
-x1 bredi  x2 : x1 is prepared for x2 .
+x1 bredi  x2 : x1 is ready for x2.
+x1 bredi  x2 : x1 is prepared for x2.
 x1 bridi  x3 x2 : x1 is a predicate relationship with relation x2 among arguments x3.
 x1 brife  x3 x2 : x1 is a breeze from direction x2 with speed x3
 x1 brife  x3 x2 : x1 is a wind from direction x2 with speed x3
@@ -309,11 +309,11 @@ x1 brito  x2 : x1 reflects British Kingdom culture in aspect x2.
 x1 brito  x2 : x1 reflects British Kingdom nationality in aspect x2.
 x1 brito  x2 : x1 reflects United Kingdom culture in aspect x2.
 x1 brito  x2 : x1 reflects United Kingdom nationality in aspect x2.
-x1 broda  : 1st assignable variable predicate .
-x1 brode  : 2nd assignable variable predicate .
-x1 brodi  : 3rd assignable variable predicate .
-x1 brodo  : 4th assignable variable predicate .
-x1 brodu  : 5th assignable variable predicate .
+x1 broda  : 1st assignable variable predicate.
+x1 brode  : 2nd assignable variable predicate.
+x1 brodi  : 3rd assignable variable predicate.
+x1 brodo  : 4th assignable variable predicate.
+x1 brodu  : 5th assignable variable predicate.
 x1 bruna  x3 x2 : x1 is brother of x2 by bond x3
 x1 bruna  x3 x2 : x1 is brother of x2 by tie x3
 x1 bruna  x3 x2 : x1 is brother of x2 by standard x3
@@ -333,26 +333,26 @@ x1 bumru  x2 : x1 is covered by a fog of liquid x2.
 x1 bumru  x2 : x1 is covered by a mist of liquid x2.
 x1 bumru  x2 : x1 is covered by a vapor of liquid x2.
 x1 bunda  x4 x3 x2 : x1 is x2 local weight unit by standard x3 with subunits x4.
-x1 bunre  : x1 is brown .
-x1 bunre  : x1 is tan .
+x1 bunre  : x1 is brown.
+x1 bunre  : x1 is tan.
 x1 burcu  x3 x2 : x1 is a brush for purpose x2 with bristles x3.
-x1 burna  x2 : x1 is embarrassed about conditions x2 .
-x1 burna  x2 : x1 is embarrassed under conditions x2 .
-x1 burna  x2 : x1 is disconcerted about conditions x2 .
-x1 burna  x2 : x1 is disconcerted under conditions x2 .
-x1 burna  x2 : x1 is flustered about conditions x2 .
-x1 burna  x2 : x1 is flustered under conditions x2 .
-x1 burna  x2 : x1 is ill-at-ease about conditions x2 .
-x1 burna  x2 : x1 is ill-at-ease under conditions x2 .
+x1 burna  x2 : x1 is embarrassed about conditions x2.
+x1 burna  x2 : x1 is embarrassed under conditions x2.
+x1 burna  x2 : x1 is disconcerted about conditions x2.
+x1 burna  x2 : x1 is disconcerted under conditions x2.
+x1 burna  x2 : x1 is flustered about conditions x2.
+x1 burna  x2 : x1 is flustered under conditions x2.
+x1 burna  x2 : x1 is ill-at-ease about conditions x2.
+x1 burna  x2 : x1 is ill-at-ease under conditions x2.
 x1 cabna  x2 : x1 is current at x2 in time.
 x1 cabna  x2 : x1 is in the present of x2 in time.
 x1 cabna  x2 : x1 is during x2 in time.
 x1 cabna  x2 : x1 is concurrent with x2 in time.
 x1 cabna  x2 : x1 is simultaneous with x2 in time.
-x1 cabra  x3 x2 : x1 is apparatus for function x2 controlled by x3 .
-x1 cabra  x3 x2 : x1 is mechanism for function x2 controlled by x3 .
-x1 cabra  x3 x2 : x1 is device for function x2 controlled by x3 .
-x1 cabra  x3 x2 : x1 is equipment for function x2 controlled by x3 .
+x1 cabra  x3 x2 : x1 is apparatus for function x2 controlled by x3.
+x1 cabra  x3 x2 : x1 is mechanism for function x2 controlled by x3.
+x1 cabra  x3 x2 : x1 is device for function x2 controlled by x3.
+x1 cabra  x3 x2 : x1 is equipment for function x2 controlled by x3.
 x1 cacra  x3 x2 : x1 is x2 hours in duration by standard x3.
 x1 cadzu  x3 x2 : x1 walks on surface x2 using limbs x3.
 x1 cadzu  x3 x2 : x1 strides on surface x2 using limbs x3.
@@ -483,17 +483,17 @@ x1 catra  x3 x2 : x1 murders x2 by action x3.
 x1 catra  x3 x2 : x1 murders x2 by method x3.
 x1 caxno  x4 x3 x2 : x1 is shallow in extent in direction x2 away from reference point x3 by standard x4.
 x1 caxno  x4 x3 x2 : x1 is shallow in extent in property x2 away from reference point x3 by standard x4.
-x1 cecla  x3 x2 : x1 launches projectile x2, propelled by x3 .
-x1 cecla  x3 x2 : x1 launches missile x2, propelled by x3 .
-x1 cecla  x3 x2 : x1 fires projectile x2, propelled by x3 .
-x1 cecla  x3 x2 : x1 fires missile x2, propelled by x3 .
-x1 cecla  x3 x2 : x1 shoots projectile x2, propelled by x3 .
-x1 cecla  x3 x2 : x1 shoots missile x2, propelled by x3 .
+x1 cecla  x3 x2 : x1 launches projectile x2, propelled by x3.
+x1 cecla  x3 x2 : x1 launches missile x2, propelled by x3.
+x1 cecla  x3 x2 : x1 fires projectile x2, propelled by x3.
+x1 cecla  x3 x2 : x1 fires missile x2, propelled by x3.
+x1 cecla  x3 x2 : x1 shoots projectile x2, propelled by x3.
+x1 cecla  x3 x2 : x1 shoots missile x2, propelled by x3.
 x1 cecmu  x2 : x1 is a community of organisms x2.
 x1 cecmu  x2 : x1 is a colony of organisms x2.
-x1 cedra  x2 : x1 is an era characterized by x2 .
-x1 cedra  x2 : x1 is an epoch characterized by x2 .
-x1 cedra  x2 : x1 is an age characterized by x2 .
+x1 cedra  x2 : x1 is an era characterized by x2.
+x1 cedra  x2 : x1 is an epoch characterized by x2.
+x1 cedra  x2 : x1 is an age characterized by x2.
 x1 cenba  x4 x3 x2 : x1 varies in property x2 in amount x3 under conditions x4.
 x1 cenba  x4 x3 x2 : x1 varies in property x2 in degree x3 under conditions x4.
 x1 cenba  x4 x3 x2 : x1 varies in quantity x2 in amount x3 under conditions x4.
@@ -514,8 +514,8 @@ x1 censa  x2 : x1 is sacred to culture x2.
 x1 censa  x2 : x1 is sacred to religion x2.
 x1 censa  x2 : x1 is sacred to cult x2.
 x1 censa  x2 : x1 is sacred to group x2.
-x1 centi  x3 x2 : x1 is a hundredth of x2 in dimension x3 .
-x1 centi  x3 x2 : x1 is a hundredth of x2 in aspect x3 .
+x1 centi  x3 x2 : x1 is a hundredth of x2 in dimension x3.
+x1 centi  x3 x2 : x1 is a hundredth of x2 in aspect x3.
 x1 cerda  x4 x3 x2 : x1 is an heir to to inherit x2 from x3 according to rule x4.
 x1 cerda  x4 x3 x2 : x1 is an heir is to inherit x2 from x3 according to rule x4.
 x1 cerni  x3 x2 : x1 is a morning of day x2 at location x3.
@@ -542,8 +542,8 @@ x1 cfila  x3 x2 : x1 is a flaw in x2 causing x3.
 x1 cfila  x3 x2 : x1 is a fault in x2 causing x3.
 x1 cfila  x3 x2 : x1 is a defect in x2 causing x3.
 x1 cfine  x2 : x1 is a wedge of material x2.
-x1 cfipu  x3 x2 : x1 confuses x2 due to property x3 .
-x1 cfipu  x3 x2 : x1 baffles x2 due to property x3 .
+x1 cfipu  x3 x2 : x1 confuses x2 due to property x3.
+x1 cfipu  x3 x2 : x1 baffles x2 due to property x3.
 x1 ciblu  x2 : x1 is blood fluid of organism x2.
 x1 ciblu  x2 : x1 is vital fluid of organism x2.
 x1 cicna  : x1 is cyan
@@ -571,13 +571,13 @@ x1 cikna  : x1 is conscious.
 x1 cikre  x3 x2 : x1 repairs x2 for use x3.
 x1 cikre  x3 x2 : x1 mends x2 for use x3.
 x1 cikre  x3 x2 : x1 fixes x2 for use x3.
-x1 ciksi  x4 x3 x2 : x1 explains x2 to x3 with explanation x4 .
+x1 ciksi  x4 x3 x2 : x1 explains x2 to x3 with explanation x4.
 x1 cilce  : x1 is wild
 x1 cilce  : x1 is untamed.
 x1 cilmo  x2 : x1 is moist with liquid x2.
 x1 cilmo  x2 : x1 is wet with liquid x2.
 x1 cilmo  x2 : x1 is damp with liquid x2.
-x1 cilre  x5 x4 x3 x2 : x1 learns x2 about subject x3 from source x4 by method x5 .
+x1 cilre  x5 x4 x3 x2 : x1 learns x2 about subject x3 from source x4 by method x5.
 x1 cilta  x2 : x1 is a thread of material x2.
 x1 cilta  x2 : x1 is a filament of material x2.
 x1 cilta  x2 : x1 is a wire of material x2.
@@ -634,10 +634,10 @@ x1 cinza  x3 x2 : x1 is are pliers for x2 to pinch x3.
 x1 cipni  x2 : x1 is a bird of species x2.
 x1 cipni  x2 : x1 is a avian of species x2.
 x1 cipni  x2 : x1 is a fowl of species x2.
-x1 cipra  x3 x2 : x1 is a test for property x2 in subject x3 .
-x1 cipra  x3 x2 : x1 is a test for state x2 in subject x3 .
-x1 cipra  x3 x2 : x1 is a proof of property x2 in subject x3 .
-x1 cipra  x3 x2 : x1 is a proof of state x2 in subject x3 .
+x1 cipra  x3 x2 : x1 is a test for property x2 in subject x3.
+x1 cipra  x3 x2 : x1 is a test for state x2 in subject x3.
+x1 cipra  x3 x2 : x1 is a proof of property x2 in subject x3.
+x1 cipra  x3 x2 : x1 is a proof of state x2 in subject x3.
 x1 cirko  x3 x2 : x1 loses person x2 at x3
 x1 cirko  x3 x2 : x1 loses person x2 near x3
 x1 cirko  x3 x2 : x1 loses thing x2 at x3
@@ -650,9 +650,9 @@ x1 ciska  x4 x3 x2 : x1 inscribes x2 on display medium x3 with writing implement
 x1 ciska  x4 x3 x2 : x1 inscribes x2 on storage medium x3 with writing implement x4
 x1 ciska  x4 x3 x2 : x1 writes x2 on display medium x3 with writing implement x4
 x1 ciska  x4 x3 x2 : x1 writes x2 on storage medium x3 with writing implement x4
-x1 cisma  : x1 smiles .
-x1 cisma  : x1 grins .
-x1 ciste  x4 x3 x2 : x1 is a system interrelated by structure x2 among components x3 displaying x4 .
+x1 cisma  : x1 smiles.
+x1 cisma  : x1 grins.
+x1 ciste  x4 x3 x2 : x1 is a system interrelated by structure x2 among components x3 displaying x4.
 x1 citka  x2 : x1 eats x2.
 x1 citka  x2 : x1 ingests x2.
 x1 citka  x2 : x1 consumes x2.
@@ -667,11 +667,11 @@ x1 civla  x3 x2 : x1 is a louse of species x2, parasitic on x3.
 x1 civla  x3 x2 : x1 is a louse of breed x2, parasitic on x3.
 x1 civla  x3 x2 : x1 is a flea of species x2, parasitic on x3.
 x1 civla  x3 x2 : x1 is a flea of breed x2, parasitic on x3.
-x1 cizra  x3 x2 : x1 is strange to x2 in property x3 .
-x1 cizra  x3 x2 : x1 is weird to x2 in property x3 .
-x1 cizra  x3 x2 : x1 is deviant to x2 in property x3 .
-x1 cizra  x3 x2 : x1 is bizarre to x2 in property x3 .
-x1 cizra  x3 x2 : x1 is odd to x2 in property x3 .
+x1 cizra  x3 x2 : x1 is strange to x2 in property x3.
+x1 cizra  x3 x2 : x1 is weird to x2 in property x3.
+x1 cizra  x3 x2 : x1 is deviant to x2 in property x3.
+x1 cizra  x3 x2 : x1 is bizarre to x2 in property x3.
+x1 cizra  x3 x2 : x1 is odd to x2 in property x3.
 x1 ckabu  x3 x2 : x1 is a quantity of rubber from source x2 of composition including x3.
 x1 ckabu  x3 x2 : x1 is a quantity of latex from source x2 of composition including x3.
 x1 ckabu  x3 x2 : x1 contains rubber from source x2 of composition including x3.
@@ -697,16 +697,16 @@ x1 ckaji  x2 : x1 is characterized by feature x2
 x1 ckaji  x2 : x1 is characterized by trait x2
 x1 ckaji  x2 : x1 is characterized by aspect x2
 x1 ckaji  x2 : x1 is characterized by dimension x2
-x1 ckana  x3 x2 : x1 is a bed of material x2 for holding x3 .
-x1 ckana  x3 x2 : x1 is a bed of material x2 for supporting x3 .
-x1 ckana  x3 x2 : x1 is a pallet of material x2 for holding x3 .
-x1 ckana  x3 x2 : x1 is a pallet of material x2 for supporting x3 .
+x1 ckana  x3 x2 : x1 is a bed of material x2 for holding x3.
+x1 ckana  x3 x2 : x1 is a bed of material x2 for supporting x3.
+x1 ckana  x3 x2 : x1 is a pallet of material x2 for holding x3.
+x1 ckana  x3 x2 : x1 is a pallet of material x2 for supporting x3.
 x1 ckape  x3 x2 : x1 is perilous harmful to x2 under conditions x3.
 x1 ckape  x3 x2 : x1 is dangerous harmful to x2 under conditions x3.
 x1 ckape  x3 x2 : x1 is potentially harmful to x2 under conditions x3.
-x1 ckasu  x4 x3 x2 : x1 ridicules at x2 about x3 by doing activity x4 .
-x1 ckasu  x4 x3 x2 : x1 mocks at x2 about x3 by doing activity x4 .
-x1 ckasu  x4 x3 x2 : x1 scoffs at x2 about x3 by doing activity x4 .
+x1 ckasu  x4 x3 x2 : x1 ridicules at x2 about x3 by doing activity x4.
+x1 ckasu  x4 x3 x2 : x1 mocks at x2 about x3 by doing activity x4.
+x1 ckasu  x4 x3 x2 : x1 scoffs at x2 about x3 by doing activity x4.
 x1 ckeji  x3 x2 : x1 feels ashamed under conditions x2 before community x3.
 x1 ckeji  x3 x2 : x1 feels ashamed under conditions x2 before audience x3.
 x1 ckeji  x3 x2 : x1 feels mortified under conditions x2 before community x3.
@@ -717,15 +717,15 @@ x1 ckiku  x3 x2 : x1 is a key fitting lock x2, and having relevant properties x3
 x1 ckiku  x3 x2 : x1 is a key releasing lock x2, and having relevant properties x3.
 x1 ckiku  x3 x2 : x1 is a key opening lock x2, and having relevant properties x3.
 x1 ckiku  x3 x2 : x1 is a key unlocking lock x2, and having relevant properties x3.
-x1 ckilu  x2 : x1 is a scale of units for measuring x2 .
-x1 ckilu  x2 : x1 is a scale of units for observing x2 .
-x1 ckilu  x2 : x1 is a scale of units for determining x2 .
+x1 ckilu  x2 : x1 is a scale of units for measuring x2.
+x1 ckilu  x2 : x1 is a scale of units for observing x2.
+x1 ckilu  x2 : x1 is a scale of units for determining x2.
 x1 ckini  x3 x2 : x1 is related to x2 by relationship x3.
 x1 ckini  x3 x2 : x1 is associated with x2 by relationship x3.
 x1 ckini  x3 x2 : x1 is akin to x2 by relationship x3.
-x1 ckire  x3 x2 : x1 is grateful to x2 for x3 .
-x1 ckire  x3 x2 : x1 is thankful to x2 for x3 .
-x1 ckire  x3 x2 : x1 is appreciative of x2 for x3 .
+x1 ckire  x3 x2 : x1 is grateful to x2 for x3.
+x1 ckire  x3 x2 : x1 is thankful to x2 for x3.
+x1 ckire  x3 x2 : x1 is appreciative of x2 for x3.
 x1 ckule  x5 x4 x3 x2 : x1 is school at x2 teaching subject x3 to audien. x4 operated by x5.
 x1 ckule  x5 x4 x3 x2 : x1 is school at x2 teaching subject x3 to commun. x4 operated by x5.
 x1 ckule  x5 x4 x3 x2 : x1 is institute at x2 teaching subject x3 to audien. x4 operated by x5.
@@ -762,8 +762,8 @@ x1 cliva  x3 x2 : x1 goes away from x2 via route x3.
 x1 cliva  x3 x2 : x1 departs from x2 via route x3.
 x1 cliva  x3 x2 : x1 parts from x2 via route x3.
 x1 cliva  x3 x2 : x1 separates from x2 via route x3.
-x1 clupa  x2 : x1 is a loop of x2 .
-x1 clupa  x2 : x1 is a circuit of x2 .
+x1 clupa  x2 : x1 is a loop of x2.
+x1 clupa  x2 : x1 is a circuit of x2.
 x1 cmaci  x2 : x1 is a mathematics of type x2.
 x1 cmaci  x2 : x1 is a mathematics of describing x2.
 x1 cmalu  x3 x2 : x1 is small in property x2 as compared with standard x3.
@@ -775,36 +775,36 @@ x1 cmana  x2 : x1 is a hill projecting from land mass x2.
 x1 cmana  x2 : x1 is a mound projecting from land mass x2.
 x1 cmavo  x4 x3 x2 : x1 is a structure word of grammatical class x2, with meaning x3 in usage x4.
 x1 cmavo  x4 x3 x2 : x1 is a structure word of grammatical class x2, with function x3 in usage x4.
-x1 cmene  x3 x2 : x1 is a name of x2 to namer x3 .
-x1 cmene  x3 x2 : x1 is a name of x2 to name-user x3 .
-x1 cmene  x3 x2 : x1 is a name of x2 used-by namer x3 .
-x1 cmene  x3 x2 : x1 is a name of x2 used-by name-user x3 .
-x1 cmene  x3 x2 : x1 is a title of x2 to namer x3 .
-x1 cmene  x3 x2 : x1 is a title of x2 to name-user x3 .
-x1 cmene  x3 x2 : x1 is a title of x2 used-by namer x3 .
-x1 cmene  x3 x2 : x1 is a title of x2 used-by name-user x3 .
-x1 cmene  x3 x2 : x1 is a tag of x2 to namer x3 .
-x1 cmene  x3 x2 : x1 is a tag of x2 to name-user x3 .
-x1 cmene  x3 x2 : x1 is a tag of x2 used-by namer x3 .
-x1 cmene  x3 x2 : x1 is a tag of x2 used-by name-user x3 .
-x1 cmene  x3 x2 : x1 is the name of x2 to namer x3 .
-x1 cmene  x3 x2 : x1 is the name of x2 to name-user x3 .
-x1 cmene  x3 x2 : x1 is the name of x2 used-by namer x3 .
-x1 cmene  x3 x2 : x1 is the name of x2 used-by name-user x3 .
-x1 cmene  x3 x2 : x1 is the title of x2 to namer x3 .
-x1 cmene  x3 x2 : x1 is the title of x2 to name-user x3 .
-x1 cmene  x3 x2 : x1 is the title of x2 used-by namer x3 .
-x1 cmene  x3 x2 : x1 is the title of x2 used-by name-user x3 .
-x1 cmene  x3 x2 : x1 is the tag of x2 to namer x3 .
-x1 cmene  x3 x2 : x1 is the tag of x2 to name-user x3 .
-x1 cmene  x3 x2 : x1 is the tag of x2 used-by namer x3 .
-x1 cmene  x3 x2 : x1 is the tag of x2 used-by name-user x3 .
-x1 cmila  : x1 laughs .
+x1 cmene  x3 x2 : x1 is a name of x2 to namer x3.
+x1 cmene  x3 x2 : x1 is a name of x2 to name-user x3.
+x1 cmene  x3 x2 : x1 is a name of x2 used-by namer x3.
+x1 cmene  x3 x2 : x1 is a name of x2 used-by name-user x3.
+x1 cmene  x3 x2 : x1 is a title of x2 to namer x3.
+x1 cmene  x3 x2 : x1 is a title of x2 to name-user x3.
+x1 cmene  x3 x2 : x1 is a title of x2 used-by namer x3.
+x1 cmene  x3 x2 : x1 is a title of x2 used-by name-user x3.
+x1 cmene  x3 x2 : x1 is a tag of x2 to namer x3.
+x1 cmene  x3 x2 : x1 is a tag of x2 to name-user x3.
+x1 cmene  x3 x2 : x1 is a tag of x2 used-by namer x3.
+x1 cmene  x3 x2 : x1 is a tag of x2 used-by name-user x3.
+x1 cmene  x3 x2 : x1 is the name of x2 to namer x3.
+x1 cmene  x3 x2 : x1 is the name of x2 to name-user x3.
+x1 cmene  x3 x2 : x1 is the name of x2 used-by namer x3.
+x1 cmene  x3 x2 : x1 is the name of x2 used-by name-user x3.
+x1 cmene  x3 x2 : x1 is the title of x2 to namer x3.
+x1 cmene  x3 x2 : x1 is the title of x2 to name-user x3.
+x1 cmene  x3 x2 : x1 is the title of x2 used-by namer x3.
+x1 cmene  x3 x2 : x1 is the title of x2 used-by name-user x3.
+x1 cmene  x3 x2 : x1 is the tag of x2 to namer x3.
+x1 cmene  x3 x2 : x1 is the tag of x2 to name-user x3.
+x1 cmene  x3 x2 : x1 is the tag of x2 used-by namer x3.
+x1 cmene  x3 x2 : x1 is the tag of x2 used-by name-user x3.
+x1 cmila  : x1 laughs.
 x1 cmima  x2 : x1 is a member of set x2
 x1 cmima  x2 : x1 is a element of set x2
-x1 cmoni  x3 x2 : x1 groan x2 expressing x3 .
-x1 cmoni  x3 x2 : x1 howl x2 expressing x3 .
-x1 cmoni  x3 x2 : x1 scream x2 expressing x3 .
+x1 cmoni  x3 x2 : x1 groan x2 expressing x3.
+x1 cmoni  x3 x2 : x1 howl x2 expressing x3.
+x1 cmoni  x3 x2 : x1 scream x2 expressing x3.
 x1 cnano  x4 x3 x2 : x1 is a norm in property x2 among x3 by standard x4.
 x1 cnano  x4 x3 x2 : x1 is a norm in amount x2 among x3 by standard x4.
 x1 cnano  x4 x3 x2 : x1 is a average in property x2 among x3 by standard x4.
@@ -813,12 +813,12 @@ x1 cnebo  x2 : x1 is a neck of x2
 x1 cnebo  x2 : x1 is the neck of x2
 x1 cnemu  x4 x3 x2 : x1 rewards x2 for atypical x3 with reward x4.
 x1 cnemu  x4 x3 x2 : x1 rewards x2 for atypical x3 with desserts x4.
-x1 cnici  x2 : x1 is orderly in property x2 .
-x1 cnici  x2 : x1 is orderly in quantity x2 .
-x1 cnici  x2 : x1 is neat in property x2 .
-x1 cnici  x2 : x1 is neat in quantity x2 .
-x1 cnici  x2 : x1 is ordered in property x2 .
-x1 cnici  x2 : x1 is ordered in quantity x2 .
+x1 cnici  x2 : x1 is orderly in property x2.
+x1 cnici  x2 : x1 is orderly in quantity x2.
+x1 cnici  x2 : x1 is neat in property x2.
+x1 cnici  x2 : x1 is neat in quantity x2.
+x1 cnici  x2 : x1 is ordered in property x2.
+x1 cnici  x2 : x1 is ordered in quantity x2.
 x1 cnino  x4 x3 x2 : x1 is new to observer x2 in feature x3 by standard x4
 x1 cnino  x4 x3 x2 : x1 is unfamiliar to observer x2 in feature x3 by standard x4
 x1 cnino  x4 x3 x2 : x1 is novel to observer x2 in feature x3 by standard x4
@@ -844,11 +844,11 @@ x1 cortu  x2 : x1 hurts pain at locus x2.
 x1 cortu  x2 : x1 hurts hurt at locus x2.
 x1 cortu  x2 : x1 feels pain at locus x2.
 x1 cortu  x2 : x1 feels hurt at locus x2.
-x1 cpacu  x3 x2 : x1 gets x2 from source x3 .
-x1 cpacu  x3 x2 : x1 procures x2 from source x3 .
-x1 cpacu  x3 x2 : x1 acquires x2 from source x3 .
-x1 cpacu  x3 x2 : x1 obtains x2 from source x3 .
-x1 cpacu  x3 x2 : x1 accepts x2 from source x3 .
+x1 cpacu  x3 x2 : x1 gets x2 from source x3.
+x1 cpacu  x3 x2 : x1 procures x2 from source x3.
+x1 cpacu  x3 x2 : x1 acquires x2 from source x3.
+x1 cpacu  x3 x2 : x1 obtains x2 from source x3.
+x1 cpacu  x3 x2 : x1 accepts x2 from source x3.
 x1 cpana  x3 x2 : x1 is upon on on x2 in frame of reference x3.
 x1 cpana  x3 x2 : x1 is upon on on x2 in gravity x3.
 x1 cpana  x3 x2 : x1 is upon lying on x2 in frame of reference x3.
@@ -861,10 +861,10 @@ x1 cpana  x3 x2 : x1 is resting on on x2 in frame of reference x3.
 x1 cpana  x3 x2 : x1 is resting on on x2 in gravity x3.
 x1 cpana  x3 x2 : x1 is resting lying on x2 in frame of reference x3.
 x1 cpana  x3 x2 : x1 is resting lying on x2 in gravity x3.
-x1 cpare  x4 x3 x2 : x1 climbs on surface x2 in direction x3 using x4 .
-x1 cpare  x4 x3 x2 : x1 clambers on surface x2 in direction x3 using x4 .
-x1 cpare  x4 x3 x2 : x1 creeps on surface x2 in direction x3 using x4 .
-x1 cpare  x4 x3 x2 : x1 crawls on surface x2 in direction x3 using x4 .
+x1 cpare  x4 x3 x2 : x1 climbs on surface x2 in direction x3 using x4.
+x1 cpare  x4 x3 x2 : x1 clambers on surface x2 in direction x3 using x4.
+x1 cpare  x4 x3 x2 : x1 creeps on surface x2 in direction x3 using x4.
+x1 cpare  x4 x3 x2 : x1 crawls on surface x2 in direction x3 using x4.
 x1 cpedu  x4 x3 x2 : x1 requests for x2 of x3 in manner x4.
 x1 cpedu  x4 x3 x2 : x1 requests for x2 of x3 in form x4.
 x1 cpedu  x4 x3 x2 : x1 requests for x2 from x3 in manner x4.
@@ -937,10 +937,10 @@ x1 crida  x2 : x1 is a kobold of mythos x2.
 x1 crida  x2 : x1 is a kobold of religion x2.
 x1 crino  : x1 is green
 x1 crino  : x1 is verdant.
-x1 cripu  x4 x3 x2 : x1 is a bridge over x2 between x3 and x4 .
-x1 cripu  x4 x3 x2 : x1 is a bridge across x2 between x3 and x4 .
-x1 cripu  x4 x3 x2 : x1 is a span over x2 between x3 and x4 .
-x1 cripu  x4 x3 x2 : x1 is a span across x2 between x3 and x4 .
+x1 cripu  x4 x3 x2 : x1 is a bridge over x2 between x3 and x4.
+x1 cripu  x4 x3 x2 : x1 is a bridge across x2 between x3 and x4.
+x1 cripu  x4 x3 x2 : x1 is a span over x2 between x3 and x4.
+x1 cripu  x4 x3 x2 : x1 is a span across x2 between x3 and x4.
 x1 crisa  x3 x2 : x1 is summer of year x2 at location x3.
 x1 crisa  x3 x2 : x1 is summertime of year x2 at location x3.
 x1 critu  x3 x2 : x1 is autumn of year x2 at location x3.
@@ -974,9 +974,9 @@ x1 ctino  x3 x2 : x1 is a shadow of object x2, made by light source x3.
 x1 ctino  x3 x2 : x1 is a shadow of object x2, made by energy source x3.
 x1 ctino  x3 x2 : x1 is the shade of object x2, made by light source x3.
 x1 ctino  x3 x2 : x1 is the shade of object x2, made by energy source x3.
-x1 ctuca  x5 x4 x3 x2 : x1 teaches audience x2 ideas x3 about subject x4 by method x5 .
-x1 ctuca  x5 x4 x3 x2 : x1 teaches audience x2 methods x3 about subject x4 by method x5 .
-x1 ctuca  x5 x4 x3 x2 : x1 teaches audience x2 lore x3 about subject x4 by method x5 .
+x1 ctuca  x5 x4 x3 x2 : x1 teaches audience x2 ideas x3 about subject x4 by method x5.
+x1 ctuca  x5 x4 x3 x2 : x1 teaches audience x2 methods x3 about subject x4 by method x5.
+x1 ctuca  x5 x4 x3 x2 : x1 teaches audience x2 lore x3 about subject x4 by method x5.
 x1 cukla  : x1 is round
 x1 cukla  : x1 is circular
 x1 cukta  x5 x4 x3 x2 : x1 is a book containing work x2 by author x3 for audience x4 preserved in medium x5.
@@ -1000,9 +1000,9 @@ x1 curnu  x2 : x1 is a worm of species x2.
 x1 curnu  x2 : x1 is a worm of breed x2.
 x1 curnu  x2 : x1 is a invertebrate animal of species x2.
 x1 curnu  x2 : x1 is a invertebrate animal of breed x2.
-x1 curve  x2 : x1 is pure in property x2 .
-x1 curve  x2 : x1 is unadulterated in property x2 .
-x1 curve  x2 : x1 is unmitigated in property x2 .
+x1 curve  x2 : x1 is pure in property x2.
+x1 curve  x2 : x1 is unadulterated in property x2.
+x1 curve  x2 : x1 is unmitigated in property x2.
 x1 cusku  x4 x3 x2 : x1 expresses x2 for audience x3 via expressive medium x4.
 x1 cusku  x4 x3 x2 : x1 says x2 for audience x3 via expressive medium x4.
 x1 cutci  x3 x2 : x1 is a shoe for covering x2, and of material x3.
@@ -1017,10 +1017,10 @@ x1 cutne  x2 : x1 is a upper trunk of x2.
 x1 cutne  x2 : x1 is the chest trunk of x2.
 x1 cutne  x2 : x1 is the thorax trunk of x2.
 x1 cutne  x2 : x1 is the upper trunk of x2.
-x1 cuxna  x3 x2 : x1 chooses x2 from set of alternatives x3 .
-x1 cuxna  x3 x2 : x1 chooses x2 from sequence of alternatives x3 .
-x1 cuxna  x3 x2 : x1 selects x2 from set of alternatives x3 .
-x1 cuxna  x3 x2 : x1 selects x2 from sequence of alternatives x3 .
+x1 cuxna  x3 x2 : x1 chooses x2 from set of alternatives x3.
+x1 cuxna  x3 x2 : x1 chooses x2 from sequence of alternatives x3.
+x1 cuxna  x3 x2 : x1 selects x2 from set of alternatives x3.
+x1 cuxna  x3 x2 : x1 selects x2 from sequence of alternatives x3.
 x1 dacru  x3 x2 : x1 is a drawer in structure x2, a container for contents x3.
 x1 dacru  x3 x2 : x1 is a file in structure x2, a container for contents x3.
 x1 dacti  : x1 is a material object enduring in space-time
@@ -1079,11 +1079,11 @@ x1 daplu  x3 x2 : x1 is an atoll of x2 in body x3
 x1 dapma  x3 x2 : x1 curses x2 to fate x3.
 x1 dapma  x3 x2 : x1 damns x2 to fate x3.
 x1 dapma  x3 x2 : x1 condemns x2 to fate x3.
-x1 dargu  x4 x3 x2 : x1 is a road to x2 from x3 with route x4 .
-x1 dargu  x4 x3 x2 : x1 is a highway to x2 from x3 with route x4 .
+x1 dargu  x4 x3 x2 : x1 is a road to x2 from x3 with route x4.
+x1 dargu  x4 x3 x2 : x1 is a highway to x2 from x3 with route x4.
 x1 darlu  x3 x2 : x1 argues for stand x2 against stand x3
-x1 darno  x3 x2 : x1 is far from x2 in property x3 .
-x1 darno  x3 x2 : x1 is distant from x2 in property x3 .
+x1 darno  x3 x2 : x1 is far from x2 in property x3.
+x1 darno  x3 x2 : x1 is distant from x2 in property x3.
 x1 darsi  x2 : x1 shows audacity in behavior x2
 x1 darsi  x2 : x1 shows chutzpah in behavior x2
 x1 darxi  x4 x3 x2 : x1 hits x2 with instrument x3 at locus x4.
@@ -1113,8 +1113,8 @@ x1 datka  x2 : x1 is a duck of breed x2.
 x1 datni  x3 x2 : x1 is data about x2 gathered by method x3.
 x1 datni  x3 x2 : x1 is information about x2 gathered by method x3.
 x1 datni  x3 x2 : x1 is statistic about x2 gathered by method x3.
-x1 decti  x3 x2 : x1 is a tenth of x2 in dimension x3 .
-x1 decti  x3 x2 : x1 is a tenth of x2 in aspect x3 .
+x1 decti  x3 x2 : x1 is a tenth of x2 in dimension x3.
+x1 decti  x3 x2 : x1 is a tenth of x2 in aspect x3.
 x1 degji  x3 x2 : x1 is a finger on limb site x2 of body x3
 x1 degji  x3 x2 : x1 is a finger on body site x2 of body x3
 x1 degji  x3 x2 : x1 is a digit on limb site x2 of body x3
@@ -1130,8 +1130,8 @@ x1 degji  x3 x2 : x1 is the toe on body site x2 of body x3
 x1 dejni  x4 x3 x2 : x1 owes x2 in debt to creditor x3 in return for x4
 x1 dejni  x4 x3 x2 : x1 owes x2 in obligation to creditor x3 in return for x4
 x1 dekpu  x4 x3 x2 : x1 is x2 local volume unit by standard x3 with x4 subunits.
-x1 dekto  x3 x2 : x1 is ten of x2 in dimension x3 .
-x1 dekto  x3 x2 : x1 is ten of x2 in aspect x3 .
+x1 dekto  x3 x2 : x1 is ten of x2 in dimension x3.
+x1 dekto  x3 x2 : x1 is ten of x2 in aspect x3.
 x1 delno  x3 x2 : x1 is x2 candela in luminosity by standard x3.
 x1 dembi  x2 : x1 is a bean seed from plant x2.
 x1 dembi  x2 : x1 is a pea seed from plant x2.
@@ -1146,18 +1146,18 @@ x1 denmi  x3 x2 : x1 is packed in property x2 at location x3.
 x1 denmi  x3 x2 : x1 is packed in property x2 at locus x3.
 x1 denmi  x3 x2 : x1 is intense in property x2 at location x3.
 x1 denmi  x3 x2 : x1 is intense in property x2 at locus x3.
-x1 denpa  x4 x3 x2 : x1 awaits for x2 at state x3 before starting x4 .
-x1 denpa  x4 x3 x2 : x1 awaits for x2 at state x3 before continuing x4 .
-x1 denpa  x4 x3 x2 : x1 awaits until x2 at state x3 before starting x4 .
-x1 denpa  x4 x3 x2 : x1 awaits until x2 at state x3 before continuing x4 .
-x1 denpa  x4 x3 x2 : x1 waits for x2 at state x3 before starting x4 .
-x1 denpa  x4 x3 x2 : x1 waits for x2 at state x3 before continuing x4 .
-x1 denpa  x4 x3 x2 : x1 waits until x2 at state x3 before starting x4 .
-x1 denpa  x4 x3 x2 : x1 waits until x2 at state x3 before continuing x4 .
-x1 denpa  x4 x3 x2 : x1 pauses for x2 at state x3 before starting x4 .
-x1 denpa  x4 x3 x2 : x1 pauses for x2 at state x3 before continuing x4 .
-x1 denpa  x4 x3 x2 : x1 pauses until x2 at state x3 before starting x4 .
-x1 denpa  x4 x3 x2 : x1 pauses until x2 at state x3 before continuing x4 .
+x1 denpa  x4 x3 x2 : x1 awaits for x2 at state x3 before starting x4.
+x1 denpa  x4 x3 x2 : x1 awaits for x2 at state x3 before continuing x4.
+x1 denpa  x4 x3 x2 : x1 awaits until x2 at state x3 before starting x4.
+x1 denpa  x4 x3 x2 : x1 awaits until x2 at state x3 before continuing x4.
+x1 denpa  x4 x3 x2 : x1 waits for x2 at state x3 before starting x4.
+x1 denpa  x4 x3 x2 : x1 waits for x2 at state x3 before continuing x4.
+x1 denpa  x4 x3 x2 : x1 waits until x2 at state x3 before starting x4.
+x1 denpa  x4 x3 x2 : x1 waits until x2 at state x3 before continuing x4.
+x1 denpa  x4 x3 x2 : x1 pauses for x2 at state x3 before starting x4.
+x1 denpa  x4 x3 x2 : x1 pauses for x2 at state x3 before continuing x4.
+x1 denpa  x4 x3 x2 : x1 pauses until x2 at state x3 before starting x4.
+x1 denpa  x4 x3 x2 : x1 pauses until x2 at state x3 before continuing x4.
 x1 dertu  x3 x2 : x1 is a quantity of dirt from source x2 of composition x3.
 x1 dertu  x3 x2 : x1 is a quantity of soil from source x2 of composition x3.
 x1 dertu  x3 x2 : x1 is a quantity of earth from source x2 of composition x3.
@@ -1187,10 +1187,10 @@ x1 detri  x4 x3 x2 : x1 is the date of state x2, at location x3, by calendar x4.
 x1 dicra  x3 x2 : x1 interrupts x2 due to quality x3.
 x1 dicra  x3 x2 : x1 stops x2 due to quality x3.
 x1 dicra  x3 x2 : x1 halts x2 due to quality x3.
-x1 dikca  x3 x2 : x1 is electricity in x2 of polarity x3 .
-x1 dikca  x3 x2 : x1 is electricity in x2 of quantity x3 .
-x1 dikca  x3 x2 : x1 is electricity on x2 of polarity x3 .
-x1 dikca  x3 x2 : x1 is electricity on x2 of quantity x3 .
+x1 dikca  x3 x2 : x1 is electricity in x2 of polarity x3.
+x1 dikca  x3 x2 : x1 is electricity in x2 of quantity x3.
+x1 dikca  x3 x2 : x1 is electricity on x2 of polarity x3.
+x1 dikca  x3 x2 : x1 is electricity on x2 of quantity x3.
 x1 diklo  x2 : x1 is local to x2
 x1 dikni  x3 x2 : x1 is regular in property x2 with period x3.
 x1 dikni  x3 x2 : x1 is regular in property x2 with interval x3.
@@ -1269,18 +1269,18 @@ x1 drudi  x2 : x1 is a lid of x2.
 x1 dugri  x3 x2 : x1 is the logarithm of x2 with base x3.
 x1 dukse  x3 x2 : x1 is an excess of x2 by standard x3.
 x1 dukse  x3 x2 : x1 is too much of x2 by standard x3.
-x1 dukti  x3 x2 : x1 is polar opposite from x2 in property scale x3 .
-x1 dukti  x3 x2 : x1 is polar opposite from x2 in on scale x3 .
-x1 dukti  x3 x2 : x1 is contrary to x2 in property scale x3 .
-x1 dukti  x3 x2 : x1 is contrary to x2 in on scale x3 .
-x1 dunda  x3 x2 : x1 gives gift x2 to recipient x3 .
-x1 dunda  x3 x2 : x1 gives gift x2 to beneficiary x3 .
-x1 dunda  x3 x2 : x1 gives present x2 to recipient x3 .
-x1 dunda  x3 x2 : x1 gives present x2 to beneficiary x3 .
-x1 dunda  x3 x2 : x1 donates gift x2 to recipient x3 .
-x1 dunda  x3 x2 : x1 donates gift x2 to beneficiary x3 .
-x1 dunda  x3 x2 : x1 donates present x2 to recipient x3 .
-x1 dunda  x3 x2 : x1 donates present x2 to beneficiary x3 .
+x1 dukti  x3 x2 : x1 is polar opposite from x2 in property scale x3.
+x1 dukti  x3 x2 : x1 is polar opposite from x2 in on scale x3.
+x1 dukti  x3 x2 : x1 is contrary to x2 in property scale x3.
+x1 dukti  x3 x2 : x1 is contrary to x2 in on scale x3.
+x1 dunda  x3 x2 : x1 gives gift x2 to recipient x3.
+x1 dunda  x3 x2 : x1 gives gift x2 to beneficiary x3.
+x1 dunda  x3 x2 : x1 gives present x2 to recipient x3.
+x1 dunda  x3 x2 : x1 gives present x2 to beneficiary x3.
+x1 dunda  x3 x2 : x1 donates gift x2 to recipient x3.
+x1 dunda  x3 x2 : x1 donates gift x2 to beneficiary x3.
+x1 dunda  x3 x2 : x1 donates present x2 to recipient x3.
+x1 dunda  x3 x2 : x1 donates present x2 to beneficiary x3.
 x1 dunja  x3 x2 : x1 freezes at temperature x2 and pressure x3.
 x1 dunja  x3 x2 : x1 jells at temperature x2 and pressure x3.
 x1 dunja  x3 x2 : x1 solidifies at temperature x2 and pressure x3.
@@ -1312,14 +1312,14 @@ x1 facki  x3 x2 : x1 discovers out x2 about subject x3
 x1 facki  x3 x2 : x1 discovers out x2 about object x3
 x1 facki  x3 x2 : x1 finds out x2 about subject x3
 x1 facki  x3 x2 : x1 finds out x2 about object x3
-x1 fadni  x3 x2 : x1 is ordinary in property x2 among members of x3 .
-x1 fadni  x3 x2 : x1 is common in property x2 among members of x3 .
-x1 fadni  x3 x2 : x1 is typical in property x2 among members of x3 .
-x1 fadni  x3 x2 : x1 is usual in property x2 among members of x3 .
-x1 fagri  x3 x2 : x1 is a fire with fuel x2 burning in oxidizer x3 .
-x1 fagri  x3 x2 : x1 is a fire with fuel x2 reacting with oxidizer x3 .
-x1 fagri  x3 x2 : x1 is a flame with fuel x2 burning in oxidizer x3 .
-x1 fagri  x3 x2 : x1 is a flame with fuel x2 reacting with oxidizer x3 .
+x1 fadni  x3 x2 : x1 is ordinary in property x2 among members of x3.
+x1 fadni  x3 x2 : x1 is common in property x2 among members of x3.
+x1 fadni  x3 x2 : x1 is typical in property x2 among members of x3.
+x1 fadni  x3 x2 : x1 is usual in property x2 among members of x3.
+x1 fagri  x3 x2 : x1 is a fire with fuel x2 burning in oxidizer x3.
+x1 fagri  x3 x2 : x1 is a fire with fuel x2 reacting with oxidizer x3.
+x1 fagri  x3 x2 : x1 is a flame with fuel x2 burning in oxidizer x3.
+x1 fagri  x3 x2 : x1 is a flame with fuel x2 reacting with oxidizer x3.
 x1 falnu  x3 x2 : x1 is a sail for gathering propelling material x2 on vehicle x3.
 x1 falnu  x3 x2 : x1 is a sail for gathering propelling material x2 on motor x3.
 x1 famti  x3 x2 : x1 is an aunt of x2 by bond x3
@@ -1330,9 +1330,9 @@ x1 fancu  x4 x3 x2 : x1 is a function from domain x2 to range x3 defined by expr
 x1 fancu  x4 x3 x2 : x1 is a function from domain x2 to range x3 defined by rule x4.
 x1 fancu  x4 x3 x2 : x1 is a single valued mapping from domain x2 to range x3 defined by expression x4.
 x1 fancu  x4 x3 x2 : x1 is a single valued mapping from domain x2 to range x3 defined by rule x4.
-x1 fange  x3 x2 : x1 is foreign to x2 in property x3 .
-x1 fange  x3 x2 : x1 is alien to x2 in property x3 .
-x1 fange  x3 x2 : x1 is unfamiliar to x2 in property x3 .
+x1 fange  x3 x2 : x1 is foreign to x2 in property x3.
+x1 fange  x3 x2 : x1 is alien to x2 in property x3.
+x1 fange  x3 x2 : x1 is unfamiliar to x2 in property x3.
 x1 fanmo  x2 : x1 is an end of thing x2
 x1 fanmo  x2 : x1 is an end of process x2
 x1 fanmo  x2 : x1 is an finish of thing x2
@@ -1354,9 +1354,9 @@ x1 fanza  x2 : x1 annoys x2.
 x1 fanza  x2 : x1 irritates x2.
 x1 fanza  x2 : x1 bothers x2.
 x1 fanza  x2 : x1 distracts x2.
-x1 fapro  x3 x2 : x1 opposes opponent x2 about x3 .
-x1 fapro  x3 x2 : x1 balances opponent x2 about x3 .
-x1 fapro  x3 x2 : x1 contends against opponent x2 about x3 .
+x1 fapro  x3 x2 : x1 opposes opponent x2 about x3.
+x1 fapro  x3 x2 : x1 balances opponent x2 about x3.
+x1 fapro  x3 x2 : x1 contends against opponent x2 about x3.
 x1 farlu  x4 x3 x2 : x1 falls to x2 from x3 in gravity well x4.
 x1 farlu  x4 x3 x2 : x1 falls to x2 from x3 in frame of reference x4.
 x1 farlu  x4 x3 x2 : x1 drops to x2 from x3 in gravity well x4.
@@ -1386,8 +1386,8 @@ x1 fatri  x3 x2 : x1 is shared among x2 with shares x3
 x1 fatri  x3 x2 : x1 is shared among x2 with portions x3
 x1 febvi  x3 x2 : x1 boils at temperature x2 and pressure x3.
 x1 febvi  x3 x2 : x1 evaporates at temperature x2 and pressure x3.
-x1 femti  x3 x2 : x1 is $10^{-15}$ of x2 in dimension x3 .
-x1 femti  x3 x2 : x1 is $10^{-15}$ of x2 in aspect x3 .
+x1 femti  x3 x2 : x1 is $10^{-15}$ of x2 in dimension x3.
+x1 femti  x3 x2 : x1 is $10^{-15}$ of x2 in aspect x3.
 x1 fendi  x4 x3 x2 : x1 divides x2 into sections x3 by method x4.
 x1 fendi  x4 x3 x2 : x1 divides x2 into sections x3 by partition x4.
 x1 fendi  x4 x3 x2 : x1 divides x2 into parts x3 by method x4.
@@ -1400,8 +1400,8 @@ x1 fendi  x4 x3 x2 : x1 separates x2 into sections x3 by method x4.
 x1 fendi  x4 x3 x2 : x1 separates x2 into sections x3 by partition x4.
 x1 fendi  x4 x3 x2 : x1 separates x2 into parts x3 by method x4.
 x1 fendi  x4 x3 x2 : x1 separates x2 into parts x3 by partition x4.
-x1 fengu  x3 x2 : x1 is angry at x2 for x3 .
-x1 fengu  x3 x2 : x1 is mad at x2 for x3 .
+x1 fengu  x3 x2 : x1 is angry at x2 for x3.
+x1 fengu  x3 x2 : x1 is mad at x2 for x3.
 x1 fenki  x2 : x1 is crazy by standard x2.
 x1 fenki  x2 : x1 is insane by standard x2.
 x1 fenki  x2 : x1 is mad by standard x2.
@@ -1424,14 +1424,14 @@ x1 ferti  x2 : x1 is fertile for supporting the growth of x2
 x1 ferti  x2 : x1 is fertile for supporting the development of x2
 x1 ferti  x2 : x1 is conducive for supporting the growth of x2
 x1 ferti  x2 : x1 is conducive for supporting the development of x2
-x1 festi  x2 : x1 is a waste product by x2 .
+x1 festi  x2 : x1 is a waste product by x2.
 x1 fetsi  x3 x2 : x1 is a female of species x2 evidencing feminine trait x3
 x1 fetsi  x3 x2 : x1 is a doe of species x2 evidencing feminine trait x3
 x1 figre  x2 : x1 is a fig of species x2.
 x1 figre  x2 : x1 is a fig of strain x2.
 x1 filso  x2 : x1 reflects Palestinian culture in aspect x2.
 x1 filso  x2 : x1 reflects Palestinian nationality in aspect x2.
-x1 finpe  x2 : x1 is a fish of species x2 .
+x1 finpe  x2 : x1 is a fish of species x2.
 x1 finti  x4 x3 x2 : x1 invents x2 for function x3 from existing elements x4.
 x1 finti  x4 x3 x2 : x1 invents x2 for function x3 from existing ideas x4.
 x1 finti  x4 x3 x2 : x1 invents x2 for purpose x3 from existing elements x4.
@@ -1449,10 +1449,10 @@ x1 finti  x4 x3 x2 : x1 authors x2 for function x3 from existing ideas x4.
 x1 finti  x4 x3 x2 : x1 authors x2 for purpose x3 from existing elements x4.
 x1 finti  x4 x3 x2 : x1 authors x2 for purpose x3 from existing ideas x4.
 x1 flalu  x5 x4 x3 x2 : x1 is a law specifying x2 for community x3 under conditions x4 by lawgiver x5.
-x1 flani  : x1 is a flute .
-x1 flani  : x1 is a pipe .
-x1 flani  : x1 is a fife .
-x1 flani  : x1 is a recorder .
+x1 flani  : x1 is a flute.
+x1 flani  : x1 is a pipe.
+x1 flani  : x1 is a fife.
+x1 flani  : x1 is a recorder.
 x1 flecu  x4 x3 x2 : x1 is a current of x2 flowing in direction to x3 from direction x4.
 x1 flecu  x4 x3 x2 : x1 is a current of x2 flowing in direction to x3 from source x4.
 x1 flecu  x4 x3 x2 : x1 is a current of x2 flowing in direction towards x3 from direction x4.
@@ -1529,18 +1529,18 @@ x1 friko  x2 : x1 reflects African geography in aspect x2.
 x1 frili  x3 x2 : x1 is easy for x2 under conditions x3
 x1 frili  x3 x2 : x1 is simple for x2 under conditions x3
 x1 frili  x3 x2 : x1 is facile for x2 under conditions x3
-x1 frinu  x3 x2 : x1 is a fraction, with numerator x2, denominator x3 .
+x1 frinu  x3 x2 : x1 is a fraction, with numerator x2, denominator x3.
 x1 friti  x4 x3 x2 : x1 offers x2 to x3 with conditions x4.
-x1 frumu  : x1 frowns .
-x1 frumu  : x1 grimaces .
-x1 fukpi  x4 x3 x2 : x1 is a copy of x2 in form x3 made by method x4 .
-x1 fukpi  x4 x3 x2 : x1 is a copy of x2 in medium x3 made by method x4 .
-x1 fukpi  x4 x3 x2 : x1 is a replica of x2 in form x3 made by method x4 .
-x1 fukpi  x4 x3 x2 : x1 is a replica of x2 in medium x3 made by method x4 .
-x1 fukpi  x4 x3 x2 : x1 is a duplicate of x2 in form x3 made by method x4 .
-x1 fukpi  x4 x3 x2 : x1 is a duplicate of x2 in medium x3 made by method x4 .
-x1 fukpi  x4 x3 x2 : x1 is a clone of x2 in form x3 made by method x4 .
-x1 fukpi  x4 x3 x2 : x1 is a clone of x2 in medium x3 made by method x4 .
+x1 frumu  : x1 frowns.
+x1 frumu  : x1 grimaces.
+x1 fukpi  x4 x3 x2 : x1 is a copy of x2 in form x3 made by method x4.
+x1 fukpi  x4 x3 x2 : x1 is a copy of x2 in medium x3 made by method x4.
+x1 fukpi  x4 x3 x2 : x1 is a replica of x2 in form x3 made by method x4.
+x1 fukpi  x4 x3 x2 : x1 is a replica of x2 in medium x3 made by method x4.
+x1 fukpi  x4 x3 x2 : x1 is a duplicate of x2 in form x3 made by method x4.
+x1 fukpi  x4 x3 x2 : x1 is a duplicate of x2 in medium x3 made by method x4.
+x1 fukpi  x4 x3 x2 : x1 is a clone of x2 in form x3 made by method x4.
+x1 fukpi  x4 x3 x2 : x1 is a clone of x2 in medium x3 made by method x4.
 x1 fulta  x2 : x1 floats on fluid x2
 x1 fulta  x2 : x1 floats in fluid x2
 x1 funca  x2 : x1 is determined by the luck of x2
@@ -1575,12 +1575,12 @@ x1 galxe  x2 : x1 is a throat of x2
 x1 galxe  x2 : x1 is a gullet of x2
 x1 galxe  x2 : x1 is the throat of x2
 x1 galxe  x2 : x1 is the gullet of x2
-x1 ganlo  x3 x2 : x1 is closed preventing passage to x2 by x3 .
-x1 ganlo  x3 x2 : x1 is closed preventing access to x2 by x3 .
-x1 ganlo  x3 x2 : x1 is shut preventing passage to x2 by x3 .
-x1 ganlo  x3 x2 : x1 is shut preventing access to x2 by x3 .
-x1 ganlo  x3 x2 : x1 is not open, preventing passage to x2 by x3 .
-x1 ganlo  x3 x2 : x1 is not open, preventing access to x2 by x3 .
+x1 ganlo  x3 x2 : x1 is closed preventing passage to x2 by x3.
+x1 ganlo  x3 x2 : x1 is closed preventing access to x2 by x3.
+x1 ganlo  x3 x2 : x1 is shut preventing passage to x2 by x3.
+x1 ganlo  x3 x2 : x1 is shut preventing access to x2 by x3.
+x1 ganlo  x3 x2 : x1 is not open, preventing passage to x2 by x3.
+x1 ganlo  x3 x2 : x1 is not open, preventing access to x2 by x3.
 x1 ganra  x3 x2 : x1 is broad in dimension x2 by standard x3.
 x1 ganra  x3 x2 : x1 is wide in dimension x2 by standard x3.
 x1 ganse  x4 x3 x2 : x1 senses stimulus x2 by means x3 under conditions x4.
@@ -1654,16 +1654,16 @@ x1 gerna  x3 x2 : x1 is the rules of language x2 for structure x3.
 x1 gerna  x3 x2 : x1 is the rules of language x2 for text x3.
 x1 gerna  x3 x2 : x1 is the defining form of language x2 for structure x3.
 x1 gerna  x3 x2 : x1 is the defining form of language x2 for text x3.
-x1 gidva  x3 x2 : x1 guides x2 in x3 .
-x1 gidva  x3 x2 : x1 guides x2 at x3 .
-x1 gidva  x3 x2 : x1 conducts x2 in x3 .
-x1 gidva  x3 x2 : x1 conducts x2 at x3 .
-x1 gidva  x3 x2 : x1 pilots x2 in x3 .
-x1 gidva  x3 x2 : x1 pilots x2 at x3 .
-x1 gidva  x3 x2 : x1 leads x2 in x3 .
-x1 gidva  x3 x2 : x1 leads x2 at x3 .
-x1 gigdo  x3 x2 : x1 is a billion of x2 in dimension x3 .
-x1 gigdo  x3 x2 : x1 is a billion of x2 in aspect x3 .
+x1 gidva  x3 x2 : x1 guides x2 in x3.
+x1 gidva  x3 x2 : x1 guides x2 at x3.
+x1 gidva  x3 x2 : x1 conducts x2 in x3.
+x1 gidva  x3 x2 : x1 conducts x2 at x3.
+x1 gidva  x3 x2 : x1 pilots x2 in x3.
+x1 gidva  x3 x2 : x1 pilots x2 at x3.
+x1 gidva  x3 x2 : x1 leads x2 in x3.
+x1 gidva  x3 x2 : x1 leads x2 at x3.
+x1 gigdo  x3 x2 : x1 is a billion of x2 in dimension x3.
+x1 gigdo  x3 x2 : x1 is a billion of x2 in aspect x3.
 x1 ginka  x3 x2 : x1 is a camp residence of x2 at location x3.
 x1 ginka  x3 x2 : x1 is a encampment residence of x2 at location x3.
 x1 ginka  x3 x2 : x1 is a temporary residence of x2 at location x3.
@@ -1672,10 +1672,10 @@ x1 girzu  x4 x3 x2 : x1 is cluster showing common property x2 due to set x3 link
 x1 girzu  x4 x3 x2 : x1 is team showing common property x2 due to set x3 linked by relations x4.
 x1 gismu  x4 x3 x2 : x1 is a root word expressing relation x2 among argument roles x3, with affix x4.
 x1 glare  x2 : x1 is hot by standard x2.
-x1 gleki  x2 : x1 is happy about x2 .
-x1 gleki  x2 : x1 is merry about x2 .
-x1 gleki  x2 : x1 is glad about x2 .
-x1 gleki  x2 : x1 is gleeful about x2 .
+x1 gleki  x2 : x1 is happy about x2.
+x1 gleki  x2 : x1 is merry about x2.
+x1 gleki  x2 : x1 is glad about x2.
+x1 gleki  x2 : x1 is gleeful about x2.
 x1 gletu  x2 : x1 copulates with x2.
 x1 gletu  x2 : x1 fucks with x2.
 x1 gletu  x2 : x1 mates with x2.
@@ -1685,10 +1685,10 @@ x1 glico  x2 : x1 is English to English-speaking culture in aspect x2.
 x1 glico  x2 : x1 is pertains to English-speaking culture in aspect x2.
 x1 gluta  x2 : x1 is a mitten of material x2.
 x1 gluta  x2 : x1 is a glove of material x2.
-x1 gocti  x3 x2 : x1 is $10^{-24}$ of x2 in dimension x3 .
-x1 gocti  x3 x2 : x1 is $10^{-24}$ of x2 in aspect x3 .
-x1 gotro  x3 x2 : x1 is $10^{24}$ of x2 in dimension x3 .
-x1 gotro  x3 x2 : x1 is $10^{24}$ of x2 in aspect x3 .
+x1 gocti  x3 x2 : x1 is $10^{-24}$ of x2 in dimension x3.
+x1 gocti  x3 x2 : x1 is $10^{-24}$ of x2 in aspect x3.
+x1 gotro  x3 x2 : x1 is $10^{24}$ of x2 in dimension x3.
+x1 gotro  x3 x2 : x1 is $10^{24}$ of x2 in aspect x3.
 x1 gradu  x3 x2 : x1 is a unit of scale standard x2 measuring property x3.
 x1 gradu  x3 x2 : x1 is a unit of reference standard x2 measuring property x3.
 x1 gradu  x3 x2 : x1 is a unit on scale standard x2 measuring property x3.
@@ -1720,11 +1720,11 @@ x1 greku  x2 : x1 is a load-bearing of x2.
 x1 greku  x2 : x1 is a determining the form of x2.
 x1 grusi  : x1 is gray.
 x1 grute  x2 : x1 is a fruit of species x2.
-x1 gubni  x2 : x1 is public to x2 .
-x1 gubni  x2 : x1 is un-hidden to x2 .
-x1 gubni  x2 : x1 is open to x2 .
-x1 gubni  x2 : x1 is jointly available to x2 .
-x1 gubni  x2 : x1 is owned by all among community x2 .
+x1 gubni  x2 : x1 is public to x2.
+x1 gubni  x2 : x1 is un-hidden to x2.
+x1 gubni  x2 : x1 is open to x2.
+x1 gubni  x2 : x1 is jointly available to x2.
+x1 gubni  x2 : x1 is owned by all among community x2.
 x1 gugde  x3 x2 : x1 is the country of peoples x2 with land x3
 x1 gugde  x3 x2 : x1 is the country of peoples x2 with territory x3
 x1 gundi  x3 x2 : x1 is industry manufacturing activity producing x2 by process x3.
@@ -1803,9 +1803,9 @@ x1 jabre  x3 x2 : x1 causes to slow activity x2 with principle x3.
 x1 jadni  x2 : x1 adorns x2
 x1 jadni  x2 : x1 decorates x2
 x1 jakne  x3 x2 : x1 is a rocket propelled by jet expelling x2 carrying payload x3.
-x1 jalge  x2 : x1 is a result of antecedent x2 .
-x1 jalge  x2 : x1 is a outcome of antecedent x2 .
-x1 jalge  x2 : x1 is a conclusion of antecedent x2 .
+x1 jalge  x2 : x1 is a result of antecedent x2.
+x1 jalge  x2 : x1 is a outcome of antecedent x2.
+x1 jalge  x2 : x1 is a conclusion of antecedent x2.
 x1 jalna  x3 x2 : x1 is a quantity of starch from source x2 of composition including x3.
 x1 jalna  x3 x2 : x1 contains starch from source x2 of composition including x3.
 x1 jalna  x3 x2 : x1 is made of starch from source x2 of composition including x3.
@@ -1863,7 +1863,7 @@ x1 jarco  x3 x2 : x1 exhibits x2 to audience x3.
 x1 jarco  x3 x2 : x1 displays x2 to audience x3.
 x1 jarco  x3 x2 : x1 demonstrates x2 to audience x3.
 x1 jarki  x3 x2 : x1 is narrow in dimension x2 by standard x3.
-x1 jaspu  x4 x3 x2 : x1 is a passport issued to x2 by authority x3 allowing x4 .
+x1 jaspu  x4 x3 x2 : x1 is a passport issued to x2 by authority x3 allowing x4.
 x1 jatna  x2 : x1 is captain of vehicle x2.
 x1 jatna  x2 : x1 is captain of domain x2.
 x1 jatna  x2 : x1 is commander of vehicle x2.
@@ -1891,24 +1891,24 @@ x1 jbera  x4 x3 x2 : x1 borrows takes x2 from source x3 for interval x4.
 x1 jbera  x4 x3 x2 : x1 borrows assumes x2 from source x3 for interval x4.
 x1 jbera  x4 x3 x2 : x1 temporarily takes x2 from source x3 for interval x4.
 x1 jbera  x4 x3 x2 : x1 temporarily assumes x2 from source x3 for interval x4.
-x1 jbini  x3 x2 : x1 is between set of points x2  mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is between set of points x2 amidst mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is between set of bounds x2  mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is between set of bounds x2 amidst mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is between set of limits x2  mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is between set of limits x2 amidst mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is among set of points x2  mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is among set of points x2 amidst mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is among set of bounds x2  mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is among set of bounds x2 amidst mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is among set of limits x2  mass x2 in property x3 .
-x1 jbini  x3 x2 : x1 is among set of limits x2 amidst mass x2 in property x3 .
+x1 jbini  x3 x2 : x1 is between set of points x2  mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is between set of points x2 amidst mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is between set of bounds x2  mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is between set of bounds x2 amidst mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is between set of limits x2  mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is between set of limits x2 amidst mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is among set of points x2  mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is among set of points x2 amidst mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is among set of bounds x2  mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is among set of bounds x2 amidst mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is among set of limits x2  mass x2 in property x3.
+x1 jbini  x3 x2 : x1 is among set of limits x2 amidst mass x2 in property x3.
 x1 jdari  x3 x2 : x1 is firm to force x2 under conditions x3.
 x1 jdari  x3 x2 : x1 is hard to force x2 under conditions x3.
 x1 jdari  x3 x2 : x1 is resistant to force x2 under conditions x3.
 x1 jdari  x3 x2 : x1 is unyielding to force x2 under conditions x3.
-x1 jdice  x3 x2 : x1 decides decision x2 about matter x3 .
-x1 jdice  x3 x2 : x1 makes decision x2 about matter x3 .
+x1 jdice  x3 x2 : x1 decides decision x2 about matter x3.
+x1 jdice  x3 x2 : x1 makes decision x2 about matter x3.
 x1 jdika  x3 x2 : x1 decreases reduced in property x2 by amount x3.
 x1 jdika  x3 x2 : x1 decreases reduced in quantity x2 by amount x3.
 x1 jdika  x3 x2 : x1 decreases diminished in property x2 by amount x3.
@@ -1956,14 +1956,14 @@ x1 jendu  x3 x2 : x1 is an axle on which x2 rotates, of material x3.
 x1 jendu  x3 x2 : x1 is an axle on which x2 rotates, of properties x3.
 x1 jendu  x3 x2 : x1 is an spindle on which x2 rotates, of material x3.
 x1 jendu  x3 x2 : x1 is an spindle on which x2 rotates, of properties x3.
-x1 jenmi  x3 x2 : x1 is an army serving group x2 in function x3 .
-x1 jenmi  x3 x2 : x1 is an army serving community x2 in function x3 .
-x1 jerna  x3 x2 : x1 earns wages x2 for work x3 .
-x1 jerna  x3 x2 : x1 earns wages x2 for service x3 .
-x1 jerna  x3 x2 : x1 earns salary x2 for work x3 .
-x1 jerna  x3 x2 : x1 earns salary x2 for service x3 .
-x1 jerna  x3 x2 : x1 earns pay x2 for work x3 .
-x1 jerna  x3 x2 : x1 earns pay x2 for service x3 .
+x1 jenmi  x3 x2 : x1 is an army serving group x2 in function x3.
+x1 jenmi  x3 x2 : x1 is an army serving community x2 in function x3.
+x1 jerna  x3 x2 : x1 earns wages x2 for work x3.
+x1 jerna  x3 x2 : x1 earns wages x2 for service x3.
+x1 jerna  x3 x2 : x1 earns salary x2 for work x3.
+x1 jerna  x3 x2 : x1 earns salary x2 for service x3.
+x1 jerna  x3 x2 : x1 earns pay x2 for work x3.
+x1 jerna  x3 x2 : x1 earns pay x2 for service x3.
 x1 jersi  x2 : x1 chases follows after x2
 x1 jersi  x2 : x1 pursues follows after x2
 x1 jerxo  x2 : x1 reflects Algerian culture in aspect x2.
@@ -1983,21 +1983,21 @@ x1 jgalu  x2 : x1 is the claw of x2
 x1 jgalu  x2 : x1 is the nail of x2
 x1 jgalu  x2 : x1 is the talon of x2
 x1 jganu  x3 x2 : x1 is an angle from vertex x2 subtended by lateral x3.
-x1 jgari  x4 x3 x2 : x1 grasps x2 with x3 at locus x4 .
-x1 jgari  x4 x3 x2 : x1 holds x2 with x3 at locus x4 .
-x1 jgari  x4 x3 x2 : x1 clutches x2 with x3 at locus x4 .
-x1 jgari  x4 x3 x2 : x1 seizes x2 with x3 at locus x4 .
-x1 jgari  x4 x3 x2 : x1 grips x2 with x3 at locus x4 .
-x1 jgena  x2 : x1 is a knot in x2 .
-x1 jgena  x2 : x1 is a knot between x2 .
-x1 jgena  x2 : x1 is a tangle in x2 .
-x1 jgena  x2 : x1 is a tangle between x2 .
+x1 jgari  x4 x3 x2 : x1 grasps x2 with x3 at locus x4.
+x1 jgari  x4 x3 x2 : x1 holds x2 with x3 at locus x4.
+x1 jgari  x4 x3 x2 : x1 clutches x2 with x3 at locus x4.
+x1 jgari  x4 x3 x2 : x1 seizes x2 with x3 at locus x4.
+x1 jgari  x4 x3 x2 : x1 grips x2 with x3 at locus x4.
+x1 jgena  x2 : x1 is a knot in x2.
+x1 jgena  x2 : x1 is a knot between x2.
+x1 jgena  x2 : x1 is a tangle in x2.
+x1 jgena  x2 : x1 is a tangle between x2.
 x1 jgina  x3 x2 : x1 is a gene of creature x2 determining trait x3.
 x1 jgina  x3 x2 : x1 is a gene of creature x2 determining process x3.
-x1 jgira  x2 : x1 feels pride in x2 .
-x1 jgira  x2 : x1 feels pride about x2 .
-x1 jgira  x2 : x1 has pride in x2 .
-x1 jgira  x2 : x1 has pride about x2 .
+x1 jgira  x2 : x1 feels pride in x2.
+x1 jgira  x2 : x1 feels pride about x2.
+x1 jgira  x2 : x1 has pride in x2.
+x1 jgira  x2 : x1 has pride about x2.
 x1 jgita  x2 : x1 is guitar with actuator x2.
 x1 jgita  x2 : x1 is guitar with plectrum x2.
 x1 jgita  x2 : x1 is guitar with bow x2.
@@ -2010,14 +2010,14 @@ x1 jgita  x2 : x1 is fiddle with bow x2.
 x1 jgita  x2 : x1 is harp with actuator x2.
 x1 jgita  x2 : x1 is harp with plectrum x2.
 x1 jgita  x2 : x1 is harp with bow x2.
-x1 jibni  x3 x2 : x1 is near to x2 in property x3 .
-x1 jibni  x3 x2 : x1 is near to x2 in quantity x3 .
-x1 jibni  x3 x2 : x1 is near approximates x2 in property x3 .
-x1 jibni  x3 x2 : x1 is near approximates x2 in quantity x3 .
-x1 jibni  x3 x2 : x1 is close to x2 in property x3 .
-x1 jibni  x3 x2 : x1 is close to x2 in quantity x3 .
-x1 jibni  x3 x2 : x1 is close approximates x2 in property x3 .
-x1 jibni  x3 x2 : x1 is close approximates x2 in quantity x3 .
+x1 jibni  x3 x2 : x1 is near to x2 in property x3.
+x1 jibni  x3 x2 : x1 is near to x2 in quantity x3.
+x1 jibni  x3 x2 : x1 is near approximates x2 in property x3.
+x1 jibni  x3 x2 : x1 is near approximates x2 in quantity x3.
+x1 jibni  x3 x2 : x1 is close to x2 in property x3.
+x1 jibni  x3 x2 : x1 is close to x2 in quantity x3.
+x1 jibni  x3 x2 : x1 is close approximates x2 in property x3.
+x1 jibni  x3 x2 : x1 is close approximates x2 in quantity x3.
 x1 jibri  x2 : x1 is a job of person x2.
 x1 jibri  x2 : x1 is a occupation of person x2.
 x1 jibri  x2 : x1 is a employment of person x2.
@@ -2042,10 +2042,10 @@ x1 jilka  x2 : x1 contains alkali of composition including x2.
 x1 jilka  x2 : x1 contains base of composition including x2.
 x1 jilka  x2 : x1 is made of alkali of composition including x2.
 x1 jilka  x2 : x1 is made of base of composition including x2.
-x1 jilra  x3 x2 : x1 is jealous of x2 about x3 .
-x1 jilra  x3 x2 : x1 is jealous of x2 for x3 .
-x1 jilra  x3 x2 : x1 is jealous envies x2 about x3 .
-x1 jilra  x3 x2 : x1 is jealous envies x2 for x3 .
+x1 jilra  x3 x2 : x1 is jealous of x2 about x3.
+x1 jilra  x3 x2 : x1 is jealous of x2 for x3.
+x1 jilra  x3 x2 : x1 is jealous envies x2 about x3.
+x1 jilra  x3 x2 : x1 is jealous envies x2 for x3.
 x1 jimca  x2 : x1 is a branch of x2
 x1 jimca  x2 : x1 is a bough of x2
 x1 jimca  x2 : x1 is a limb of x2
@@ -2128,18 +2128,18 @@ x1 jitfa  x2 : x1 is false an untruth by metaphysics x2.
 x1 jitfa  x2 : x1 is is an untruth by standard x2.
 x1 jitfa  x2 : x1 is is an untruth by epistemology x2.
 x1 jitfa  x2 : x1 is is an untruth by metaphysics x2.
-x1 jitro  x3 x2 : x1 has control over x2 in x3 .
-x1 jitro  x3 x2 : x1 has control harnesses x2 in x3 .
-x1 jitro  x3 x2 : x1 has control manages x2 in x3 .
-x1 jitro  x3 x2 : x1 has control directs x2 in x3 .
-x1 jitro  x3 x2 : x1 has control conducts x2 in x3 .
+x1 jitro  x3 x2 : x1 has control over x2 in x3.
+x1 jitro  x3 x2 : x1 has control harnesses x2 in x3.
+x1 jitro  x3 x2 : x1 has control manages x2 in x3.
+x1 jitro  x3 x2 : x1 has control directs x2 in x3.
+x1 jitro  x3 x2 : x1 has control conducts x2 in x3.
 x1 jivbu  x3 x2 : x1 weaves x2 from material x3.
 x1 jivna  x4 x3 x2 : x1 competes with opponent x2 in contest x3 for gain x4
 x1 jivna  x4 x3 x2 : x1 competes with opponent x2 in competition x3 for gain x4
 x1 jivna  x4 x3 x2 : x1 vies with opponent x2 in contest x3 for gain x4
 x1 jivna  x4 x3 x2 : x1 vies with opponent x2 in competition x3 for gain x4
-x1 jmaji  x3 x2 : x1 gathers at location x2 from locations x3 .
-x1 jmaji  x3 x2 : x1 collects at location x2 from locations x3 .
+x1 jmaji  x3 x2 : x1 gathers at location x2 from locations x3.
+x1 jmaji  x3 x2 : x1 collects at location x2 from locations x3.
 x1 jmifa  x3 x2 : x1 is a shoal  of material x2 in body of water x3.
 x1 jmifa  x3 x2 : x1 is a shoal reef of material x2 in body of water x3.
 x1 jmina  x4 x3 x2 : x1 adds x2 to x3, with result x4
@@ -2176,10 +2176,10 @@ x1 jukni  x2 : x1 is a lobster arthropod of species x2.
 x1 jukni  x2 : x1 is a lobster arthropod of breed x2.
 x1 jukni  x2 : x1 is a non-insect arthropod of species x2.
 x1 jukni  x2 : x1 is a non-insect arthropod of breed x2.
-x1 jukpa  x3 x2 : x1 cooks food-for-eating x2 by recipe x3 .
-x1 jukpa  x3 x2 : x1 cooks food-for-eating x2 by method x3 .
-x1 jukpa  x3 x2 : x1 prepares food-for-eating x2 by recipe x3 .
-x1 jukpa  x3 x2 : x1 prepares food-for-eating x2 by method x3 .
+x1 jukpa  x3 x2 : x1 cooks food-for-eating x2 by recipe x3.
+x1 jukpa  x3 x2 : x1 cooks food-for-eating x2 by method x3.
+x1 jukpa  x3 x2 : x1 prepares food-for-eating x2 by recipe x3.
+x1 jukpa  x3 x2 : x1 prepares food-for-eating x2 by method x3.
 x1 julne  x4 x3 x2 : x1 is a net allowing passage of x2, prohibiting passage of x3, netting properties x4.
 x1 julne  x4 x3 x2 : x1 is a filter allowing passage of x2, prohibiting passage of x3, netting properties x4.
 x1 jundi  x2 : x1 is attentive towards attention to object x2.
@@ -2199,9 +2199,9 @@ x1 junla  x4 x3 x2 : x1 is watch measuring time units x2 to precision x3 with ti
 x1 junla  x4 x3 x2 : x1 is watch measuring time units x2 to precision x3 with timing method x4.
 x1 junla  x4 x3 x2 : x1 is timer measuring time units x2 to precision x3 with timing mechanism x4.
 x1 junla  x4 x3 x2 : x1 is timer measuring time units x2 to precision x3 with timing method x4.
-x1 junri  x2 : x1 is serious gravity about x2 .
-x1 junri  x2 : x1 is earnest gravity about x2 .
-x1 junri  x2 : x1 is has gravity about x2 .
+x1 junri  x2 : x1 is serious gravity about x2.
+x1 junri  x2 : x1 is earnest gravity about x2.
+x1 junri  x2 : x1 is has gravity about x2.
 x1 junta  x3 x2 : x1 is the weight of object x2 in field x3.
 x1 jurme  x2 : x1 is a bacterium of species property x2.
 x1 jurme  x2 : x1 is a bacterium of defining property x2.
@@ -2213,8 +2213,8 @@ x1 jurme  x2 : x1 is a protozoan of species property x2.
 x1 jurme  x2 : x1 is a protozoan of defining property x2.
 x1 jurme  x2 : x1 is a amoeba of species property x2.
 x1 jurme  x2 : x1 is a amoeba of defining property x2.
-x1 jursa  x2 : x1 is severe to x2 .
-x1 jursa  x2 : x1 is harsh to x2 .
+x1 jursa  x2 : x1 is severe to x2.
+x1 jursa  x2 : x1 is harsh to x2.
 x1 jutsi  x3 x2 : x1 is a species of genus x2, family x3, etc.
 x1 juxre  x2 : x1 is clumsy by standard x2.
 x1 juxre  x2 : x1 is awkward by standard x2.
@@ -2242,10 +2242,10 @@ x1 kagni  x3 x2 : x1 is a company chartered by authority x2 for purpose x3.
 x1 kagni  x3 x2 : x1 is a corporation chartered by authority x2 for purpose x3.
 x1 kagni  x3 x2 : x1 is a firm chartered by authority x2 for purpose x3.
 x1 kagni  x3 x2 : x1 is a partnership chartered by authority x2 for purpose x3.
-x1 kajde  x3 x2 : x1 warns x2 of danger x3 .
-x1 kajde  x3 x2 : x1 warns x2 about danger x3 .
-x1 kajde  x3 x2 : x1 cautions x2 of danger x3 .
-x1 kajde  x3 x2 : x1 cautions x2 about danger x3 .
+x1 kajde  x3 x2 : x1 warns x2 of danger x3.
+x1 kajde  x3 x2 : x1 warns x2 about danger x3.
+x1 kajde  x3 x2 : x1 cautions x2 of danger x3.
+x1 kajde  x3 x2 : x1 cautions x2 about danger x3.
 x1 kajna  x3 x2 : x1 is a shelf in to supporting object x2, for purpose x3.
 x1 kajna  x3 x2 : x1 is a shelf on to supporting object x2, for purpose x3.
 x1 kajna  x3 x2 : x1 is a shelf attached to supporting object x2, for purpose x3.
@@ -2255,12 +2255,12 @@ x1 kajna  x3 x2 : x1 is a counter attached to supporting object x2, for purpose 
 x1 kajna  x3 x2 : x1 is a bar in to supporting object x2, for purpose x3.
 x1 kajna  x3 x2 : x1 is a bar on to supporting object x2, for purpose x3.
 x1 kajna  x3 x2 : x1 is a bar attached to supporting object x2, for purpose x3.
-x1 kakne  x3 x2 : x1 is able to do of doing x2 under conditions x3 .
-x1 kakne  x3 x2 : x1 is able to do of being x2 under conditions x3 .
-x1 kakne  x3 x2 : x1 is able to be of doing x2 under conditions x3 .
-x1 kakne  x3 x2 : x1 is able to be of being x2 under conditions x3 .
-x1 kakne  x3 x2 : x1 is able to capable of doing x2 under conditions x3 .
-x1 kakne  x3 x2 : x1 is able to capable of being x2 under conditions x3 .
+x1 kakne  x3 x2 : x1 is able to do of doing x2 under conditions x3.
+x1 kakne  x3 x2 : x1 is able to do of being x2 under conditions x3.
+x1 kakne  x3 x2 : x1 is able to be of doing x2 under conditions x3.
+x1 kakne  x3 x2 : x1 is able to be of being x2 under conditions x3.
+x1 kakne  x3 x2 : x1 is able to capable of doing x2 under conditions x3.
+x1 kakne  x3 x2 : x1 is able to capable of being x2 under conditions x3.
 x1 kakpa  x4 x3 x2 : x1 digs x2 up of x3 with limbs x4.
 x1 kakpa  x4 x3 x2 : x1 digs x2 up of x3 with tool x4.
 x1 kakpa  x4 x3 x2 : x1 digs x2 out of x3 with limbs x4.
@@ -2279,10 +2279,10 @@ x1 kalri  x3 x2 : x1 is ajar shut permitting passage to x2 by x3.
 x1 kalri  x3 x2 : x1 is ajar shut permitting access to x2 by x3.
 x1 kalri  x3 x2 : x1 is not shut permitting passage to x2 by x3.
 x1 kalri  x3 x2 : x1 is not shut permitting access to x2 by x3.
-x1 kalsa  x2 : x1 is chaotic in property x2 .
-x1 kalsa  x2 : x1 is chaotic in aspect x2 .
-x1 kalsa  x2 : x1 is disordered in property x2 .
-x1 kalsa  x2 : x1 is disordered in aspect x2 .
+x1 kalsa  x2 : x1 is chaotic in property x2.
+x1 kalsa  x2 : x1 is chaotic in aspect x2.
+x1 kalsa  x2 : x1 is disordered in property x2.
+x1 kalsa  x2 : x1 is disordered in aspect x2.
 x1 kalte  x3 x2 : x1 hunts prey x2 for purpose x3.
 x1 kalte  x3 x2 : x1 hunts quarry x2 for purpose x3.
 x1 kalte  x3 x2 : x1 hunts game x2 for purpose x3.
@@ -2293,9 +2293,9 @@ x1 kamju  x2 : x1 is a column of material x2.
 x1 kamju  x2 : x1 is a pillar of material x2.
 x1 kamni  x3 x2 : x1 is a committee with task x2 of body x3.
 x1 kamni  x3 x2 : x1 is a committee with purpose x2 of body x3.
-x1 kampu  x2 : x1 is common among members of set x2 .
-x1 kampu  x2 : x1 is general among members of set x2 .
-x1 kampu  x2 : x1 is universal among members of set x2 .
+x1 kampu  x2 : x1 is common among members of set x2.
+x1 kampu  x2 : x1 is general among members of set x2.
+x1 kampu  x2 : x1 is universal among members of set x2.
 x1 kanba  x2 : x1 is a goat of species x2.
 x1 kanba  x2 : x1 is a goat of breed x2.
 x1 kanba  x2 : x1 is a angora of species x2.
@@ -2318,15 +2318,15 @@ x1 kanro  x2 : x1 is healthy good health by standard x2.
 x1 kanro  x2 : x1 is fit good health by standard x2.
 x1 kanro  x2 : x1 is well good health by standard x2.
 x1 kanro  x2 : x1 is in good health by standard x2.
-x1 kansa  x3 x2 : x1 is with a companion of x2, in state x3 .
-x1 kansa  x3 x2 : x1 is with a companion of x2, in condition x3 .
-x1 kansa  x3 x2 : x1 is with a companion of x2, in enterprise x3 .
-x1 kansa  x3 x2 : x1 is accompanies a companion of x2, in state x3 .
-x1 kansa  x3 x2 : x1 is accompanies a companion of x2, in condition x3 .
-x1 kansa  x3 x2 : x1 is accompanies a companion of x2, in enterprise x3 .
-x1 kansa  x3 x2 : x1 is is a companion of x2, in state x3 .
-x1 kansa  x3 x2 : x1 is is a companion of x2, in condition x3 .
-x1 kansa  x3 x2 : x1 is is a companion of x2, in enterprise x3 .
+x1 kansa  x3 x2 : x1 is with a companion of x2, in state x3.
+x1 kansa  x3 x2 : x1 is with a companion of x2, in condition x3.
+x1 kansa  x3 x2 : x1 is with a companion of x2, in enterprise x3.
+x1 kansa  x3 x2 : x1 is accompanies a companion of x2, in state x3.
+x1 kansa  x3 x2 : x1 is accompanies a companion of x2, in condition x3.
+x1 kansa  x3 x2 : x1 is accompanies a companion of x2, in enterprise x3.
+x1 kansa  x3 x2 : x1 is is a companion of x2, in state x3.
+x1 kansa  x3 x2 : x1 is is a companion of x2, in condition x3.
+x1 kansa  x3 x2 : x1 is is a companion of x2, in enterprise x3.
 x1 kantu  x2 : x1 is a quantum particle measurable increment of property x2.
 x1 kantu  x2 : x1 is a quantum particle measurable increment of activity x2.
 x1 kantu  x2 : x1 is a quantum smallest measurable increment of property x2.
@@ -2340,7 +2340,7 @@ x1 kantu  x2 : x1 is a elementary particle measurable increment of activity x2.
 x1 kantu  x2 : x1 is a elementary smallest measurable increment of property x2.
 x1 kantu  x2 : x1 is a elementary smallest measurable increment of activity x2.
 x1 kanxe  x3 x2 : x1 is a conjunction, stating that x2 and x3 are both true.
-x1 karbi  x5 x4 x3 x2 : x1 compares x2 with x3 in property x4 , determining comparison x5 .
+x1 karbi  x5 x4 x3 x2 : x1 compares x2 with x3 in property x4 , determining comparison x5.
 x1 karce  x3 x2 : x1 is a car for carrying x2, propelled by x3
 x1 karce  x3 x2 : x1 is a automobile for carrying x2, propelled by x3
 x1 karce  x3 x2 : x1 is a truck for carrying x2, propelled by x3
@@ -2373,8 +2373,8 @@ x1 kavbu  x3 x2 : x1 seizes x2 with trap x3.
 x1 kavbu  x3 x2 : x1 seizes x2 with restraint x3.
 x1 kavbu  x3 x2 : x1 nabs x2 with trap x3.
 x1 kavbu  x3 x2 : x1 nabs x2 with restraint x3.
-x1 kecti  x3 x2 : x1 pities sorry for x2 about x3 .
-x1 kecti  x3 x2 : x1 feels sorry for x2 about x3 .
+x1 kecti  x3 x2 : x1 pities sorry for x2 about x3.
+x1 kecti  x3 x2 : x1 feels sorry for x2 about x3.
 x1 kelci  x2 : x1 plays with plaything x2.
 x1 kelci  x2 : x1 plays with toy x2.
 x1 kelvo  x3 x2 : x1 is x2 degree Kelvin in temperature by standard x3.
@@ -2400,8 +2400,8 @@ x1 kicne  x3 x2 : x1 cushions x2 with material x3
 x1 kijno  : x1 is a quantity of oxygen
 x1 kijno  : x1 contains oxygen
 x1 kijno  : x1 is made of oxygen
-x1 kilto  x3 x2 : x1 is a thousand of x2 in dimension x3 .
-x1 kilto  x3 x2 : x1 is a thousand of x2 in aspect x3 .
+x1 kilto  x3 x2 : x1 is a thousand of x2 in dimension x3.
+x1 kilto  x3 x2 : x1 is a thousand of x2 in aspect x3.
 x1 kinli  x2 : x1 is sharp at locus x2.
 x1 kinli  x2 : x1 is keen at locus x2.
 x1 kisto  x2 : x1 reflects Pakistani culture in aspect x2.
@@ -2417,27 +2417,27 @@ x1 klaji  x3 x2 : x1 is a drive at x2 accessing x3.
 x1 klaji  x3 x2 : x1 is a cul-de-sac at x2 accessing x3.
 x1 klaji  x3 x2 : x1 is a way at x2 accessing x3.
 x1 klaji  x3 x2 : x1 is a alley at x2 accessing x3.
-x1 klaku  x3 x2 : x1 weeps tears x2 about reason x3 .
-x1 klaku  x3 x2 : x1 weeps tears x2 for reason x3 .
-x1 klaku  x3 x2 : x1 cries tears x2 about reason x3 .
-x1 klaku  x3 x2 : x1 cries tears x2 for reason x3 .
+x1 klaku  x3 x2 : x1 weeps tears x2 about reason x3.
+x1 klaku  x3 x2 : x1 weeps tears x2 for reason x3.
+x1 klaku  x3 x2 : x1 cries tears x2 about reason x3.
+x1 klaku  x3 x2 : x1 cries tears x2 for reason x3.
 x1 klama  x5 x4 x3 x2 : x1 comes to destination x2 from origin x3 via route x4 using means x5.
 x1 klama  x5 x4 x3 x2 : x1 comes to destination x2 from origin x3 via route x4 using vehicle x5.
 x1 klama  x5 x4 x3 x2 : x1 goes to destination x2 from origin x3 via route x4 using means x5.
 x1 klama  x5 x4 x3 x2 : x1 goes to destination x2 from origin x3 via route x4 using vehicle x5.
-x1 klani  x3 x2 : x1 is a quantity quantified by x2 on scale x3 .
-x1 klani  x3 x2 : x1 is a quantity measured by x2 on scale x3 .
-x1 klani  x3 x2 : x1 is a quantity enumerated by x2 on scale x3 .
-x1 klesi  x3 x2 : x1 is a class within x2 with defining property x3 .
-x1 klesi  x3 x2 : x1 is a category within x2 with defining property x3 .
-x1 klesi  x3 x2 : x1 is a subgroup within x2 with defining property x3 .
-x1 klesi  x3 x2 : x1 is a subset within x2 with defining property x3 .
-x1 klina  x2 : x1 is clear obstacle to in-the-clear x2 .
-x1 klina  x2 : x1 is transparent obstacle to in-the-clear x2 .
-x1 klina  x2 : x1 is without obstacle to in-the-clear x2 .
-x1 kliru  x2 : x1 is a quantity of halogen of type x2 .
-x1 kliru  x2 : x1 contains halogen of type x2 .
-x1 kliru  x2 : x1 is made of halogen of type x2 .
+x1 klani  x3 x2 : x1 is a quantity quantified by x2 on scale x3.
+x1 klani  x3 x2 : x1 is a quantity measured by x2 on scale x3.
+x1 klani  x3 x2 : x1 is a quantity enumerated by x2 on scale x3.
+x1 klesi  x3 x2 : x1 is a class within x2 with defining property x3.
+x1 klesi  x3 x2 : x1 is a category within x2 with defining property x3.
+x1 klesi  x3 x2 : x1 is a subgroup within x2 with defining property x3.
+x1 klesi  x3 x2 : x1 is a subset within x2 with defining property x3.
+x1 klina  x2 : x1 is clear obstacle to in-the-clear x2.
+x1 klina  x2 : x1 is transparent obstacle to in-the-clear x2.
+x1 klina  x2 : x1 is without obstacle to in-the-clear x2.
+x1 kliru  x2 : x1 is a quantity of halogen of type x2.
+x1 kliru  x2 : x1 contains halogen of type x2.
+x1 kliru  x2 : x1 is made of halogen of type x2.
 x1 kliti  x2 : x1 is a quantity of clay of composition including x2.
 x1 kliti  x2 : x1 contains clay of composition including x2.
 x1 kliti  x2 : x1 is made of clay of composition including x2.
@@ -2505,10 +2505,10 @@ x1 kosta  x2 : x1 is a jacket of material x2.
 x1 kosta  x2 : x1 is a sweater of material x2.
 x1 kosta  x2 : x1 is a cloak of material x2.
 x1 kramu  x4 x3 x2 : x1 is x2 local area unit by standard x3, x4 subunits.
-x1 krasi  x2 : x1 is a source of x2 .
-x1 krasi  x2 : x1 is a start of x2 .
-x1 krasi  x2 : x1 is a beginning of x2 .
-x1 krasi  x2 : x1 is a origin of x2 .
+x1 krasi  x2 : x1 is a source of x2.
+x1 krasi  x2 : x1 is a start of x2.
+x1 krasi  x2 : x1 is a beginning of x2.
+x1 krasi  x2 : x1 is a origin of x2.
 x1 krati  x3 x2 : x1 represents an agent for x2 in matter x3.
 x1 krati  x3 x2 : x1 represents an agent for x2 in function x3.
 x1 krati  x3 x2 : x1 represents an proxy for x2 in matter x3.
@@ -2533,15 +2533,15 @@ x1 krili  x3 x2 : x1 contains crystal of composition x2 in form x3.
 x1 krili  x3 x2 : x1 contains crystal of composition x2 in arrangement x3.
 x1 krili  x3 x2 : x1 is made of crystal of composition x2 in form x3.
 x1 krili  x3 x2 : x1 is made of crystal of composition x2 in arrangement x3.
-x1 krinu  x2 : x1 is a reason for x2 .
-x1 krinu  x2 : x1 is a reason causing x2 .
-x1 krinu  x2 : x1 is a reason permitting x2 .
-x1 krinu  x2 : x1 is a justification for x2 .
-x1 krinu  x2 : x1 is a justification causing x2 .
-x1 krinu  x2 : x1 is a justification permitting x2 .
-x1 krinu  x2 : x1 is a explanation for x2 .
-x1 krinu  x2 : x1 is a explanation causing x2 .
-x1 krinu  x2 : x1 is a explanation permitting x2 .
+x1 krinu  x2 : x1 is a reason for x2.
+x1 krinu  x2 : x1 is a reason causing x2.
+x1 krinu  x2 : x1 is a reason permitting x2.
+x1 krinu  x2 : x1 is a justification for x2.
+x1 krinu  x2 : x1 is a justification causing x2.
+x1 krinu  x2 : x1 is a justification permitting x2.
+x1 krinu  x2 : x1 is a explanation for x2.
+x1 krinu  x2 : x1 is a explanation causing x2.
+x1 krinu  x2 : x1 is a explanation permitting x2.
 x1 krixa  x2 : x1 cries out sound x2
 x1 krixa  x2 : x1 cries yells sound x2
 x1 krixa  x2 : x1 cries howls sound x2
@@ -2563,38 +2563,38 @@ x1 kruvi  x4 x3 x2 : x1 is a turn in x2, at locus x3, and defined by set of poin
 x1 kruvi  x4 x3 x2 : x1 is a turn in x2, at locus x3, and defined by set of properties x4.
 x1 kruvi  x4 x3 x2 : x1 is a bend in x2, at locus x3, and defined by set of points x4.
 x1 kruvi  x4 x3 x2 : x1 is a bend in x2, at locus x3, and defined by set of properties x4.
-x1 kubli  x3 x2 : x1 is a cube polyhedron of dimensions x2 , surfaces x3 .
-x1 kubli  x3 x2 : x1 is a cube polyhedron of dimensions x2 , sides x3 .
-x1 kubli  x3 x2 : x1 is a cube polygon of dimensions x2 , surfaces x3 .
-x1 kubli  x3 x2 : x1 is a cube polygon of dimensions x2 , sides x3 .
-x1 kubli  x3 x2 : x1 is a regular polyhedron of dimensions x2 , surfaces x3 .
-x1 kubli  x3 x2 : x1 is a regular polyhedron of dimensions x2 , sides x3 .
-x1 kubli  x3 x2 : x1 is a regular polygon of dimensions x2 , surfaces x3 .
-x1 kubli  x3 x2 : x1 is a regular polygon of dimensions x2 , sides x3 .
-x1 kucli  x2 : x1 is curious about interested in x2 .
-x1 kucli  x2 : x1 is curious is interested in x2 .
-x1 kucli  x2 : x1 is wonders about interested in x2 .
-x1 kucli  x2 : x1 is wonders is interested in x2 .
+x1 kubli  x3 x2 : x1 is a cube polyhedron of dimensions x2 , surfaces x3.
+x1 kubli  x3 x2 : x1 is a cube polyhedron of dimensions x2 , sides x3.
+x1 kubli  x3 x2 : x1 is a cube polygon of dimensions x2 , surfaces x3.
+x1 kubli  x3 x2 : x1 is a cube polygon of dimensions x2 , sides x3.
+x1 kubli  x3 x2 : x1 is a regular polyhedron of dimensions x2 , surfaces x3.
+x1 kubli  x3 x2 : x1 is a regular polyhedron of dimensions x2 , sides x3.
+x1 kubli  x3 x2 : x1 is a regular polygon of dimensions x2 , surfaces x3.
+x1 kubli  x3 x2 : x1 is a regular polygon of dimensions x2 , sides x3.
+x1 kucli  x2 : x1 is curious about interested in x2.
+x1 kucli  x2 : x1 is curious is interested in x2.
+x1 kucli  x2 : x1 is wonders about interested in x2.
+x1 kucli  x2 : x1 is wonders is interested in x2.
 x1 kufra  x2 : x1 feels comfort comfortable with conditions property x2.
 x1 kufra  x2 : x1 feels comfort comfortable with environmental property x2.
 x1 kufra  x2 : x1 feels is comfortable with conditions property x2.
 x1 kufra  x2 : x1 feels is comfortable with environmental property x2.
-x1 kukte  x2 : x1 is delicious to observer x2 .
-x1 kukte  x2 : x1 is delicious to sense x2 .
-x1 kukte  x2 : x1 is tasty to observer x2 .
-x1 kukte  x2 : x1 is tasty to sense x2 .
-x1 kukte  x2 : x1 is delightful to observer x2 .
-x1 kukte  x2 : x1 is delightful to sense x2 .
+x1 kukte  x2 : x1 is delicious to observer x2.
+x1 kukte  x2 : x1 is delicious to sense x2.
+x1 kukte  x2 : x1 is tasty to observer x2.
+x1 kukte  x2 : x1 is tasty to sense x2.
+x1 kukte  x2 : x1 is delightful to observer x2.
+x1 kukte  x2 : x1 is delightful to sense x2.
 x1 kulnu  x2 : x1 is culture of nation x2
 x1 kulnu  x2 : x1 is culture of ethos x2
-x1 kumfa  x3 x2 : x1 is a room of structure x2 surrounded by partitions x3 .
-x1 kumfa  x3 x2 : x1 is a room of structure x2 surrounded by walls x3 .
-x1 kumfa  x3 x2 : x1 is a room of structure x2 surrounded by ceiling x3 .
-x1 kumfa  x3 x2 : x1 is a room of structure x2 surrounded by floor x3 .
-x1 kumfa  x3 x2 : x1 is a room in structure x2 surrounded by partitions x3 .
-x1 kumfa  x3 x2 : x1 is a room in structure x2 surrounded by walls x3 .
-x1 kumfa  x3 x2 : x1 is a room in structure x2 surrounded by ceiling x3 .
-x1 kumfa  x3 x2 : x1 is a room in structure x2 surrounded by floor x3 .
+x1 kumfa  x3 x2 : x1 is a room of structure x2 surrounded by partitions x3.
+x1 kumfa  x3 x2 : x1 is a room of structure x2 surrounded by walls x3.
+x1 kumfa  x3 x2 : x1 is a room of structure x2 surrounded by ceiling x3.
+x1 kumfa  x3 x2 : x1 is a room of structure x2 surrounded by floor x3.
+x1 kumfa  x3 x2 : x1 is a room in structure x2 surrounded by partitions x3.
+x1 kumfa  x3 x2 : x1 is a room in structure x2 surrounded by walls x3.
+x1 kumfa  x3 x2 : x1 is a room in structure x2 surrounded by ceiling x3.
+x1 kumfa  x3 x2 : x1 is a room in structure x2 surrounded by floor x3.
 x1 kumte  x2 : x1 is a camel of species x2.
 x1 kumte  x2 : x1 is a camel of breed x2.
 x1 kumte  x2 : x1 is a llama of species x2.
@@ -2643,24 +2643,24 @@ x1 kunra  x3 x2 : x1 is made from a ore of metal x2 mined from lode x3.
 x1 kunra  x3 x2 : x1 is made from a ore of metal x2 mined from mine x3.
 x1 kunti  x2 : x1 is empty of x2
 x1 kunti  x2 : x1 is vacant of x2
-x1 kurfa  x3 x2 : x1 is a right-angled shape defined by set of vertices x2, dimensions x3 .
-x1 kurfa  x3 x2 : x1 is a right-angled form defined by set of vertices x2, dimensions x3 .
-x1 kurji  x2 : x1 takes-care-of after to for caretaker for x2 .
-x1 kurji  x2 : x1 takes-care-of after to is caretaker for x2 .
-x1 kurji  x2 : x1 takes-care-of after provides for caretaker for x2 .
-x1 kurji  x2 : x1 takes-care-of after provides is caretaker for x2 .
-x1 kurji  x2 : x1 takes-care-of attends to for caretaker for x2 .
-x1 kurji  x2 : x1 takes-care-of attends to is caretaker for x2 .
-x1 kurji  x2 : x1 takes-care-of attends provides for caretaker for x2 .
-x1 kurji  x2 : x1 takes-care-of attends provides is caretaker for x2 .
-x1 kurji  x2 : x1 looks after to for caretaker for x2 .
-x1 kurji  x2 : x1 looks after to is caretaker for x2 .
-x1 kurji  x2 : x1 looks after provides for caretaker for x2 .
-x1 kurji  x2 : x1 looks after provides is caretaker for x2 .
-x1 kurji  x2 : x1 looks attends to for caretaker for x2 .
-x1 kurji  x2 : x1 looks attends to is caretaker for x2 .
-x1 kurji  x2 : x1 looks attends provides for caretaker for x2 .
-x1 kurji  x2 : x1 looks attends provides is caretaker for x2 .
+x1 kurfa  x3 x2 : x1 is a right-angled shape defined by set of vertices x2, dimensions x3.
+x1 kurfa  x3 x2 : x1 is a right-angled form defined by set of vertices x2, dimensions x3.
+x1 kurji  x2 : x1 takes-care-of after to for caretaker for x2.
+x1 kurji  x2 : x1 takes-care-of after to is caretaker for x2.
+x1 kurji  x2 : x1 takes-care-of after provides for caretaker for x2.
+x1 kurji  x2 : x1 takes-care-of after provides is caretaker for x2.
+x1 kurji  x2 : x1 takes-care-of attends to for caretaker for x2.
+x1 kurji  x2 : x1 takes-care-of attends to is caretaker for x2.
+x1 kurji  x2 : x1 takes-care-of attends provides for caretaker for x2.
+x1 kurji  x2 : x1 takes-care-of attends provides is caretaker for x2.
+x1 kurji  x2 : x1 looks after to for caretaker for x2.
+x1 kurji  x2 : x1 looks after to is caretaker for x2.
+x1 kurji  x2 : x1 looks after provides for caretaker for x2.
+x1 kurji  x2 : x1 looks after provides is caretaker for x2.
+x1 kurji  x2 : x1 looks attends to for caretaker for x2.
+x1 kurji  x2 : x1 looks attends to is caretaker for x2.
+x1 kurji  x2 : x1 looks attends provides for caretaker for x2.
+x1 kurji  x2 : x1 looks attends provides is caretaker for x2.
 x1 kurki  x2 : x1 is bitter disagreeable to observer x2.
 x1 kurki  x2 : x1 is bitter disagreeable to sense x2.
 x1 kurki  x2 : x1 is acrid disagreeable to observer x2.
@@ -2742,24 +2742,24 @@ x1 lacpu  x3 x2 : x1 draws x2 by handle locus x3.
 x1 lacpu  x3 x2 : x1 draws x2 by at locus x3.
 x1 lacpu  x3 x2 : x1 drags x2 by handle locus x3.
 x1 lacpu  x3 x2 : x1 drags x2 by at locus x3.
-x1 lacri  x3 x2 : x1 relies on x2 to bring about x3 .
-x1 lacri  x3 x2 : x1 relies on x2 to bring ensure x3 .
-x1 lacri  x3 x2 : x1 relies on x2 to bring maintain x3 .
-x1 lacri  x3 x2 : x1 relies trusts x2 to bring about x3 .
-x1 lacri  x3 x2 : x1 relies trusts x2 to bring ensure x3 .
-x1 lacri  x3 x2 : x1 relies trusts x2 to bring maintain x3 .
-x1 lacri  x3 x2 : x1 depends on x2 to bring about x3 .
-x1 lacri  x3 x2 : x1 depends on x2 to bring ensure x3 .
-x1 lacri  x3 x2 : x1 depends on x2 to bring maintain x3 .
-x1 lacri  x3 x2 : x1 depends trusts x2 to bring about x3 .
-x1 lacri  x3 x2 : x1 depends trusts x2 to bring ensure x3 .
-x1 lacri  x3 x2 : x1 depends trusts x2 to bring maintain x3 .
-x1 lacri  x3 x2 : x1 counts on x2 to bring about x3 .
-x1 lacri  x3 x2 : x1 counts on x2 to bring ensure x3 .
-x1 lacri  x3 x2 : x1 counts on x2 to bring maintain x3 .
-x1 lacri  x3 x2 : x1 counts trusts x2 to bring about x3 .
-x1 lacri  x3 x2 : x1 counts trusts x2 to bring ensure x3 .
-x1 lacri  x3 x2 : x1 counts trusts x2 to bring maintain x3 .
+x1 lacri  x3 x2 : x1 relies on x2 to bring about x3.
+x1 lacri  x3 x2 : x1 relies on x2 to bring ensure x3.
+x1 lacri  x3 x2 : x1 relies on x2 to bring maintain x3.
+x1 lacri  x3 x2 : x1 relies trusts x2 to bring about x3.
+x1 lacri  x3 x2 : x1 relies trusts x2 to bring ensure x3.
+x1 lacri  x3 x2 : x1 relies trusts x2 to bring maintain x3.
+x1 lacri  x3 x2 : x1 depends on x2 to bring about x3.
+x1 lacri  x3 x2 : x1 depends on x2 to bring ensure x3.
+x1 lacri  x3 x2 : x1 depends on x2 to bring maintain x3.
+x1 lacri  x3 x2 : x1 depends trusts x2 to bring about x3.
+x1 lacri  x3 x2 : x1 depends trusts x2 to bring ensure x3.
+x1 lacri  x3 x2 : x1 depends trusts x2 to bring maintain x3.
+x1 lacri  x3 x2 : x1 counts on x2 to bring about x3.
+x1 lacri  x3 x2 : x1 counts on x2 to bring ensure x3.
+x1 lacri  x3 x2 : x1 counts on x2 to bring maintain x3.
+x1 lacri  x3 x2 : x1 counts trusts x2 to bring about x3.
+x1 lacri  x3 x2 : x1 counts trusts x2 to bring ensure x3.
+x1 lacri  x3 x2 : x1 counts trusts x2 to bring maintain x3.
 x1 ladru  x2 : x1 is made of milk from source x2
 x1 ladru  x2 : x1 contains milk from source x2
 x1 ladru  x2 : x1 is a quantity of milk from source x2
@@ -2788,8 +2788,8 @@ x1 lamji  x4 x3 x2 : x1 is next to contact with x2 in property x3 in direction x
 x1 lamji  x4 x3 x2 : x1 is next to contact with x2 in sequence x3 in direction x4.
 x1 lamji  x4 x3 x2 : x1 is next in contact with x2 in property x3 in direction x4.
 x1 lamji  x4 x3 x2 : x1 is next in contact with x2 in sequence x3 in direction x4.
-x1 lanbi  x3 x2 : x1 is a quantity of protein of type x2 composed of amino acids x3 .
-x1 lanbi  x3 x2 : x1 is a quantity of albumin of type x2 composed of amino acids x3 .
+x1 lanbi  x3 x2 : x1 is a quantity of protein of type x2 composed of amino acids x3.
+x1 lanbi  x3 x2 : x1 is a quantity of albumin of type x2 composed of amino acids x3.
 x1 lanci  x4 x3 x2 : x1 is a flag of x2 with pattern x3 on material x4.
 x1 lanci  x4 x3 x2 : x1 is a flag symbolizing x2 with pattern x3 on material x4.
 x1 lanci  x4 x3 x2 : x1 is a banner of x2 with pattern x3 on material x4.
@@ -2797,25 +2797,25 @@ x1 lanci  x4 x3 x2 : x1 is a banner symbolizing x2 with pattern x3 on material x
 x1 lanci  x4 x3 x2 : x1 is a standard of x2 with pattern x3 on material x4.
 x1 lanci  x4 x3 x2 : x1 is a standard symbolizing x2 with pattern x3 on material x4.
 x1 lanka  x3 x2 : x1 is a basket with contents x2, woven from material x3.
-x1 lanli  x3 x2 : x1 analyzes x2 by method x3 .
-x1 lanli  x3 x2 : x1 analyzes x2 by technique x3 .
-x1 lanli  x3 x2 : x1 analyzes x2 by system x3 .
-x1 lanli  x3 x2 : x1 examines-in-detail x2 by method x3 .
-x1 lanli  x3 x2 : x1 examines-in-detail x2 by technique x3 .
-x1 lanli  x3 x2 : x1 examines-in-detail x2 by system x3 .
+x1 lanli  x3 x2 : x1 analyzes x2 by method x3.
+x1 lanli  x3 x2 : x1 analyzes x2 by technique x3.
+x1 lanli  x3 x2 : x1 analyzes x2 by system x3.
+x1 lanli  x3 x2 : x1 examines-in-detail x2 by method x3.
+x1 lanli  x3 x2 : x1 examines-in-detail x2 by technique x3.
+x1 lanli  x3 x2 : x1 examines-in-detail x2 by system x3.
 x1 lanme  x3 x2 : x1 is a sheep of species x2 of flock x3.
 x1 lanme  x3 x2 : x1 is a sheep of breed x2 of flock x3.
 x1 lante  x3 x2 : x1 is a can sealed container for perishable contents x2, made of x3.
 x1 lante  x3 x2 : x1 is a can pre-sealed container for perishable contents x2, made of x3.
 x1 lante  x3 x2 : x1 is a tightly sealed container for perishable contents x2, made of x3.
 x1 lante  x3 x2 : x1 is a tightly pre-sealed container for perishable contents x2, made of x3.
-x1 lanxe  x2 : x1 is in balance under forces x2 .
-x1 lanxe  x2 : x1 is in equilibrium under forces x2 .
+x1 lanxe  x2 : x1 is in balance under forces x2.
+x1 lanxe  x2 : x1 is in equilibrium under forces x2.
 x1 lanzu  x3 x2 : x1 is a family with members including x2 bonded according to standard x3.
 x1 lanzu  x3 x2 : x1 is a family with members including x2 tied according to standard x3.
 x1 lanzu  x3 x2 : x1 is a family with members including x2 joined according to standard x3.
-x1 larcu  x2 : x1 is an art of craft x2 .
-x1 larcu  x2 : x1 is an art of skill x2 .
+x1 larcu  x2 : x1 is an art of craft x2.
+x1 larcu  x2 : x1 is an art of skill x2.
 x1 lasna  x4 x3 x2 : x1 fastens x2 to x3 with fastener x4.
 x1 lasna  x4 x3 x2 : x1 connects x2 to x3 with fastener x4.
 x1 lasna  x4 x3 x2 : x1 attaches x2 to x3 with fastener x4.
@@ -2849,11 +2849,11 @@ x1 lazni  x2 : x1 is lazy work concerning action x2.
 x1 lazni  x2 : x1 is lazy effort concerning action x2.
 x1 lazni  x2 : x1 is avoiding work concerning action x2.
 x1 lazni  x2 : x1 is avoiding effort concerning action x2.
-x1 lebna  x3 x2 : x1 takes x2 from x3 .
-x1 lebna  x3 x2 : x1 gets x2 from x3 .
-x1 lebna  x3 x2 : x1 gains x2 from x3 .
-x1 lebna  x3 x2 : x1 obtains x2 from x3 .
-x1 lebna  x3 x2 : x1 seizes x2 from x3 .
+x1 lebna  x3 x2 : x1 takes x2 from x3.
+x1 lebna  x3 x2 : x1 gets x2 from x3.
+x1 lebna  x3 x2 : x1 gains x2 from x3.
+x1 lebna  x3 x2 : x1 obtains x2 from x3.
+x1 lebna  x3 x2 : x1 seizes x2 from x3.
 x1 lenjo  x4 x3 x2 : x1 is a lens focussing x2 to focus x3 by means x4.
 x1 lenjo  x4 x3 x2 : x1 is a lens focussing x2 to focus x3 by material x4.
 x1 lenjo  x4 x3 x2 : x1 is a lens focussing x2 to foci x3 by means x4.
@@ -2930,14 +2930,14 @@ x1 livga  x2 : x1 is a liver of x2.
 x1 livga  x2 : x1 is the liver of x2.
 x1 livla  x2 : x1 is a fuel for powering x2.
 x1 livla  x2 : x1 is a energy-source for powering x2.
-x1 logji  x2 : x1 is a logic for deducing to x2 .
-x1 logji  x2 : x1 is a logic for deducing about x2 .
-x1 logji  x2 : x1 is a logic for concluding to x2 .
-x1 logji  x2 : x1 is a logic for concluding about x2 .
-x1 logji  x2 : x1 is a logic for inferring to x2 .
-x1 logji  x2 : x1 is a logic for inferring about x2 .
-x1 logji  x2 : x1 is a logic for reasoning to x2 .
-x1 logji  x2 : x1 is a logic for reasoning about x2 .
+x1 logji  x2 : x1 is a logic for deducing to x2.
+x1 logji  x2 : x1 is a logic for deducing about x2.
+x1 logji  x2 : x1 is a logic for concluding to x2.
+x1 logji  x2 : x1 is a logic for concluding about x2.
+x1 logji  x2 : x1 is a logic for inferring to x2.
+x1 logji  x2 : x1 is a logic for inferring about x2.
+x1 logji  x2 : x1 is a logic for reasoning to x2.
+x1 logji  x2 : x1 is a logic for reasoning about x2.
 x1 lojbo  x2 : x1 reflects  language in aspect x2.
 x1 lojbo  x2 : x1 reflects  culture in aspect x2.
 x1 lojbo  x2 : x1 reflects  nationality in aspect x2.
@@ -2985,10 +2985,10 @@ x1 mabru  x2 : x1 is a mammal of species x2.
 x1 mabru  x2 : x1 is a 'animal' of species x2.
 x1 mabru  x2 : x1 is a beast of species x2.
 x1 macnu  x3 x2 : x1 is manual in function x2 under conditions x3.
-x1 makcu  x2 : x1 is mature in development-quality x2 .
-x1 makcu  x2 : x1 is ripe in development-quality x2 .
-x1 makcu  x2 : x1 is fully-grown in development-quality x2 .
-x1 makcu  x2 : x1 is adult in development-quality x2 .
+x1 makcu  x2 : x1 is mature in development-quality x2.
+x1 makcu  x2 : x1 is ripe in development-quality x2.
+x1 makcu  x2 : x1 is fully-grown in development-quality x2.
+x1 makcu  x2 : x1 is adult in development-quality x2.
 x1 makfa  x3 x2 : x1 is magic to x2, performed by person x3.
 x1 makfa  x3 x2 : x1 is magic to x2, performed by force x3.
 x1 makfa  x3 x2 : x1 is magic to x2, performed by deity x3.
@@ -3019,8 +3019,8 @@ x1 mamta  x2 : x1 is a mother of x2
 x1 manci  x2 : x1 feels wonder about x2.
 x1 manci  x2 : x1 feels awe about x2.
 x1 manci  x2 : x1 feels marvels about x2.
-x1 manfo  x2 : x1 is uniform in property x2 .
-x1 manfo  x2 : x1 is homogeneous in property x2 .
+x1 manfo  x2 : x1 is uniform in property x2.
+x1 manfo  x2 : x1 is homogeneous in property x2.
 x1 manku  : x1 is dark in illumination.
 x1 manku  : x1 is lacking in illumination.
 x1 manri  x3 x2 : x1 is a frame of reference for observing x2, with rules x3.
@@ -3044,9 +3044,9 @@ x1 mapku  x2 : x1 is a hat of headgear of material x2.
 x1 mapku  x2 : x1 is a crown of headgear of material x2.
 x1 mapku  x2 : x1 is a helmet of headgear of material x2.
 x1 mapku  x2 : x1 is a piece of headgear of material x2.
-x1 mapni  : x1 is a quantity of cotton .
-x1 mapni  : x1 contains cotton .
-x1 mapni  : x1 is made of cotton .
+x1 mapni  : x1 is a quantity of cotton.
+x1 mapni  : x1 contains cotton.
+x1 mapni  : x1 is made of cotton.
 x1 mapti  x3 x2 : x1 fits compatible to x2 in property x3.
 x1 mapti  x3 x2 : x1 fits compatible to x2 in aspect x3.
 x1 mapti  x3 x2 : x1 fits compatible with x2 in property x3.
@@ -3169,23 +3169,23 @@ x1 marxa  x3 x2 : x1 smashes x2 into pulp mass x3.
 x1 marxa  x3 x2 : x1 smashes x2 into mash mass x3.
 x1 marxa  x3 x2 : x1 smashes x2 into crumbs mass x3.
 x1 marxa  x3 x2 : x1 smashes x2 into deformed mass x3.
-x1 masno  x2 : x1 is slow at doing about x2 .
-x1 masno  x2 : x1 is slow at being about x2 .
-x1 masno  x2 : x1 is slow at bringing about x2 .
-x1 masno  x2 : x1 is sluggish at doing about x2 .
-x1 masno  x2 : x1 is sluggish at being about x2 .
-x1 masno  x2 : x1 is sluggish at bringing about x2 .
+x1 masno  x2 : x1 is slow at doing about x2.
+x1 masno  x2 : x1 is slow at being about x2.
+x1 masno  x2 : x1 is slow at bringing about x2.
+x1 masno  x2 : x1 is sluggish at doing about x2.
+x1 masno  x2 : x1 is sluggish at being about x2.
+x1 masno  x2 : x1 is sluggish at bringing about x2.
 x1 masti  x3 x2 : x1 is x2 months in duration by month standard x3.
 x1 matci  x2 : x1 is a mat of material x2.
 x1 matci  x2 : x1 is a pad of material x2.
 x1 matci  x2 : x1 is a mattress of material x2.
 x1 matci  x2 : x1 is a pallet of material x2.
-x1 matli  : x1 is a quantity of linen .
-x1 matli  : x1 is a quantity of flax .
-x1 matli  : x1 contains linen .
-x1 matli  : x1 contains flax .
-x1 matli  : x1 is made of linen .
-x1 matli  : x1 is made of flax .
+x1 matli  : x1 is a quantity of linen.
+x1 matli  : x1 is a quantity of flax.
+x1 matli  : x1 contains linen.
+x1 matli  : x1 contains flax.
+x1 matli  : x1 is made of linen.
+x1 matli  : x1 is made of flax.
 x1 matne  x2 : x1 is a quantity of butter from source x2.
 x1 matne  x2 : x1 is a quantity of oleo from source x2.
 x1 matne  x2 : x1 is a quantity of margarine from source x2.
@@ -3208,8 +3208,8 @@ x1 mebri  x2 : x1 is a brow of x2.
 x1 mebri  x2 : x1 is a forehead of x2.
 x1 mebri  x2 : x1 is the brow of x2.
 x1 mebri  x2 : x1 is the forehead of x2.
-x1 megdo  x3 x2 : x1 is a million of x2 in dimension x3 .
-x1 megdo  x3 x2 : x1 is a million of x2 in aspect x3 .
+x1 megdo  x3 x2 : x1 is a million of x2 in dimension x3.
+x1 megdo  x3 x2 : x1 is a million of x2 in aspect x3.
 x1 mekso  x2 : x1 is a mathematical expression interpreted under rules x2.
 x1 mekso  x2 : x1 is a mathematical expression interpreted under convention x2.
 x1 melbi  x4 x3 x2 : x1 is beautiful to x2 in aspect x3 by aesthetic standard x4.
@@ -3269,10 +3269,10 @@ x1 mikce  x4 x3 x2 : x1 is physician to x2 for ailment x3 by treatment x4.
 x1 mikce  x4 x3 x2 : x1 is physician to x2 for ailment x3 by cure x4.
 x1 mikce  x4 x3 x2 : x1 is midwife to x2 for ailment x3 by treatment x4.
 x1 mikce  x4 x3 x2 : x1 is midwife to x2 for ailment x3 by cure x4.
-x1 mikri  x3 x2 : x1 is a millionth of x2 in dimension x3 .
-x1 mikri  x3 x2 : x1 is a millionth of x2 in aspect x3 .
-x1 milti  x3 x2 : x1 is a thousandth of x2 in dimension x3 .
-x1 milti  x3 x2 : x1 is a thousandth of x2 in aspect x3 .
+x1 mikri  x3 x2 : x1 is a millionth of x2 in dimension x3.
+x1 mikri  x3 x2 : x1 is a millionth of x2 in aspect x3.
+x1 milti  x3 x2 : x1 is a thousandth of x2 in dimension x3.
+x1 milti  x3 x2 : x1 is a thousandth of x2 in aspect x3.
 x1 milxe  x2 : x1 is mild in property x2
 x1 milxe  x2 : x1 is non-extreme in property x2
 x1 milxe  x2 : x1 is gentle in property x2
@@ -3299,9 +3299,9 @@ x1 mirli  x2 : x1 is a elk of species x2.
 x1 mirli  x2 : x1 is a elk of breed x2.
 x1 mirli  x2 : x1 is a moose of species x2.
 x1 mirli  x2 : x1 is a moose of breed x2.
-x1 misno  x2 : x1 is famous a celebrity among community of persons x2 .
-x1 misno  x2 : x1 is renowned a celebrity among community of persons x2 .
-x1 misno  x2 : x1 is is a celebrity among community of persons x2 .
+x1 misno  x2 : x1 is famous a celebrity among community of persons x2.
+x1 misno  x2 : x1 is renowned a celebrity among community of persons x2.
+x1 misno  x2 : x1 is is a celebrity among community of persons x2.
 x1 misro  x2 : x1 reflects Egyptian culture in aspect x2.
 x1 misro  x2 : x1 reflects Egyptian nationality in aspect x2.
 x1 mitre  x4 x3 x2 : x1 is x2 meter in length measured in direction x3 by standard x4.
@@ -3500,13 +3500,13 @@ x1 nanla  x3 x2 : x1 is a boy of age x2 immature by standard x3.
 x1 nanla  x3 x2 : x1 is a lad of age x2 immature by standard x3.
 x1 nanmu  : x1 is a man
 x1 nanmu  : x1 is a men
-x1 nanvi  x3 x2 : x1 is a billionth of x2 in dimension x3 .
-x1 nanvi  x3 x2 : x1 is a billionth of x2 in aspect x3 .
-x1 nanvi  x3 x2 : x1 is a thousand-millionth of x2 in dimension x3 .
-x1 nanvi  x3 x2 : x1 is a thousand-millionth of x2 in aspect x3 .
+x1 nanvi  x3 x2 : x1 is a billionth of x2 in dimension x3.
+x1 nanvi  x3 x2 : x1 is a billionth of x2 in aspect x3.
+x1 nanvi  x3 x2 : x1 is a thousand-millionth of x2 in dimension x3.
+x1 nanvi  x3 x2 : x1 is a thousand-millionth of x2 in aspect x3.
 x1 narge  x4 x3 x2 : x1 is a nut from plant x2 with shell x3 and kernel x4.
 x1 narge  x4 x3 x2 : x1 is a nut from species x2 with shell x3 and kernel x4.
-x1 narju  : x1 is orange .
+x1 narju  : x1 is orange.
 x1 natfe  x3 x2 : x1 contradicts x2 under rules x3.
 x1 natfe  x3 x2 : x1 contradicts x2 under logic x3.
 x1 natfe  x3 x2 : x1 denies x2 under rules x3.
@@ -3517,17 +3517,17 @@ x1 natfe  x3 x2 : x1 negates x2 under rules x3.
 x1 natfe  x3 x2 : x1 negates x2 under logic x3.
 x1 natmi  x2 : x1 is a nation group of peoples x2
 x1 natmi  x2 : x1 is a ethnic group of peoples x2
-x1 navni  : $x 1$ is a quantity of noble gas of type $x 2$ .
-x1 navni  : $x 1$ contains noble gas of type $x 2$ .
-x1 navni  : $x 1$ is made of noble gas of type $x 2$ .
+x1 navni  : $x 1$ is a quantity of noble gas of type $x 2$.
+x1 navni  : $x 1$ contains noble gas of type $x 2$.
+x1 navni  : $x 1$ is made of noble gas of type $x 2$.
 x1 naxle  x4 x3 x2 : x1 is a canal to x2 from x3 with route x4.
 x1 naxle  x4 x3 x2 : x1 is a channel to x2 from x3 with route x4.
 x1 nazbi  x3 x2 : x1 is the nose of x2 with nostril passage x3
 x1 nazbi  x3 x2 : x1 is the nose of x2 with nasal passage x3
 x1 nejni  x3 x2 : x1 is energy of type x2 in form x3.
-x1 nelci  x2 : x1 is fond of a taste for x2 .
-x1 nelci  x2 : x1 is fond likes a taste for x2 .
-x1 nelci  x2 : x1 is fond has a taste for x2 .
+x1 nelci  x2 : x1 is fond of a taste for x2.
+x1 nelci  x2 : x1 is fond likes a taste for x2.
+x1 nelci  x2 : x1 is fond has a taste for x2.
 x1 nenri  x2 : x1 is in x2
 x1 nenri  x2 : x1 is inside x2
 x1 nenri  x2 : x1 is within x2
@@ -3609,13 +3609,13 @@ x1 nobli  x2 : x1 is titled under standard x2.
 x1 notci  x4 x3 x2 : x1 is a message about subject x2 from author x3 to intended audience x4.
 x1 notci  x4 x3 x2 : x1 is a notice about subject x2 from author x3 to intended audience x4.
 x1 notci  x4 x3 x2 : x1 is a memorandum about subject x2 from author x3 to intended audience x4.
-x1 nukni  : x1 is magenta .
-x1 nukni  : x1 is fuchsia .
-x1 nukni  : x1 is purplish-red .
-x1 nupre  x3 x2 : x1 promises x2 to x3 .
-x1 nupre  x3 x2 : x1 commits x2 to x3 .
-x1 nupre  x3 x2 : x1 assures x2 to x3 .
-x1 nupre  x3 x2 : x1 threatens x2 to x3 .
+x1 nukni  : x1 is magenta.
+x1 nukni  : x1 is fuchsia.
+x1 nukni  : x1 is purplish-red.
+x1 nupre  x3 x2 : x1 promises x2 to x3.
+x1 nupre  x3 x2 : x1 commits x2 to x3.
+x1 nupre  x3 x2 : x1 assures x2 to x3.
+x1 nupre  x3 x2 : x1 threatens x2 to x3.
 x1 nurma  x2 : x1 is a rural area of x2
 x1 nurma  x2 : x1 is a rustic area of x2
 x1 nurma  x2 : x1 is a pastoral area of x2
@@ -3649,14 +3649,14 @@ x1 pagre  x4 x3 x2 : x1 passes through portal x2 to destination side x3 from ori
 x1 pagre  x4 x3 x2 : x1 passes penetrates barrier x2 to destination side x3 from origin side x4.
 x1 pagre  x4 x3 x2 : x1 passes penetrates medium x2 to destination side x3 from origin side x4.
 x1 pagre  x4 x3 x2 : x1 passes penetrates portal x2 to destination side x3 from origin side x4.
-x1 pajni  x2 : x1 judges a judge determining matter x2 .
-x1 pajni  x2 : x1 judges a judge deciding matter x2 .
-x1 pajni  x2 : x1 referees a judge determining matter x2 .
-x1 pajni  x2 : x1 referees a judge deciding matter x2 .
-x1 pajni  x2 : x1 arbitrates a judge determining matter x2 .
-x1 pajni  x2 : x1 arbitrates a judge deciding matter x2 .
-x1 pajni  x2 : x1 is a judge determining matter x2 .
-x1 pajni  x2 : x1 is a judge deciding matter x2 .
+x1 pajni  x2 : x1 judges a judge determining matter x2.
+x1 pajni  x2 : x1 judges a judge deciding matter x2.
+x1 pajni  x2 : x1 referees a judge determining matter x2.
+x1 pajni  x2 : x1 referees a judge deciding matter x2.
+x1 pajni  x2 : x1 arbitrates a judge determining matter x2.
+x1 pajni  x2 : x1 arbitrates a judge deciding matter x2.
+x1 pajni  x2 : x1 is a judge determining matter x2.
+x1 pajni  x2 : x1 is a judge deciding matter x2.
 x1 palci  x2 : x1 is evil by standard x2.
 x1 palci  x2 : x1 is depraved by standard x2.
 x1 palci  x2 : x1 is wicked by standard x2.
@@ -3699,7 +3699,7 @@ x1 panka  x3 x2 : x1 is a park reserve managed by company x2 for purpose x3.
 x1 panka  x3 x2 : x1 is a land reserve managed by community x2 for purpose x3.
 x1 panka  x3 x2 : x1 is a land reserve managed by polity x2 for purpose x3.
 x1 panka  x3 x2 : x1 is a land reserve managed by company x2 for purpose x3.
-x1 panlo  x2 : x1 is a slice of x2 .
+x1 panlo  x2 : x1 is a slice of x2.
 x1 panpi  x2 : x1 is at peace with x2.
 x1 panra  x4 x3 x2 : x1 parallels x2 differing only in property x3 by standard x4.
 x1 panra  x4 x3 x2 : x1 parallels x2 differing only in property x3 by geometry x4.
@@ -3717,8 +3717,8 @@ x1 papri  x2 : x1 is a page of bound mass of pages x2.
 x1 papri  x2 : x1 is a leaf of book mass of pages x2.
 x1 papri  x2 : x1 is a leaf of document mass of pages x2.
 x1 papri  x2 : x1 is a leaf of bound mass of pages x2.
-x1 parbi  x3 x2 : x1 is a ratio of x2 with respect to x3 , .
-x1 parbi  x3 x2 : x1 is a rate of x2 with respect to x3 , .
+x1 parbi  x3 x2 : x1 is a ratio of x2 with respect to x3 ,.
+x1 parbi  x3 x2 : x1 is a rate of x2 with respect to x3 ,.
 x1 pastu  x2 : x1 is a robe of material x2.
 x1 pastu  x2 : x1 is a tunic of material x2.
 x1 pastu  x2 : x1 is a gown of material x2.
@@ -3738,8 +3738,8 @@ x1 patxu  x3 x2 : x1 is a tub a deep container for contents x2, of properties x3
 x1 patxu  x3 x2 : x1 is a sink, a deep container for contents x2, of material x3.
 x1 patxu  x3 x2 : x1 is a sink, a deep container for contents x2, of properties x3.
 x1 pelji  x2 : x1 is paper from source x2.
-x1 pelxu  : x1 is yellow .
-x1 pelxu  : x1 is golden .
+x1 pelxu  : x1 is yellow.
+x1 pelxu  : x1 is golden.
 x1 pemci  x4 x3 x2 : x1 is a poem about plot x2 by author x3 for intended audience x4.
 x1 pemci  x4 x3 x2 : x1 is a poem about theme x2 by author x3 for intended audience x4.
 x1 pemci  x4 x3 x2 : x1 is a poem about subject x2 by author x3 for intended audience x4.
@@ -3749,7 +3749,7 @@ x1 pemci  x4 x3 x2 : x1 is a verse about theme x2 by author x3 for intended audi
 x1 pemci  x4 x3 x2 : x1 is a verse about subject x2 by author x3 for intended audience x4.
 x1 pemci  x4 x3 x2 : x1 is a verse about pattern x2 by author x3 for intended audience x4.
 x1 penbi  x3 x2 : x1 is a pen using ink x2 applied by process x3.
-x1 pencu  x4 x3 x2 : x1 touches x2 with x3 at x4 .
+x1 pencu  x4 x3 x2 : x1 touches x2 with x3 at x4.
 x1 pendo  x2 : x1 is as a friend of x2
 x1 pendo  x2 : x1 is as a friend to x2
 x1 pendo  x2 : x1 acts as a friend of x2
@@ -3786,11 +3786,11 @@ x1 pesxu  x2 : x1 is dough of composition x2.
 x1 pesxu  x2 : x1 is mash of composition x2.
 x1 pesxu  x2 : x1 is mud of composition x2.
 x1 pesxu  x2 : x1 is slurry of composition x2.
-x1 petso  x3 x2 : x1 is $10^{15}$ of x2 in dimension x3 .
-x1 petso  x3 x2 : x1 is $10^{15}$ of x2 in aspect x3 .
+x1 petso  x3 x2 : x1 is $10^{15}$ of x2 in dimension x3.
+x1 petso  x3 x2 : x1 is $10^{15}$ of x2 in aspect x3.
 x1 pezli  x2 : x1 is a leaf of plant x2
-x1 picti  x3 x2 : x1 is a trillionth of x2 in dimension x3 .
-x1 picti  x3 x2 : x1 is a trillionth of x2 in aspect x3 .
+x1 picti  x3 x2 : x1 is a trillionth of x2 in dimension x3.
+x1 picti  x3 x2 : x1 is a trillionth of x2 in aspect x3.
 x1 pijne  x3 x2 : x1 is a pin for fastening to x2, of material x3.
 x1 pijne  x3 x2 : x1 is a pin for fastening to x2, of properties x3.
 x1 pijne  x3 x2 : x1 is a pin for fastening piercing x2, of material x3.
@@ -3977,16 +3977,16 @@ x1 pluja  x3 x2 : x1 is involved in aspect x2 by standard x3.
 x1 pluja  x3 x2 : x1 is involved in property x2 by standard x3.
 x1 pluka  x3 x2 : x1 seems pleasant to x2 under conditions x3.
 x1 pluka  x3 x2 : x1 seems pleasant pleases x2 under conditions x3.
-x1 pluta  : $x 1$ is a route to $x 2$ from $x 3$ via by points including $x 4$ .
-x1 pluta  : $x 1$ is a route to $x 2$ from $x 3$ defined by points including $x 4$ .
-x1 pluta  : $x 1$ is a path to $x 2$ from $x 3$ via by points including $x 4$ .
-x1 pluta  : $x 1$ is a path to $x 2$ from $x 3$ defined by points including $x 4$ .
-x1 pluta  : $x 1$ is a way to $x 2$ from $x 3$ via by points including $x 4$ .
-x1 pluta  : $x 1$ is a way to $x 2$ from $x 3$ defined by points including $x 4$ .
-x1 pluta  : $x 1$ is a course to $x 2$ from $x 3$ via by points including $x 4$ .
-x1 pluta  : $x 1$ is a course to $x 2$ from $x 3$ defined by points including $x 4$ .
-x1 pluta  : $x 1$ is a track to $x 2$ from $x 3$ via by points including $x 4$ .
-x1 pluta  : $x 1$ is a track to $x 2$ from $x 3$ defined by points including $x 4$ .
+x1 pluta  : $x 1$ is a route to $x 2$ from $x 3$ via by points including $x 4$.
+x1 pluta  : $x 1$ is a route to $x 2$ from $x 3$ defined by points including $x 4$.
+x1 pluta  : $x 1$ is a path to $x 2$ from $x 3$ via by points including $x 4$.
+x1 pluta  : $x 1$ is a path to $x 2$ from $x 3$ defined by points including $x 4$.
+x1 pluta  : $x 1$ is a way to $x 2$ from $x 3$ via by points including $x 4$.
+x1 pluta  : $x 1$ is a way to $x 2$ from $x 3$ defined by points including $x 4$.
+x1 pluta  : $x 1$ is a course to $x 2$ from $x 3$ via by points including $x 4$.
+x1 pluta  : $x 1$ is a course to $x 2$ from $x 3$ defined by points including $x 4$.
+x1 pluta  : $x 1$ is a track to $x 2$ from $x 3$ via by points including $x 4$.
+x1 pluta  : $x 1$ is a track to $x 2$ from $x 3$ defined by points including $x 4$.
 x1 polje  x3 x2 : x1 folds x2 at locus crease x3.
 x1 polje  x3 x2 : x1 folds x2 at locus bend x3.
 x1 polje  x3 x2 : x1 folds x2 at loci crease x3.
@@ -4042,20 +4042,20 @@ x1 prali  x3 x2 : x1 is a advantage to x2 accruing from activity x3.
 x1 prali  x3 x2 : x1 is a advantage to x2 accruing from process x3.
 x1 prali  x3 x2 : x1 is a advantage to x2 resulting from activity x3.
 x1 prali  x3 x2 : x1 is a advantage to x2 resulting from process x3.
-x1 prami  x2 : x1 loves strong affectionate devotion towards x2 .
-x1 prami  x2 : x1 feels strong affectionate devotion towards x2 .
-x1 prane  x2 : x1 is perfect in property x2 .
-x1 prane  x2 : x1 is perfect in aspect x2 .
-x1 prane  x2 : x1 is ideal in property x2 .
-x1 prane  x2 : x1 is ideal in aspect x2 .
-x1 prane  x2 : x1 is archetypical in property x2 .
-x1 prane  x2 : x1 is archetypical in aspect x2 .
-x1 prane  x2 : x1 is faultless in property x2 .
-x1 prane  x2 : x1 is faultless in aspect x2 .
-x1 prane  x2 : x1 is flawless in property x2 .
-x1 prane  x2 : x1 is flawless in aspect x2 .
-x1 prane  x2 : x1 is un-improvable in property x2 .
-x1 prane  x2 : x1 is un-improvable in aspect x2 .
+x1 prami  x2 : x1 loves strong affectionate devotion towards x2.
+x1 prami  x2 : x1 feels strong affectionate devotion towards x2.
+x1 prane  x2 : x1 is perfect in property x2.
+x1 prane  x2 : x1 is perfect in aspect x2.
+x1 prane  x2 : x1 is ideal in property x2.
+x1 prane  x2 : x1 is ideal in aspect x2.
+x1 prane  x2 : x1 is archetypical in property x2.
+x1 prane  x2 : x1 is archetypical in aspect x2.
+x1 prane  x2 : x1 is faultless in property x2.
+x1 prane  x2 : x1 is faultless in aspect x2.
+x1 prane  x2 : x1 is flawless in property x2.
+x1 prane  x2 : x1 is flawless in aspect x2.
+x1 prane  x2 : x1 is un-improvable in property x2.
+x1 prane  x2 : x1 is un-improvable in aspect x2.
 x1 preja  x3 x2 : x1 spreads over x2 from initial state x3.
 x1 preja  x3 x2 : x1 spreads into x2 from initial state x3.
 x1 preja  x3 x2 : x1 expands over x2 from initial state x3.
@@ -4261,15 +4261,15 @@ x1 rakso  x2 : x1 reflects Iraqi culture in aspect x2.
 x1 rakso  x2 : x1 reflects Iraqi nationality in aspect x2.
 x1 raktu  x3 x2 : x1 troubles x2 causing problem x3.
 x1 raktu  x3 x2 : x1 disturbs x2 causing problem x3.
-x1 ralci  x2 : x1 is delicate in property x2 .
-x1 ralci  x2 : x1 is fragile in property x2 .
-x1 ralci  x2 : x1 is subtle in property x2 .
-x1 ralci  x2 : x1 is refined in property x2 .
-x1 ralju  x3 x2 : x1 is principal most significant among x2 in property x3 .
-x1 ralju  x3 x2 : x1 is chief most significant among x2 in property x3 .
-x1 ralju  x3 x2 : x1 is leader most significant among x2 in property x3 .
-x1 ralju  x3 x2 : x1 is main most significant among x2 in property x3 .
-x1 ralju  x3 x2 : x1 is , most significant among x2 in property x3 .
+x1 ralci  x2 : x1 is delicate in property x2.
+x1 ralci  x2 : x1 is fragile in property x2.
+x1 ralci  x2 : x1 is subtle in property x2.
+x1 ralci  x2 : x1 is refined in property x2.
+x1 ralju  x3 x2 : x1 is principal most significant among x2 in property x3.
+x1 ralju  x3 x2 : x1 is chief most significant among x2 in property x3.
+x1 ralju  x3 x2 : x1 is leader most significant among x2 in property x3.
+x1 ralju  x3 x2 : x1 is main most significant among x2 in property x3.
+x1 ralju  x3 x2 : x1 is , most significant among x2 in property x3.
 x1 ralte  x2 : x1 retains x2 in its possession.
 x1 ralte  x2 : x1 keeps x2 in its possession.
 x1 ralte  x2 : x1 holds x2 in its possession.
@@ -4325,18 +4325,18 @@ x1 remna  : x1 is a human being
 x1 remna  : x1 is a human man
 x1 remna  : x1 is a human being
 x1 remna  : x1 is a human man
-x1 renro  x3 x2 : x1 throws x2 to direction x3 .
-x1 renro  x3 x2 : x1 throws x2 at direction x3 .
-x1 renro  x3 x2 : x1 throws x2 in direction x3 .
-x1 renro  x3 x2 : x1 launches x2 to direction x3 .
-x1 renro  x3 x2 : x1 launches x2 at direction x3 .
-x1 renro  x3 x2 : x1 launches x2 in direction x3 .
-x1 renro  x3 x2 : x1 casts x2 to direction x3 .
-x1 renro  x3 x2 : x1 casts x2 at direction x3 .
-x1 renro  x3 x2 : x1 casts x2 in direction x3 .
-x1 renro  x3 x2 : x1 hurls x2 to direction x3 .
-x1 renro  x3 x2 : x1 hurls x2 at direction x3 .
-x1 renro  x3 x2 : x1 hurls x2 in direction x3 .
+x1 renro  x3 x2 : x1 throws x2 to direction x3.
+x1 renro  x3 x2 : x1 throws x2 at direction x3.
+x1 renro  x3 x2 : x1 throws x2 in direction x3.
+x1 renro  x3 x2 : x1 launches x2 to direction x3.
+x1 renro  x3 x2 : x1 launches x2 at direction x3.
+x1 renro  x3 x2 : x1 launches x2 in direction x3.
+x1 renro  x3 x2 : x1 casts x2 to direction x3.
+x1 renro  x3 x2 : x1 casts x2 at direction x3.
+x1 renro  x3 x2 : x1 casts x2 in direction x3.
+x1 renro  x3 x2 : x1 hurls x2 to direction x3.
+x1 renro  x3 x2 : x1 hurls x2 at direction x3.
+x1 renro  x3 x2 : x1 hurls x2 in direction x3.
 x1 renvi  x3 x2 : x1 survives through x2 for interval x3.
 x1 renvi  x3 x2 : x1 survives through x2 for duration x3.
 x1 renvi  x3 x2 : x1 endures through x2 for interval x3.
@@ -4371,10 +4371,10 @@ x1 rilti  x2 : x1 is a rhythm of music form x2.
 x1 rilti  x2 : x1 is a rhythm of expressive form x2.
 x1 rilti  x2 : x1 is a beat of music form x2.
 x1 rilti  x2 : x1 is a beat of expressive form x2.
-x1 rimni  x4 x3 x2 : x1 rhymes with x2 in language x3, matching sound correspondence x4 .
-x1 rimni  x4 x3 x2 : x1 rhymes with x2 in phonetics x3, matching sound correspondence x4 .
-x1 rimni  x4 x3 x2 : x1 alliterates with x2 in language x3, matching sound correspondence x4 .
-x1 rimni  x4 x3 x2 : x1 alliterates with x2 in phonetics x3, matching sound correspondence x4 .
+x1 rimni  x4 x3 x2 : x1 rhymes with x2 in language x3, matching sound correspondence x4.
+x1 rimni  x4 x3 x2 : x1 rhymes with x2 in phonetics x3, matching sound correspondence x4.
+x1 rimni  x4 x3 x2 : x1 alliterates with x2 in language x3, matching sound correspondence x4.
+x1 rimni  x4 x3 x2 : x1 alliterates with x2 in phonetics x3, matching sound correspondence x4.
 x1 rinci  x4 x3 x2 : x1 liquid drains from source x2 through drain x3 by force x4.
 x1 rinci  x4 x3 x2 : x1 liquid drains from source x2 through strainer x3 by force x4.
 x1 rinci  x4 x3 x2 : x1 liquid strains from source x2 through drain x3 by force x4.
@@ -4387,21 +4387,21 @@ x1 rinci  x4 x3 x2 : x1 fluid strains from source x2 through drain x3 by force x
 x1 rinci  x4 x3 x2 : x1 fluid strains from source x2 through strainer x3 by force x4.
 x1 rinci  x4 x3 x2 : x1 fluid flushes from source x2 through drain x3 by force x4.
 x1 rinci  x4 x3 x2 : x1 fluid flushes from source x2 through strainer x3 by force x4.
-x1 rinju  x3 x2 : x1 is restrained  by restraint x2 against x3 .
-x1 rinju  x3 x2 : x1 is restrained constrained by restraint x2 against x3 .
-x1 rinju  x3 x2 : x1 is restrained kept by restraint x2 against x3 .
-x1 rinju  x3 x2 : x1 is held  by restraint x2 against x3 .
-x1 rinju  x3 x2 : x1 is held constrained by restraint x2 against x3 .
-x1 rinju  x3 x2 : x1 is held kept by restraint x2 against x3 .
+x1 rinju  x3 x2 : x1 is restrained  by restraint x2 against x3.
+x1 rinju  x3 x2 : x1 is restrained constrained by restraint x2 against x3.
+x1 rinju  x3 x2 : x1 is restrained kept by restraint x2 against x3.
+x1 rinju  x3 x2 : x1 is held  by restraint x2 against x3.
+x1 rinju  x3 x2 : x1 is held constrained by restraint x2 against x3.
+x1 rinju  x3 x2 : x1 is held kept by restraint x2 against x3.
 x1 rinka  x3 x2 : x1 effects causes effect x2 under conditions x3.
 x1 rinka  x3 x2 : x1 physically causes effect x2 under conditions x3.
-x1 rinsa  x3 x2 : x1 greets to arrival of x2 in manner x3 .
-x1 rinsa  x3 x2 : x1 hails to arrival of x2 in manner x3 .
-x1 rinsa  x3 x2 : x1 responds to arrival of x2 in manner x3 .
-x1 rirci  x3 x2 : x1 is rare in property x2 among members of x3 .
-x1 rirci  x3 x2 : x1 is unusual in property x2 among members of x3 .
-x1 rirci  x3 x2 : x1 is uncommon in property x2 among members of x3 .
-x1 rirci  x3 x2 : x1 is atypical in property x2 among members of x3 .
+x1 rinsa  x3 x2 : x1 greets to arrival of x2 in manner x3.
+x1 rinsa  x3 x2 : x1 hails to arrival of x2 in manner x3.
+x1 rinsa  x3 x2 : x1 responds to arrival of x2 in manner x3.
+x1 rirci  x3 x2 : x1 is rare in property x2 among members of x3.
+x1 rirci  x3 x2 : x1 is unusual in property x2 among members of x3.
+x1 rirci  x3 x2 : x1 is uncommon in property x2 among members of x3.
+x1 rirci  x3 x2 : x1 is atypical in property x2 among members of x3.
 x1 rirni  x2 : x1 is a parent of x2
 x1 rirni  x2 : x1 is a parent raises x2
 x1 rirni  x2 : x1 is a parent rears x2
@@ -4435,16 +4435,16 @@ x1 ritli  x4 x3 x2 : x1 is a ritual for goal x2, by custom community x3, with fo
 x1 ritli  x4 x3 x2 : x1 is a ritual for goal x2, by custom community x3, with rules x4.
 x1 ritli  x4 x3 x2 : x1 is a ritual for goal x2, by in community x3, with form x4.
 x1 ritli  x4 x3 x2 : x1 is a ritual for goal x2, by in community x3, with rules x4.
-x1 rivbi  x3 x2 : x1 avoids x2 through action x3 .
-x1 rivbi  x3 x2 : x1 avoids x2 through state x3 .
-x1 rivbi  x3 x2 : x1 evades x2 through action x3 .
-x1 rivbi  x3 x2 : x1 evades x2 through state x3 .
-x1 rivbi  x3 x2 : x1 shuns x2 through action x3 .
-x1 rivbi  x3 x2 : x1 shuns x2 through state x3 .
-x1 rivbi  x3 x2 : x1 escapes x2 through action x3 .
-x1 rivbi  x3 x2 : x1 escapes x2 through state x3 .
-x1 rivbi  x3 x2 : x1 skirts x2 through action x3 .
-x1 rivbi  x3 x2 : x1 skirts x2 through state x3 .
+x1 rivbi  x3 x2 : x1 avoids x2 through action x3.
+x1 rivbi  x3 x2 : x1 avoids x2 through state x3.
+x1 rivbi  x3 x2 : x1 evades x2 through action x3.
+x1 rivbi  x3 x2 : x1 evades x2 through state x3.
+x1 rivbi  x3 x2 : x1 shuns x2 through action x3.
+x1 rivbi  x3 x2 : x1 shuns x2 through state x3.
+x1 rivbi  x3 x2 : x1 escapes x2 through action x3.
+x1 rivbi  x3 x2 : x1 escapes x2 through state x3.
+x1 rivbi  x3 x2 : x1 skirts x2 through action x3.
+x1 rivbi  x3 x2 : x1 skirts x2 through state x3.
 x1 rokci  x3 x2 : x1 is a quantity of rock of type x2 from location x3.
 x1 rokci  x3 x2 : x1 is a quantity of rock of composition x2 from location x3.
 x1 rokci  x3 x2 : x1 is a quantity of stone of type x2 from location x3.
@@ -4457,8 +4457,8 @@ x1 rokci  x3 x2 : x1 contains rock of type x2 from location x3.
 x1 rokci  x3 x2 : x1 contains rock of composition x2 from location x3.
 x1 rokci  x3 x2 : x1 contains stone of type x2 from location x3.
 x1 rokci  x3 x2 : x1 contains stone of composition x2 from location x3.
-x1 romge  x2 : x1 is a highly reflective non-tarnishing metallic surface, of metal x2 .
-x1 romge  x2 : x1 is a highly polished non-tarnishing metallic surface, of metal x2 .
+x1 romge  x2 : x1 is a highly reflective non-tarnishing metallic surface, of metal x2.
+x1 romge  x2 : x1 is a highly polished non-tarnishing metallic surface, of metal x2.
 x1 ropno  x2 : x1 reflects European culture languages in aspect x2.
 x1 ropno  x2 : x1 reflects European nationality languages in aspect x2.
 x1 ropno  x2 : x1 reflects European geography languages in aspect x2.
@@ -4492,12 +4492,12 @@ x1 rusko  x2 : x1 reflects Russian culture in aspect x2.
 x1 rusko  x2 : x1 reflects Russian nationality in aspect x2.
 x1 rusko  x2 : x1 reflects Russian language in aspect x2.
 x1 rutni  : x1 is an artifact
-x1 sabji  x3 x2 : x1 provides x2 to x3 .
-x1 sabji  x3 x2 : x1 supplies x2 to x3 .
-x1 sabji  x3 x2 : x1 furnishes x2 to x3 .
+x1 sabji  x3 x2 : x1 provides x2 to x3.
+x1 sabji  x3 x2 : x1 supplies x2 to x3.
+x1 sabji  x3 x2 : x1 furnishes x2 to x3.
 x1 sabnu  x2 : x1 is a cabin of vehicle x2.
 x1 sacki  x2 : x1 is a match made of x2.
-x1 saclu  x3 x2 : x1 is the equivalent of fractional x2 in base x3 .
+x1 saclu  x3 x2 : x1 is the equivalent of fractional x2 in base x3.
 x1 sadjo  x2 : x1 reflects Saudi Arabian culture in aspect x2.
 x1 sadjo  x2 : x1 reflects Saudi Arabian nationality in aspect x2.
 x1 sakci  x3 x2 : x1 sucks suction low pressure of fluid x2 relative to high pressure x3.
@@ -4541,9 +4541,9 @@ x1 samcu  x2 : x1 is a quantity of tapioca of species x2.
 x1 samcu  x2 : x1 is a quantity of tapioca of strain x2.
 x1 samcu  x2 : x1 is a quantity of yam of species x2.
 x1 samcu  x2 : x1 is a quantity of yam of strain x2.
-x1 sampu  x2 : x1 is simple in property x2 .
-x1 sampu  x2 : x1 is unmixed in property x2 .
-x1 sampu  x2 : x1 is uncomplicated in property x2 .
+x1 sampu  x2 : x1 is simple in property x2.
+x1 sampu  x2 : x1 is unmixed in property x2.
+x1 sampu  x2 : x1 is uncomplicated in property x2.
 x1 sance  x2 : x1 is sound produced by x2.
 x1 sance  x2 : x1 is sound emitted by x2.
 x1 sanga  x3 x2 : x1 sings x2 to audience x3.
@@ -4583,18 +4583,18 @@ x1 sarji  x4 x3 x2 : x1 holds is underpinning of x2 against opposition x3 by mea
 x1 sarlu  x3 x2 : x1 is a spiral with limits x2, of dimensionality x3.
 x1 sarlu  x3 x2 : x1 is a helix with limits x2, of dimensionality x3.
 x1 sarlu  x3 x2 : x1 is a whorl with limits x2, of dimensionality x3.
-x1 sarxe  x3 x2 : x1 is harmonious agreement with x2 in property x3 .
-x1 sarxe  x3 x2 : x1 is harmonious concord with x2 in property x3 .
-x1 sarxe  x3 x2 : x1 is concordant agreement with x2 in property x3 .
-x1 sarxe  x3 x2 : x1 is concordant concord with x2 in property x3 .
-x1 sarxe  x3 x2 : x1 is in agreement with x2 in property x3 .
-x1 sarxe  x3 x2 : x1 is in concord with x2 in property x3 .
+x1 sarxe  x3 x2 : x1 is harmonious agreement with x2 in property x3.
+x1 sarxe  x3 x2 : x1 is harmonious concord with x2 in property x3.
+x1 sarxe  x3 x2 : x1 is concordant agreement with x2 in property x3.
+x1 sarxe  x3 x2 : x1 is concordant concord with x2 in property x3.
+x1 sarxe  x3 x2 : x1 is in agreement with x2 in property x3.
+x1 sarxe  x3 x2 : x1 is in concord with x2 in property x3.
 x1 saske  x3 x2 : x1 is science of subject matter x2 based on methodology x3.
 x1 saske  x3 x2 : x1 is science about subject matter x2 based on methodology x3.
-x1 satci  x3 x2 : x1 is exact to precision x2 in property x3 .
-x1 satci  x3 x2 : x1 is exact to precision x2 in quantity x3 .
-x1 satci  x3 x2 : x1 is precise to precision x2 in property x3 .
-x1 satci  x3 x2 : x1 is precise to precision x2 in quantity x3 .
+x1 satci  x3 x2 : x1 is exact to precision x2 in property x3.
+x1 satci  x3 x2 : x1 is exact to precision x2 in quantity x3.
+x1 satci  x3 x2 : x1 is precise to precision x2 in property x3.
+x1 satci  x3 x2 : x1 is precise to precision x2 in quantity x3.
 x1 satre  x3 x2 : x1 strokes x2 with x3.
 x1 satre  x3 x2 : x1 rubs x2 with x3.
 x1 satre  x3 x2 : x1 pets x2 with x3.
@@ -4626,7 +4626,7 @@ x1 selfu  x3 x2 : x1 serves x2 with service x3
 x1 semto  x2 : x1 reflects Semitic language in aspect x2.
 x1 semto  x2 : x1 reflects Semitic culture in aspect x2.
 x1 semto  x2 : x1 reflects Semitic nationality in aspect x2.
-x1 senci  : x1 sneezes .
+x1 senci  : x1 sneezes.
 x1 senpi  x2 : x1 doubts dubious that x2 is true.
 x1 senpi  x2 : x1 doubts doubtful that x2 is true.
 x1 senpi  x2 : x1 doubts skeptical that x2 is true.
@@ -4678,9 +4678,9 @@ x1 sevzi  x2 : x1 is a id of x2.
 x1 sevzi  x2 : x1 is a identity-image of x2.
 x1 sfani  x2 : x1 is a fly of species x2.
 x1 sfani  x2 : x1 is a fly of breed x2.
-x1 sfasa  x4 x3 x2 : x1 punishes x2 for infraction x3 with punishment x4 .
-x1 sfofa  : x1 is a sofa .
-x1 sfofa  : x1 is a couch .
+x1 sfasa  x4 x3 x2 : x1 punishes x2 for infraction x3 with punishment x4.
+x1 sfofa  : x1 is a sofa.
+x1 sfofa  : x1 is a couch.
 x1 sfubu  x3 x2 : x1 dives to x2 from x3.
 x1 sfubu  x3 x2 : x1 swoops to x2 from x3.
 x1 siclu  x2 : x1 whistles whistling sound x2.
@@ -4750,16 +4750,16 @@ x1 simsa  x3 x2 : x1 is similar to x2 in property x3
 x1 simsa  x3 x2 : x1 is similar to x2 in quantity x3
 x1 simsa  x3 x2 : x1 is parallel to x2 in property x3
 x1 simsa  x3 x2 : x1 is parallel to x2 in quantity x3
-x1 simxu  x2 : x1 has members who mutually x2 .
-x1 simxu  x2 : x1 has members who reciprocally x2 .
+x1 simxu  x2 : x1 has members who mutually x2.
+x1 simxu  x2 : x1 has members who reciprocally x2.
 x1 since  x2 : x1 is a snake of species x2.
 x1 since  x2 : x1 is a snake of breed x2.
 x1 since  x2 : x1 is a serpent of species x2.
 x1 since  x2 : x1 is a serpent of breed x2.
-x1 sinma  x2 : x1 esteems regards x2 .
-x1 sinma  x2 : x1 respects regards x2 .
-x1 sinma  x2 : x1 venerates regards x2 .
-x1 sinma  x2 : x1 highly regards x2 .
+x1 sinma  x2 : x1 esteems regards x2.
+x1 sinma  x2 : x1 respects regards x2.
+x1 sinma  x2 : x1 venerates regards x2.
+x1 sinma  x2 : x1 highly regards x2.
 x1 sinso  x2 : x1 is the trigonometric sine of angle x2.
 x1 sinso  x2 : x1 is the trigonometric sine of arcsine x2.
 x1 sinxa  x3 x2 : x1 is a sign representing x2 to observer x3.
@@ -4783,33 +4783,33 @@ x1 sirji  x3 x2 : x1 is line segment between x2 and x3
 x1 sirji  x3 x2 : x1 is line interval between x2 and x3
 x1 sirxo  x2 : x1 reflects Syrian culture in aspect x2.
 x1 sirxo  x2 : x1 reflects Syrian nationality in aspect x2.
-x1 sisku  x3 x2 : x1 seeks for property x2 among set x3 .
-x1 sisku  x3 x2 : x1 searches for property x2 among set x3 .
-x1 sisku  x3 x2 : x1 looks for property x2 among set x3 .
-x1 sisti  x2 : x1 ceases activity x2 .
-x1 sisti  x2 : x1 ceases process x2 .
-x1 sisti  x2 : x1 ceases state x2 .
-x1 sisti  x2 : x1 stops activity x2 .
-x1 sisti  x2 : x1 stops process x2 .
-x1 sisti  x2 : x1 stops state x2 .
-x1 sisti  x2 : x1 halts activity x2 .
-x1 sisti  x2 : x1 halts process x2 .
-x1 sisti  x2 : x1 halts state x2 .
-x1 sisti  x2 : x1 ends activity x2 .
-x1 sisti  x2 : x1 ends process x2 .
-x1 sisti  x2 : x1 ends state x2 .
-x1 sitna  x3 x2 : x1 cites to reference to source x2 for information x3 .
-x1 sitna  x3 x2 : x1 cites to reference to source x2 for statement x3 .
-x1 sitna  x3 x2 : x1 cites makes reference to source x2 for information x3 .
-x1 sitna  x3 x2 : x1 cites makes reference to source x2 for statement x3 .
-x1 sitna  x3 x2 : x1 quotes to reference to source x2 for information x3 .
-x1 sitna  x3 x2 : x1 quotes to reference to source x2 for statement x3 .
-x1 sitna  x3 x2 : x1 quotes makes reference to source x2 for information x3 .
-x1 sitna  x3 x2 : x1 quotes makes reference to source x2 for statement x3 .
-x1 sitna  x3 x2 : x1 refers to reference to source x2 for information x3 .
-x1 sitna  x3 x2 : x1 refers to reference to source x2 for statement x3 .
-x1 sitna  x3 x2 : x1 refers makes reference to source x2 for information x3 .
-x1 sitna  x3 x2 : x1 refers makes reference to source x2 for statement x3 .
+x1 sisku  x3 x2 : x1 seeks for property x2 among set x3.
+x1 sisku  x3 x2 : x1 searches for property x2 among set x3.
+x1 sisku  x3 x2 : x1 looks for property x2 among set x3.
+x1 sisti  x2 : x1 ceases activity x2.
+x1 sisti  x2 : x1 ceases process x2.
+x1 sisti  x2 : x1 ceases state x2.
+x1 sisti  x2 : x1 stops activity x2.
+x1 sisti  x2 : x1 stops process x2.
+x1 sisti  x2 : x1 stops state x2.
+x1 sisti  x2 : x1 halts activity x2.
+x1 sisti  x2 : x1 halts process x2.
+x1 sisti  x2 : x1 halts state x2.
+x1 sisti  x2 : x1 ends activity x2.
+x1 sisti  x2 : x1 ends process x2.
+x1 sisti  x2 : x1 ends state x2.
+x1 sitna  x3 x2 : x1 cites to reference to source x2 for information x3.
+x1 sitna  x3 x2 : x1 cites to reference to source x2 for statement x3.
+x1 sitna  x3 x2 : x1 cites makes reference to source x2 for information x3.
+x1 sitna  x3 x2 : x1 cites makes reference to source x2 for statement x3.
+x1 sitna  x3 x2 : x1 quotes to reference to source x2 for information x3.
+x1 sitna  x3 x2 : x1 quotes to reference to source x2 for statement x3.
+x1 sitna  x3 x2 : x1 quotes makes reference to source x2 for information x3.
+x1 sitna  x3 x2 : x1 quotes makes reference to source x2 for statement x3.
+x1 sitna  x3 x2 : x1 refers to reference to source x2 for information x3.
+x1 sitna  x3 x2 : x1 refers to reference to source x2 for statement x3.
+x1 sitna  x3 x2 : x1 refers makes reference to source x2 for information x3.
+x1 sitna  x3 x2 : x1 refers makes reference to source x2 for statement x3.
 x1 sivni  x2 : x1 is private to x2
 x1 sivni  x2 : x1 is personal to x2
 x1 sivni  x2 : x1 is privy to x2
@@ -4829,8 +4829,8 @@ x1 skari  x4 x3 x2 : x1 appears to be of color x2 as perceived by x3 under condi
 x1 skari  x4 x3 x2 : x1 appears to be of color x2 as seen by x3 under conditions x4.
 x1 skari  x4 x3 x2 : x1 appears to be of hue x2 as perceived by x3 under conditions x4.
 x1 skari  x4 x3 x2 : x1 appears to be of hue x2 as seen by x3 under conditions x4.
-x1 skicu  x4 x3 x2 : x1 tells about x2 to audience x3 with description x4 .
-x1 skicu  x4 x3 x2 : x1 tells describes x2 to audience x3 with description x4 .
+x1 skicu  x4 x3 x2 : x1 tells about x2 to audience x3 with description x4.
+x1 skicu  x4 x3 x2 : x1 tells describes x2 to audience x3 with description x4.
 x1 skiji  x3 x2 : x1 is a ski for surface x2 supporting skier x3.
 x1 skiji  x3 x2 : x1 is a ski for surface x2 supporting skater x3.
 x1 skiji  x3 x2 : x1 is a ski for surface x2 supporting sled x3.
@@ -4893,10 +4893,10 @@ x1 slasi  x2 : x1 contains polymer of type unit x2.
 x1 slasi  x2 : x1 contains polymer of component unit x2.
 x1 sligu  x3 x2 : x1 is solid, of composition including x2, under conditions x3.
 x1 sligu  x3 x2 : x1 is solid, of material including x2, under conditions x3.
-x1 slilu  x3 x2 : x1 oscillates at rate x2 through set x3 .
-x1 slilu  x3 x2 : x1 oscillates at rate x2 through sequence-of-states x3 .
-x1 slilu  x3 x2 : x1 oscillates at frequency x2 through set x3 .
-x1 slilu  x3 x2 : x1 oscillates at frequency x2 through sequence-of-states x3 .
+x1 slilu  x3 x2 : x1 oscillates at rate x2 through set x3.
+x1 slilu  x3 x2 : x1 oscillates at rate x2 through sequence-of-states x3.
+x1 slilu  x3 x2 : x1 oscillates at frequency x2 through set x3.
+x1 slilu  x3 x2 : x1 oscillates at frequency x2 through sequence-of-states x3.
 x1 sliri  : x1 is a quantity of sulfur
 x1 sliri  : x1 is a quantity of brimstone
 x1 sliri  : x1 contains sulfur
@@ -4968,15 +4968,15 @@ x1 snipa  x2 : x1 adheres to x2
 x1 snipa  x2 : x1 sticks to x2
 x1 snuji  x3 x2 : x1 is a sandwich of x2 sandwiched between x3.
 x1 snuji  x3 x2 : x1 is a layering of x2 sandwiched between x3.
-x1 snura  x2 : x1 is secure from threat x2 .
-x1 snura  x2 : x1 is safe from threat x2 .
+x1 snura  x2 : x1 is secure from threat x2.
+x1 snura  x2 : x1 is safe from threat x2.
 x1 snuti  x2 : x1 is an accident on the part of x2
 x1 snuti  x2 : x1 is an unintentional on the part of x2
 x1 sobde  x2 : x1 is a quantity of soya of species x2.
 x1 sobde  x2 : x1 is a quantity of soya of strain x2.
-x1 sodna  x2 : x1 is a quantity of alkali metal of type x2 .
-x1 sodna  x2 : x1 contains alkali metal of type x2 .
-x1 sodna  x2 : x1 is made of alkali metal of type x2 .
+x1 sodna  x2 : x1 is a quantity of alkali metal of type x2.
+x1 sodna  x2 : x1 contains alkali metal of type x2.
+x1 sodna  x2 : x1 is made of alkali metal of type x2.
 x1 sodva  x2 : x1 is made of a carbonated beverage of flavor x2.
 x1 sodva  x2 : x1 is made of a carbonated beverage of brand x2.
 x1 sodva  x2 : x1 is made of a carbonated soda of flavor x2.
@@ -5050,11 +5050,11 @@ x1 spati  x2 : x1 is a greenery of species x2.
 x1 spati  x2 : x1 is a greenery of strain x2.
 x1 spati  x2 : x1 is a greenery of cultivar x2.
 x1 speni  x2 : x1 is married to x2
-x1 spisa  x2 : x1 is a piece of x2 .
-x1 spisa  x2 : x1 is a portion of x2 .
-x1 spisa  x2 : x1 is a lump of x2 .
-x1 spisa  x2 : x1 is a chunk of x2 .
-x1 spisa  x2 : x1 is a particle of x2 .
+x1 spisa  x2 : x1 is a piece of x2.
+x1 spisa  x2 : x1 is a portion of x2.
+x1 spisa  x2 : x1 is a lump of x2.
+x1 spisa  x2 : x1 is a chunk of x2.
+x1 spisa  x2 : x1 is a particle of x2.
 x1 spita  x3 x2 : x1 is a hospital treating patient x2 for condition x3.
 x1 spita  x3 x2 : x1 is a hospital treating patient x2 for injuries x3.
 x1 spita  x3 x2 : x1 is a hospital treating patient x2 for disease x3.
@@ -5263,11 +5263,11 @@ x1 stati  x2 : x1 has a aptitude skill for doing x2.
 x1 stati  x2 : x1 has a aptitude skill for being x2.
 x1 stati  x2 : x1 has a innate skill for doing x2.
 x1 stati  x2 : x1 has a innate skill for being x2.
-x1 steba  x2 : x1 feels frustration about x2 .
-x1 steci  x3 x2 : x1 is specific defining property of x2 among x3 .
-x1 steci  x3 x2 : x1 is particular defining property of x2 among x3 .
-x1 steci  x3 x2 : x1 is specialized defining property of x2 among x3 .
-x1 steci  x3 x2 : x1 is a defining property of x2 among x3 .
+x1 steba  x2 : x1 feels frustration about x2.
+x1 steci  x3 x2 : x1 is specific defining property of x2 among x3.
+x1 steci  x3 x2 : x1 is particular defining property of x2 among x3.
+x1 steci  x3 x2 : x1 is specialized defining property of x2 among x3.
+x1 steci  x3 x2 : x1 is a defining property of x2 among x3.
 x1 stedu  x2 : x1 is a head of x2
 x1 stedu  x2 : x1 is the head of x2
 x1 stela  x3 x2 : x1 is a lock of sealing x2 with locking mechanism x3.
@@ -5307,21 +5307,21 @@ x1 stodi  x3 x2 : x1 is unchanging in property x2 in response to stimulus x3.
 x1 stodi  x3 x2 : x1 is unchanging in property x2 in response to conditions x3.
 x1 stuna  x3 x2 : x1 is to the east side of x2 according to frame of reference x3.
 x1 stuna  x3 x2 : x1 is to the eastern side of x2 according to frame of reference x3.
-x1 stura  x2 : x1 is a structure of x2 .
-x1 stura  x2 : x1 is a arrangement of x2 .
-x1 stura  x2 : x1 is a organization of x2 .
-x1 stuzi  x2 : x1 is an inherent site of x2 .
-x1 stuzi  x2 : x1 is an inherent place of x2 .
-x1 stuzi  x2 : x1 is an inherent position of x2 .
-x1 stuzi  x2 : x1 is an inherent situation of x2 .
-x1 stuzi  x2 : x1 is an inherent spot of x2 .
-x1 stuzi  x2 : x1 is an inherent location of x2 .
-x1 stuzi  x2 : x1 is an inalienable site of x2 .
-x1 stuzi  x2 : x1 is an inalienable place of x2 .
-x1 stuzi  x2 : x1 is an inalienable position of x2 .
-x1 stuzi  x2 : x1 is an inalienable situation of x2 .
-x1 stuzi  x2 : x1 is an inalienable spot of x2 .
-x1 stuzi  x2 : x1 is an inalienable location of x2 .
+x1 stura  x2 : x1 is a structure of x2.
+x1 stura  x2 : x1 is a arrangement of x2.
+x1 stura  x2 : x1 is a organization of x2.
+x1 stuzi  x2 : x1 is an inherent site of x2.
+x1 stuzi  x2 : x1 is an inherent place of x2.
+x1 stuzi  x2 : x1 is an inherent position of x2.
+x1 stuzi  x2 : x1 is an inherent situation of x2.
+x1 stuzi  x2 : x1 is an inherent spot of x2.
+x1 stuzi  x2 : x1 is an inherent location of x2.
+x1 stuzi  x2 : x1 is an inalienable site of x2.
+x1 stuzi  x2 : x1 is an inalienable place of x2.
+x1 stuzi  x2 : x1 is an inalienable position of x2.
+x1 stuzi  x2 : x1 is an inalienable situation of x2.
+x1 stuzi  x2 : x1 is an inalienable spot of x2.
+x1 stuzi  x2 : x1 is an inalienable location of x2.
 x1 sucta  x3 x2 : x1 is abstracted from x2 by rules x3.
 x1 sucta  x3 x2 : x1 is generalized from x2 by rules x3.
 x1 sucta  x3 x2 : x1 is idealized from x2 by rules x3.
@@ -5348,10 +5348,10 @@ x1 sumji  x3 x2 : x1 is a mathematical total of x2 plus by x3.
 x1 sumji  x3 x2 : x1 is a mathematical total of x2 increased by x3.
 x1 sumne  x2 : x1 smells x2
 x1 sumne  x2 : x1 scents x2
-x1 sumti  x3 x2 : x1 is a argument of predicate x2 filling place x3 .
-x1 sumti  x3 x2 : x1 is a argument of function x2 filling place x3 .
-x1 sumti  x3 x2 : x1 is the argument of predicate x2 filling place x3 .
-x1 sumti  x3 x2 : x1 is the argument of function x2 filling place x3 .
+x1 sumti  x3 x2 : x1 is a argument of predicate x2 filling place x3.
+x1 sumti  x3 x2 : x1 is a argument of function x2 filling place x3.
+x1 sumti  x3 x2 : x1 is the argument of predicate x2 filling place x3.
+x1 sumti  x3 x2 : x1 is the argument of function x2 filling place x3.
 x1 sunga  x2 : x1 is a quantity of garlic of species x2.
 x1 sunga  x2 : x1 is a quantity of garlic of strain x2.
 x1 sunla  x2 : x1 is a quantity of from of wool from animal x2.
@@ -5366,33 +5366,33 @@ x1 sunla  x2 : x1 made from of wool from source x2.
 x1 sunla  x2 : x1 made consists of wool from animal x2.
 x1 sunla  x2 : x1 made consists of wool from species x2.
 x1 sunla  x2 : x1 made consists of wool from source x2.
-x1 surla  x2 : x1 relaxes at ease in doing x2 .
-x1 surla  x2 : x1 relaxes at ease in being x2 .
-x1 surla  x2 : x1 relaxes at ease by doing x2 .
-x1 surla  x2 : x1 relaxes at ease by being x2 .
-x1 surla  x2 : x1 rests at ease in doing x2 .
-x1 surla  x2 : x1 rests at ease in being x2 .
-x1 surla  x2 : x1 rests at ease by doing x2 .
-x1 surla  x2 : x1 rests at ease by being x2 .
-x1 surla  x2 : x1 is at ease in doing x2 .
-x1 surla  x2 : x1 is at ease in being x2 .
-x1 surla  x2 : x1 is at ease by doing x2 .
-x1 surla  x2 : x1 is at ease by being x2 .
-x1 sutra  x2 : x1 is fast at doing about x2 .
-x1 sutra  x2 : x1 is fast at being about x2 .
-x1 sutra  x2 : x1 is fast at bringing about x2 .
-x1 sutra  x2 : x1 is swift at doing about x2 .
-x1 sutra  x2 : x1 is swift at being about x2 .
-x1 sutra  x2 : x1 is swift at bringing about x2 .
-x1 sutra  x2 : x1 is quick at doing about x2 .
-x1 sutra  x2 : x1 is quick at being about x2 .
-x1 sutra  x2 : x1 is quick at bringing about x2 .
-x1 sutra  x2 : x1 is hastes at doing about x2 .
-x1 sutra  x2 : x1 is hastes at being about x2 .
-x1 sutra  x2 : x1 is hastes at bringing about x2 .
-x1 sutra  x2 : x1 is rapid at doing about x2 .
-x1 sutra  x2 : x1 is rapid at being about x2 .
-x1 sutra  x2 : x1 is rapid at bringing about x2 .
+x1 surla  x2 : x1 relaxes at ease in doing x2.
+x1 surla  x2 : x1 relaxes at ease in being x2.
+x1 surla  x2 : x1 relaxes at ease by doing x2.
+x1 surla  x2 : x1 relaxes at ease by being x2.
+x1 surla  x2 : x1 rests at ease in doing x2.
+x1 surla  x2 : x1 rests at ease in being x2.
+x1 surla  x2 : x1 rests at ease by doing x2.
+x1 surla  x2 : x1 rests at ease by being x2.
+x1 surla  x2 : x1 is at ease in doing x2.
+x1 surla  x2 : x1 is at ease in being x2.
+x1 surla  x2 : x1 is at ease by doing x2.
+x1 surla  x2 : x1 is at ease by being x2.
+x1 sutra  x2 : x1 is fast at doing about x2.
+x1 sutra  x2 : x1 is fast at being about x2.
+x1 sutra  x2 : x1 is fast at bringing about x2.
+x1 sutra  x2 : x1 is swift at doing about x2.
+x1 sutra  x2 : x1 is swift at being about x2.
+x1 sutra  x2 : x1 is swift at bringing about x2.
+x1 sutra  x2 : x1 is quick at doing about x2.
+x1 sutra  x2 : x1 is quick at being about x2.
+x1 sutra  x2 : x1 is quick at bringing about x2.
+x1 sutra  x2 : x1 is hastes at doing about x2.
+x1 sutra  x2 : x1 is hastes at being about x2.
+x1 sutra  x2 : x1 is hastes at bringing about x2.
+x1 sutra  x2 : x1 is rapid at doing about x2.
+x1 sutra  x2 : x1 is rapid at being about x2.
+x1 sutra  x2 : x1 is rapid at bringing about x2.
 x1 tabno  : x1 is a quantity of carbon
 x1 tabno  : x1 is a quantity of graphite
 x1 tabno  : x1 is a quantity of charcoal
@@ -5402,10 +5402,10 @@ x1 tabno  : x1 contains charcoal
 x1 tabno  : x1 is made of carbon
 x1 tabno  : x1 is made of graphite
 x1 tabno  : x1 is made of charcoal
-x1 tabra  : x1 is a horn .
-x1 tabra  : x1 is a trumpet .
-x1 tabra  : x1 is a trombone .
-x1 tabra  : x1 is a bugle .
+x1 tabra  : x1 is a horn.
+x1 tabra  : x1 is a trumpet.
+x1 tabra  : x1 is a trombone.
+x1 tabra  : x1 is a bugle.
 x1 tadji  x3 x2 : x1 is a method for doing x2 under conditions x3.
 x1 tadji  x3 x2 : x1 is a technique for doing x2 under conditions x3.
 x1 tadji  x3 x2 : x1 is a approach for doing x2 under conditions x3.
@@ -5462,12 +5462,12 @@ x1 tarla  x2 : x1 contains tar from source x2.
 x1 tarla  x2 : x1 contains asphalt from source x2.
 x1 tarla  x2 : x1 is made of tar from source x2.
 x1 tarla  x2 : x1 is made of asphalt from source x2.
-x1 tarmi  x2 : x1 is the conceptual shape of object x2 .
-x1 tarmi  x2 : x1 is the conceptual shape of abstraction x2 .
-x1 tarmi  x2 : x1 is the conceptual shape of manifestation x2 .
-x1 tarmi  x2 : x1 is the conceptual form of object x2 .
-x1 tarmi  x2 : x1 is the conceptual form of abstraction x2 .
-x1 tarmi  x2 : x1 is the conceptual form of manifestation x2 .
+x1 tarmi  x2 : x1 is the conceptual shape of object x2.
+x1 tarmi  x2 : x1 is the conceptual shape of abstraction x2.
+x1 tarmi  x2 : x1 is the conceptual shape of manifestation x2.
+x1 tarmi  x2 : x1 is the conceptual form of object x2.
+x1 tarmi  x2 : x1 is the conceptual form of abstraction x2.
+x1 tarmi  x2 : x1 is the conceptual form of manifestation x2.
 x1 tarti  x3 x2 : x1 behaves oneself as x2 under conditions x3.
 x1 tarti  x3 x2 : x1 behaves oneself in-manner x2 under conditions x3.
 x1 tarti  x3 x2 : x1 conducts oneself as x2 under conditions x3.
@@ -5536,12 +5536,12 @@ x1 tcati  x2 : x1 contains tea brewed from leaves x2.
 x1 tcati  x2 : x1 is a quantity of tea brewed from leaves x2.
 x1 tcena  x4 x3 x2 : x1 stretches to range x2 in dimension x3 from relaxed range x4.
 x1 tcena  x4 x3 x2 : x1 extends to range x2 in dimension x3 from relaxed range x4.
-x1 tcica  x3 x2 : x1 misleads x2 into x3 .
-x1 tcica  x3 x2 : x1 deceives x2 into x3 .
-x1 tcica  x3 x2 : x1 dupes x2 into x3 .
-x1 tcica  x3 x2 : x1 fools x2 into x3 .
-x1 tcica  x3 x2 : x1 cheats x2 into x3 .
-x1 tcica  x3 x2 : x1 tricks x2 into x3 .
+x1 tcica  x3 x2 : x1 misleads x2 into x3.
+x1 tcica  x3 x2 : x1 deceives x2 into x3.
+x1 tcica  x3 x2 : x1 dupes x2 into x3.
+x1 tcica  x3 x2 : x1 fools x2 into x3.
+x1 tcica  x3 x2 : x1 cheats x2 into x3.
+x1 tcica  x3 x2 : x1 tricks x2 into x3.
 x1 tcidu  x3 x2 : x1 reads x2 from surface material x3
 x1 tcidu  x3 x2 : x1 reads x2 from document material x3
 x1 tcidu  x3 x2 : x1 reads x2 from reading material x3
@@ -5584,8 +5584,8 @@ x1 tengu  x2 : x1 is a texture of x2.
 x1 terdi  x2 : x1 is the Earth home planet of race x2
 x1 terdi  x2 : x1 is the the home planet of race x2
 x1 terpa  x2 : x1 fears x2
-x1 terto  x3 x2 : x1 is a trillion of x2 in dimension x3 .
-x1 terto  x3 x2 : x1 is a trillion of x2 in aspect x3 .
+x1 terto  x3 x2 : x1 is a trillion of x2 in dimension x3.
+x1 terto  x3 x2 : x1 is a trillion of x2 in aspect x3.
 x1 tigni  x3 x2 : x1 performs x2 for audience x3.
 x1 tigni  x3 x2 : x1 performs x2 before audience x3.
 x1 tikpa  x4 x3 x2 : x1 kicks x2 in locus x3, using x1's foot x4.
@@ -5672,14 +5672,14 @@ x1 trene  x4 x3 x2 : x1 is a train of units x2 for system x3, propelled by x4.
 x1 trene  x4 x3 x2 : x1 is a train of units x2 for railroad x3, propelled by x4.
 x1 tricu  x2 : x1 is a tree of species x2.
 x1 tricu  x2 : x1 is a tree of cultivar x2.
-x1 trina  x3 x2 : x1 attracts to x2 with property x3 .
-x1 trina  x3 x2 : x1 attracts to x2 with quality x3 .
-x1 trina  x3 x2 : x1 attracts lures x2 with property x3 .
-x1 trina  x3 x2 : x1 attracts lures x2 with quality x3 .
-x1 trina  x3 x2 : x1 appeals to x2 with property x3 .
-x1 trina  x3 x2 : x1 appeals to x2 with quality x3 .
-x1 trina  x3 x2 : x1 appeals lures x2 with property x3 .
-x1 trina  x3 x2 : x1 appeals lures x2 with quality x3 .
+x1 trina  x3 x2 : x1 attracts to x2 with property x3.
+x1 trina  x3 x2 : x1 attracts to x2 with quality x3.
+x1 trina  x3 x2 : x1 attracts lures x2 with property x3.
+x1 trina  x3 x2 : x1 attracts lures x2 with quality x3.
+x1 trina  x3 x2 : x1 appeals to x2 with property x3.
+x1 trina  x3 x2 : x1 appeals to x2 with quality x3.
+x1 trina  x3 x2 : x1 appeals lures x2 with property x3.
+x1 trina  x3 x2 : x1 appeals lures x2 with quality x3.
 x1 trixe  x3 x2 : x1 is posterior the rear of x2 which faces x3.
 x1 trixe  x3 x2 : x1 is posterior the rear of x2 which in-frame-of-reference x3.
 x1 trixe  x3 x2 : x1 is behind the rear of x2 which faces x3.
@@ -5706,12 +5706,12 @@ x1 tsali  x3 x2 : x1 is powerful in property x2 by standard x3.
 x1 tsali  x3 x2 : x1 is powerful in quality x2 by standard x3.
 x1 tsani  x2 : x1 is an expanse of sky heavens at place x2
 x1 tsani  x2 : x1 is an expanse of the heavens at place x2
-x1 tsapi  x2 : x1 is a seasoning causing flavor x2 .
-x1 tsapi  x2 : x1 is a seasoning causing effect x2 .
-x1 tsapi  x2 : x1 is a condiment causing flavor x2 .
-x1 tsapi  x2 : x1 is a condiment causing effect x2 .
-x1 tsapi  x2 : x1 is a spice causing flavor x2 .
-x1 tsapi  x2 : x1 is a spice causing effect x2 .
+x1 tsapi  x2 : x1 is a seasoning causing flavor x2.
+x1 tsapi  x2 : x1 is a seasoning causing effect x2.
+x1 tsapi  x2 : x1 is a condiment causing flavor x2.
+x1 tsapi  x2 : x1 is a condiment causing effect x2.
+x1 tsapi  x2 : x1 is a spice causing flavor x2.
+x1 tsapi  x2 : x1 is a spice causing effect x2.
 x1 tsiju  x3 x2 : x1 is seed of organism x2 for producing offspring x3.
 x1 tsiju  x3 x2 : x1 is spore of organism x2 for producing offspring x3.
 x1 tsiju  x3 x2 : x1 are seed of organism x2 for producing offspring x3.
@@ -5741,10 +5741,10 @@ x1 tunka  : x1 contains copper
 x1 tunka  : x1 is a quantity of copper
 x1 tunlo  : x1 gulps
 x1 tunlo  : x1 swallows.
-x1 tunta  x2 : x1 pokes x2 .
-x1 tunta  x2 : x1 jabs x2 .
-x1 tunta  x2 : x1 stabs x2 .
-x1 tunta  x2 : x1 prods x2 .
+x1 tunta  x2 : x1 pokes x2.
+x1 tunta  x2 : x1 jabs x2.
+x1 tunta  x2 : x1 stabs x2.
+x1 tunta  x2 : x1 prods x2.
 x1 tuple  x2 : x1 is a leg of x2
 x1 tuple  x2 : x1 is the leg of x2
 x1 turni  x2 : x1 governs ruler over people x2.
@@ -5814,10 +5814,10 @@ x1 tutra  x2 : x1 is space belonging to by x2.
 x1 tutra  x2 : x1 is space belonging controlled by x2.
 x1 vacri  x3 x2 : x1 is a quantity of air atmosphere of planet x2, of composition including x3.
 x1 vacri  x3 x2 : x1 is a quantity of normally-gaseous atmosphere of planet x2, of composition including x3.
-x1 vajni  x3 x2 : x1 is important to x2 in aspect reason x3 .
-x1 vajni  x3 x2 : x1 is important to x2 in for reason x3 .
-x1 vajni  x3 x2 : x1 is significant to x2 in aspect reason x3 .
-x1 vajni  x3 x2 : x1 is significant to x2 in for reason x3 .
+x1 vajni  x3 x2 : x1 is important to x2 in aspect reason x3.
+x1 vajni  x3 x2 : x1 is important to x2 in for reason x3.
+x1 vajni  x3 x2 : x1 is significant to x2 in aspect reason x3.
+x1 vajni  x3 x2 : x1 is significant to x2 in for reason x3.
 x1 valsi  x3 x2 : x1 is a word meaning x2 in language x3
 x1 valsi  x3 x2 : x1 is a word causing x2 in language x3
 x1 vamji  x4 x3 x2 : x1 is the equivalent value of x2 to x3 for use x4.
@@ -5841,16 +5841,16 @@ x1 vasru  x2 : x1 contains contents x2 within
 x1 vasru  x2 : x1 holds contents x2 within
 x1 vasru  x2 : x1 encloses contents x2 within
 x1 vasru  x2 : x1 includes contents x2 within
-x1 vasxu  x2 : x1 breathes x2 .
-x1 vasxu  x2 : x1 respires x2 .
+x1 vasxu  x2 : x1 breathes x2.
+x1 vasxu  x2 : x1 respires x2.
 x1 vecnu  x4 x3 x2 : x1 sells x2 to buyer x3 for amount x4.
 x1 vecnu  x4 x3 x2 : x1 sells x2 to buyer x3 for cost x4.
 x1 vecnu  x4 x3 x2 : x1 sells x2 to buyer x3 for expense x4.
 x1 vecnu  x4 x3 x2 : x1 vends x2 to buyer x3 for amount x4.
 x1 vecnu  x4 x3 x2 : x1 vends x2 to buyer x3 for cost x4.
 x1 vecnu  x4 x3 x2 : x1 vends x2 to buyer x3 for expense x4.
-x1 venfu  x4 x3 x2 : x1 takes revenge on against x2 for wrong x3 with vengeance x4 .
-x1 venfu  x4 x3 x2 : x1 takes revenge retaliates against x2 for wrong x3 with vengeance x4 .
+x1 venfu  x4 x3 x2 : x1 takes revenge on against x2 for wrong x3 with vengeance x4.
+x1 venfu  x4 x3 x2 : x1 takes revenge retaliates against x2 for wrong x3 with vengeance x4.
 x1 vensa  x3 x2 : x1 is spring of year x2 at location x3
 x1 vensa  x3 x2 : x1 is springtime of year x2 at location x3
 x1 verba  x3 x2 : x1 is a child of age x2, immature by standard x3.
@@ -5924,8 +5924,8 @@ x1 vitke  x3 x2 : x1 is a guest of x2 at place x3
 x1 vitke  x3 x2 : x1 is a guest of x2 at event x3
 x1 vitke  x3 x2 : x1 is a visitor of x2 at place x3
 x1 vitke  x3 x2 : x1 is a visitor of x2 at event x3
-x1 vitno  x3 x2 : x1 is permanent in property x2 by standard x3 .
-x1 vitno  x3 x2 : x1 is lasting in property x2 by standard x3 .
+x1 vitno  x3 x2 : x1 is permanent in property x2 by standard x3.
+x1 vitno  x3 x2 : x1 is lasting in property x2 by standard x3.
 x1 vlagi  x2 : x1 is a vulva of x2.
 x1 vlagi  x2 : x1 is the vulva of x2.
 x1 vlile  : x1 is an event of violence.
@@ -5953,9 +5953,9 @@ x1 vreta  x2 : x1 lies on x2
 x1 vreta  x2 : x1 rests on x2
 x1 vreta  x2 : x1 reclines on x2
 x1 vreta  x2 : x1 reposes on x2
-x1 vrici  x2 : x1 is miscellaneous in property x2 .
-x1 vrici  x2 : x1 is various in property x2 .
-x1 vrici  x2 : x1 is assorted in property x2 .
+x1 vrici  x2 : x1 is miscellaneous in property x2.
+x1 vrici  x2 : x1 is various in property x2.
+x1 vrici  x2 : x1 is assorted in property x2.
 x1 vrude  x2 : x1 is virtuous by standard x2.
 x1 vrude  x2 : x1 is saintly by standard x2.
 x1 vrusi  x2 : x1 is a taste of by x2
@@ -6047,20 +6047,20 @@ x1 xajmi  x3 x2 : x1 is funny to x2 in property x3
 x1 xajmi  x3 x2 : x1 is funny to x2 in aspect x3
 x1 xajmi  x3 x2 : x1 is comical to x2 in property x3
 x1 xajmi  x3 x2 : x1 is comical to x2 in aspect x3
-x1 xaksu  x2 : x1 uses up x2 .
-x1 xaksu  x2 : x1 uses depletes x2 .
-x1 xaksu  x2 : x1 uses consumes x2 .
-x1 xalbo  x2 : x1 uses levity non-serious about x2 .
-x1 xalbo  x2 : x1 uses levity frivolous about x2 .
-x1 xalbo  x2 : x1 uses is non-serious about x2 .
-x1 xalbo  x2 : x1 uses is frivolous about x2 .
+x1 xaksu  x2 : x1 uses up x2.
+x1 xaksu  x2 : x1 uses depletes x2.
+x1 xaksu  x2 : x1 uses consumes x2.
+x1 xalbo  x2 : x1 uses levity non-serious about x2.
+x1 xalbo  x2 : x1 uses levity frivolous about x2.
+x1 xalbo  x2 : x1 uses is non-serious about x2.
+x1 xalbo  x2 : x1 uses is frivolous about x2.
 x1 xalka  x3 x2 : x1 is a quantity of alcohol of type x2 from source x3.
 x1 xalka  x3 x2 : x1 is a quantity of alcohol of type x2 from process x3.
 x1 xalka  x3 x2 : x1 contains alcohol of type x2 from source x3.
 x1 xalka  x3 x2 : x1 contains alcohol of type x2 from process x3.
 x1 xalka  x3 x2 : x1 is made of alcohol of type x2 from source x3.
 x1 xalka  x3 x2 : x1 is made of alcohol of type x2 from process x3.
-x1 xalni  x2 : x1 is panicked by crisis x2 .
+x1 xalni  x2 : x1 is panicked by crisis x2.
 x1 xamgu  x3 x2 : x1 is good for x2 by standard x3.
 x1 xamgu  x3 x2 : x1 is beneficial for x2 by standard x3.
 x1 xamgu  x3 x2 : x1 is nice for x2 by standard x3.
@@ -6086,10 +6086,10 @@ x1 xarju  x2 : x1 is a hog of species x2.
 x1 xarju  x2 : x1 is a hog of breed x2.
 x1 xarju  x2 : x1 is a swine of species x2.
 x1 xarju  x2 : x1 is a swine of breed x2.
-x1 xarnu  x3 x2 : x1 is stubborn opposing x2 about x3 .
-x1 xarnu  x3 x2 : x1 is stubborn resisting x2 about x3 .
-x1 xarnu  x3 x2 : x1 is willfully opposing x2 about x3 .
-x1 xarnu  x3 x2 : x1 is willfully resisting x2 about x3 .
+x1 xarnu  x3 x2 : x1 is stubborn opposing x2 about x3.
+x1 xarnu  x3 x2 : x1 is stubborn resisting x2 about x3.
+x1 xarnu  x3 x2 : x1 is willfully opposing x2 about x3.
+x1 xarnu  x3 x2 : x1 is willfully resisting x2 about x3.
 x1 xasli  x2 : x1 is a donkey of species x2.
 x1 xasli  x2 : x1 is a donkey of breed x2.
 x1 xasli  x2 : x1 is a jackass of species x2.
@@ -6106,8 +6106,8 @@ x1 xatra  x4 x3 x2 : x1 is a letter to intended audience x2 from author x3 with 
 x1 xatra  x4 x3 x2 : x1 is a letter to intended audience x2 from originator x3 with content x4.
 x1 xatra  x4 x3 x2 : x1 is a missive to intended audience x2 from author x3 with content x4.
 x1 xatra  x4 x3 x2 : x1 is a missive to intended audience x2 from originator x3 with content x4.
-x1 xatsi  x3 x2 : x1 is $10^{-18}$ of x2 in dimension x3 .
-x1 xatsi  x3 x2 : x1 is $10^{-18}$ of x2 in aspect x3 .
+x1 xatsi  x3 x2 : x1 is $10^{-18}$ of x2 in dimension x3.
+x1 xatsi  x3 x2 : x1 is $10^{-18}$ of x2 in aspect x3.
 x1 xazdo  x2 : x1 reflects Asiatic culture in aspect x2.
 x1 xazdo  x2 : x1 reflects Asiatic nationality in aspect x2.
 x1 xazdo  x2 : x1 reflects Asiatic geography in aspect x2.
@@ -6122,12 +6122,12 @@ x1 xebro  x2 : x1 reflects Jewish language in aspect x2.
 x1 xebro  x2 : x1 reflects Israeli culture in aspect x2.
 x1 xebro  x2 : x1 reflects Israeli nationality in aspect x2.
 x1 xebro  x2 : x1 reflects Israeli language in aspect x2.
-x1 xecto  x3 x2 : x1 is a hundred of x2 in dimension x3 .
-x1 xecto  x3 x2 : x1 is a hundred of x2 in aspect x3 .
+x1 xecto  x3 x2 : x1 is a hundred of x2 in dimension x3.
+x1 xecto  x3 x2 : x1 is a hundred of x2 in aspect x3.
 x1 xedja  x2 : x1 is a jaw of x2.
 x1 xedja  x2 : x1 is the jaw of x2.
-x1 xekri  : x1 is black dark-colored .
-x1 xekri  : x1 is extremely dark-colored .
+x1 xekri  : x1 is black dark-colored.
+x1 xekri  : x1 is extremely dark-colored.
 x1 xelso  x2 : x1 reflects Greek culture in aspect x2.
 x1 xelso  x2 : x1 reflects Greek nationality in aspect x2.
 x1 xelso  x2 : x1 reflects Greek language in aspect x2.
@@ -6138,8 +6138,8 @@ x1 xendo  x3 x2 : x1 is kind to x2 in actions x3.
 x1 xendo  x3 x2 : x1 is kind to x2 in behavior x3.
 x1 xenru  x2 : x1 regrets x2
 x1 xenru  x2 : x1 rues x2
-x1 xexso  x3 x2 : x1 is $10^{18}$ of x2 in dimension x3 .
-x1 xexso  x3 x2 : x1 is $10^{18}$ of x2 in aspect x3 .
+x1 xexso  x3 x2 : x1 is $10^{18}$ of x2 in dimension x3.
+x1 xexso  x3 x2 : x1 is $10^{18}$ of x2 in aspect x3.
 x1 xindo  x2 : x1 reflects Hindi language in aspect x2.
 x1 xindo  x2 : x1 reflects Hindi culture in aspect x2.
 x1 xindo  x2 : x1 reflects Hindi religion in aspect x2.
@@ -6179,9 +6179,9 @@ x1 xotli  x3 x2 : x1 is a inn at location x2 operated by x3.
 x1 xotli  x3 x2 : x1 is a hostel at location x2 operated by x3.
 x1 xrabo  x2 : x1 reflects Arabic-speaking culture in aspect x2.
 x1 xrabo  x2 : x1 reflects Arabic-speaking nationality in aspect x2.
-x1 xrani  x4 x3 x2 : x1 injures victim x2 in property x3 resulting in injury x4 .
-x1 xrani  x4 x3 x2 : x1 harms victim x2 in property x3 resulting in injury x4 .
-x1 xrani  x4 x3 x2 : x1 damages victim x2 in property x3 resulting in injury x4 .
+x1 xrani  x4 x3 x2 : x1 injures victim x2 in property x3 resulting in injury x4.
+x1 xrani  x4 x3 x2 : x1 harms victim x2 in property x3 resulting in injury x4.
+x1 xrani  x4 x3 x2 : x1 damages victim x2 in property x3 resulting in injury x4.
 x1 xriso  x2 : x1 pertains to the Christian religion in aspect x2.
 x1 xriso  x2 : x1 pertains to the Christian culture in aspect x2.
 x1 xriso  x2 : x1 pertains to the Christian nationality in aspect x2.
@@ -6210,15 +6210,15 @@ x1 xruti  x4 x3 x2 : x1 returns x2 to earlier state x3 from x4
 x1 xukmi  x3 x2 : x1 is an instance of substance x2 with purity x3.
 x1 xukmi  x3 x2 : x1 is an instance of chemical x2 with purity x3.
 x1 xukmi  x3 x2 : x1 is an instance of drug x2 with purity x3.
-x1 xunre  : x1 is red .
-x1 xunre  : x1 is crimson .
-x1 xunre  : x1 is ruddy .
+x1 xunre  : x1 is red.
+x1 xunre  : x1 is crimson.
+x1 xunre  : x1 is ruddy.
 x1 xurdo  x2 : x1 reflects Urdu language in aspect x2.
 x1 xurdo  x2 : x1 reflects Urdu culture in aspect x2.
 x1 xurdo  x2 : x1 reflects Urdu nationality in aspect x2.
-x1 xusra  x2 : x1 asserts x2 is true .
-x1 xusra  x2 : x1 claims x2 is true .
-x1 xusra  x2 : x1 declares x2 is true .
+x1 xusra  x2 : x1 asserts x2 is true.
+x1 xusra  x2 : x1 claims x2 is true.
+x1 xusra  x2 : x1 declares x2 is true.
 x1 xutla  : x1 is smooth in texture
 x1 xutla  : x1 is smooth in regularity.
 x1 xutla  : x1 is even in texture
@@ -6248,10 +6248,10 @@ x1 zajba  x2 : x1 is a gymnast performs gymnastics feat x2.
 x1 zalvi  x3 x2 : x1 grinds x2 into powder x3.
 x1 zalvi  x3 x2 : x1 pulverizes x2 into powder x3.
 x1 zalvi  x3 x2 : x1 crushes x2 into powder x3.
-x1 zanru  x2 : x1 approves of favor to plan x2 .
-x1 zanru  x2 : x1 approves of favor to action x2 .
-x1 zanru  x2 : x1 approves gives favor to plan x2 .
-x1 zanru  x2 : x1 approves gives favor to action x2 .
+x1 zanru  x2 : x1 approves of favor to plan x2.
+x1 zanru  x2 : x1 approves of favor to action x2.
+x1 zanru  x2 : x1 approves gives favor to plan x2.
+x1 zanru  x2 : x1 approves gives favor to action x2.
 x1 zarci  x3 x2 : x1 is a market selling x2, operated by participants x3.
 x1 zarci  x3 x2 : x1 is a market selling x2, operated with participants x3.
 x1 zarci  x3 x2 : x1 is a market trading x2, operated by participants x3.
@@ -6344,18 +6344,18 @@ x1 zenba  x3 x2 : x1 is incremented in property x2 by amount x3.
 x1 zenba  x3 x2 : x1 is incremented in quantity x2 by amount x3.
 x1 zenba  x3 x2 : x1 is augmented in property x2 by amount x3.
 x1 zenba  x3 x2 : x1 is augmented in quantity x2 by amount x3.
-x1 zepti  x3 x2 : x1 is $10^{-21}$ of x2 in dimension x3 .
-x1 zepti  x3 x2 : x1 is $10^{-21}$ of x2 in aspect x3 .
-x1 zetro  x3 x2 : x1 is $10^{21}$ of x2 in dimension x3 .
-x1 zetro  x3 x2 : x1 is $10^{21}$ of x2 in aspect x3 .
+x1 zepti  x3 x2 : x1 is $10^{-21}$ of x2 in dimension x3.
+x1 zepti  x3 x2 : x1 is $10^{-21}$ of x2 in aspect x3.
+x1 zetro  x3 x2 : x1 is $10^{21}$ of x2 in dimension x3.
+x1 zetro  x3 x2 : x1 is $10^{21}$ of x2 in aspect x3.
 x1 zgana  x4 x3 x2 : x1 observes x2 using senses x3 under conditions x4.
 x1 zgana  x4 x3 x2 : x1 observes x2 using means x3 under conditions x4.
 x1 zgana  x4 x3 x2 : x1 watches x2 using senses x3 under conditions x4.
 x1 zgana  x4 x3 x2 : x1 watches x2 using means x3 under conditions x4.
 x1 zgana  x4 x3 x2 : x1 beholds x2 using senses x3 under conditions x4.
 x1 zgana  x4 x3 x2 : x1 beholds x2 using means x3 under conditions x4.
-x1 zgike  x2 : x1 is music performed by x2 .
-x1 zgike  x2 : x1 is music produced by x2 .
+x1 zgike  x2 : x1 is music performed by x2.
+x1 zgike  x2 : x1 is music produced by x2.
 x1 zifre  x3 x2 : x1 is free liberty to do x2 under conditions x3.
 x1 zifre  x3 x2 : x1 is free liberty to be x2 under conditions x3.
 x1 zifre  x3 x2 : x1 is at liberty to do x2 under conditions x3.
@@ -6363,8 +6363,8 @@ x1 zifre  x3 x2 : x1 is at liberty to be x2 under conditions x3.
 x1 zinki  : x1 is a quantity of zinc
 x1 zinki  : x1 contains zinc
 x1 zinki  : x1 is made of zinc
-x1 zirpu  : x1 is purple .
-x1 zirpu  : x1 is violet .
+x1 zirpu  : x1 is purple.
+x1 zirpu  : x1 is violet.
 x1 zivle  x4 x3 x2 : x1 invests resources x2 in investment x3 expecting return x4 
 x1 zivle  x4 x3 x2 : x1 invests resources x2 in investment x3 expecting return x4 event).
 x1 zivle  x4 x3 x2 : x1 invests resources x2 in investment x3 expecting profit x4 
@@ -6390,16 +6390,16 @@ x1 zumri  x2 : x1 is a quantity of maize of species x2.
 x1 zumri  x2 : x1 is a quantity of maize of strain x2.
 x1 zumri  x2 : x1 is a quantity of corn of species x2.
 x1 zumri  x2 : x1 is a quantity of corn of strain x2.
-x1 zungi  x2 : x1 feels guilt about x2 .
-x1 zungi  x2 : x1 feels remorse about x2 .
+x1 zungi  x2 : x1 feels guilt about x2.
+x1 zungi  x2 : x1 feels remorse about x2.
 x1 zunle  x3 x2 : x1 is to the left side of x2 which faces x3.
 x1 zunle  x3 x2 : x1 is to the left side of x2 which in-frame-of-reference x3.
 x1 zunle  x3 x2 : x1 is to the left-hand side of x2 which faces x3.
 x1 zunle  x3 x2 : x1 is to the left-hand side of x2 which in-frame-of-reference x3.
-x1 zunti  x3 x2 : x1 interferes with x2 due to quality x3 .
-x1 zunti  x3 x2 : x1 interferes hinders x2 due to quality x3 .
-x1 zunti  x3 x2 : x1 interferes disrupts x2 due to quality x3 .
+x1 zunti  x3 x2 : x1 interferes with x2 due to quality x3.
+x1 zunti  x3 x2 : x1 interferes hinders x2 due to quality x3.
+x1 zunti  x3 x2 : x1 interferes disrupts x2 due to quality x3.
 x1 zutse  x2 : x1 sits on surface x2.
-x1 zvati  x2 : x1 is at at x2 .
-x1 zvati  x2 : x1 is attending at x2 .
-x1 zvati  x2 : x1 is present at x2 .
+x1 zvati  x2 : x1 is at x2.
+x1 zvati  x2 : x1 is attending at x2.
+x1 zvati  x2 : x1 is present at x2.
