@@ -2970,17 +2970,17 @@ x1 lunsa  x4 x3 x2 : x1 condenses on x2 at temperature x3, pressure x4
 x1 lunsa  x4 x3 x2 : x1 condenses into x2 at temperature x3, pressure x4
 x1 lunsa  x4 x3 x2 : x1 liquefies on x2 at temperature x3, pressure x4
 x1 lunsa  x4 x3 x2 : x1 liquefies into x2 at temperature x3, pressure x4
-x1 mabla  : $x 1$ is execrable in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is deplorable in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is wretched in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is shitty in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is awful in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is rotten in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is miserable in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is contemptible in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is crappy in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is inferior in property $x 2$ by standard $x 3$
-x1 mabla  : $x 1$ is low-quality in property $x 2$ by standard $x 3$
+x1 mabla  : x1 is execrable in property x2 by standard x3
+x1 mabla  : x1 is deplorable in property x2 by standard x3
+x1 mabla  : x1 is wretched in property x2 by standard x3
+x1 mabla  : x1 is shitty in property x2 by standard x3
+x1 mabla  : x1 is awful in property x2 by standard x3
+x1 mabla  : x1 is rotten in property x2 by standard x3
+x1 mabla  : x1 is miserable in property x2 by standard x3
+x1 mabla  : x1 is contemptible in property x2 by standard x3
+x1 mabla  : x1 is crappy in property x2 by standard x3
+x1 mabla  : x1 is inferior in property x2 by standard x3
+x1 mabla  : x1 is low-quality in property x2 by standard x3
 x1 mabru  x2 : x1 is a mammal of species x2.
 x1 mabru  x2 : x1 is a 'animal' of species x2.
 x1 mabru  x2 : x1 is a beast of species x2.
@@ -3517,9 +3517,9 @@ x1 natfe  x3 x2 : x1 negates x2 under rules x3.
 x1 natfe  x3 x2 : x1 negates x2 under logic x3.
 x1 natmi  x2 : x1 is a nation group of peoples x2
 x1 natmi  x2 : x1 is a ethnic group of peoples x2
-x1 navni  : $x 1$ is a quantity of noble gas of type $x 2$.
-x1 navni  : $x 1$ contains noble gas of type $x 2$.
-x1 navni  : $x 1$ is made of noble gas of type $x 2$.
+x1 navni  : x1 is a quantity of noble gas of type x2.
+x1 navni  : x1 contains noble gas of type x2.
+x1 navni  : x1 is made of noble gas of type x2.
 x1 naxle  x4 x3 x2 : x1 is a canal to x2 from x3 with route x4.
 x1 naxle  x4 x3 x2 : x1 is a channel to x2 from x3 with route x4.
 x1 nazbi  x3 x2 : x1 is the nose of x2 with nostril passage x3
@@ -3977,16 +3977,16 @@ x1 pluja  x3 x2 : x1 is involved in aspect x2 by standard x3.
 x1 pluja  x3 x2 : x1 is involved in property x2 by standard x3.
 x1 pluka  x3 x2 : x1 seems pleasant to x2 under conditions x3.
 x1 pluka  x3 x2 : x1 seems pleasant pleases x2 under conditions x3.
-x1 pluta  : $x 1$ is a route to $x 2$ from $x 3$ via by points including $x 4$.
-x1 pluta  : $x 1$ is a route to $x 2$ from $x 3$ defined by points including $x 4$.
-x1 pluta  : $x 1$ is a path to $x 2$ from $x 3$ via by points including $x 4$.
-x1 pluta  : $x 1$ is a path to $x 2$ from $x 3$ defined by points including $x 4$.
-x1 pluta  : $x 1$ is a way to $x 2$ from $x 3$ via by points including $x 4$.
-x1 pluta  : $x 1$ is a way to $x 2$ from $x 3$ defined by points including $x 4$.
-x1 pluta  : $x 1$ is a course to $x 2$ from $x 3$ via by points including $x 4$.
-x1 pluta  : $x 1$ is a course to $x 2$ from $x 3$ defined by points including $x 4$.
-x1 pluta  : $x 1$ is a track to $x 2$ from $x 3$ via by points including $x 4$.
-x1 pluta  : $x 1$ is a track to $x 2$ from $x 3$ defined by points including $x 4$.
+x1 pluta  : x1 is a route to x2 from x3 via by points including x4.
+x1 pluta  : x1 is a route to x2 from x3 defined by points including x4.
+x1 pluta  : x1 is a path to x2 from x3 via by points including x4.
+x1 pluta  : x1 is a path to x2 from x3 defined by points including x4.
+x1 pluta  : x1 is a way to x2 from x3 via by points including x4.
+x1 pluta  : x1 is a way to x2 from x3 defined by points including x4.
+x1 pluta  : x1 is a course to x2 from x3 via by points including x4.
+x1 pluta  : x1 is a course to x2 from x3 defined by points including x4.
+x1 pluta  : x1 is a track to x2 from x3 via by points including x4.
+x1 pluta  : x1 is a track to x2 from x3 defined by points including x4.
 x1 polje  x3 x2 : x1 folds x2 at locus crease x3.
 x1 polje  x3 x2 : x1 folds x2 at locus bend x3.
 x1 polje  x3 x2 : x1 folds x2 at loci crease x3.
@@ -6223,26 +6223,26 @@ x1 xutla  : x1 is smooth in texture
 x1 xutla  : x1 is smooth in regularity.
 x1 xutla  : x1 is even in texture
 x1 xutla  : x1 is even in regularity.
-x1 zabna  : $x 1$ is favorable in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is great in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is superb in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is fabulous in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is dandy in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is outstanding in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is swell in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is admirable in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is nice in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is commendable in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is delightful in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is desirable in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is enjoyable in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is laudable in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is likable in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is lovable in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is wonderful in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is praiseworthy in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is high-quality in property $x 2$ by standard $x 3$
-x1 zabna  : $x 1$ is cool in property $x 2$ by standard $x 3$
+x1 zabna  : x1 is favorable in property x2 by standard x3
+x1 zabna  : x1 is great in property x2 by standard x3
+x1 zabna  : x1 is superb in property x2 by standard x3
+x1 zabna  : x1 is fabulous in property x2 by standard x3
+x1 zabna  : x1 is dandy in property x2 by standard x3
+x1 zabna  : x1 is outstanding in property x2 by standard x3
+x1 zabna  : x1 is swell in property x2 by standard x3
+x1 zabna  : x1 is admirable in property x2 by standard x3
+x1 zabna  : x1 is nice in property x2 by standard x3
+x1 zabna  : x1 is commendable in property x2 by standard x3
+x1 zabna  : x1 is delightful in property x2 by standard x3
+x1 zabna  : x1 is desirable in property x2 by standard x3
+x1 zabna  : x1 is enjoyable in property x2 by standard x3
+x1 zabna  : x1 is laudable in property x2 by standard x3
+x1 zabna  : x1 is likable in property x2 by standard x3
+x1 zabna  : x1 is lovable in property x2 by standard x3
+x1 zabna  : x1 is wonderful in property x2 by standard x3
+x1 zabna  : x1 is praiseworthy in property x2 by standard x3
+x1 zabna  : x1 is high-quality in property x2 by standard x3
+x1 zabna  : x1 is cool in property x2 by standard x3
 x1 zajba  x2 : x1 is a gymnast at gymnastics feat x2.
 x1 zajba  x2 : x1 is a gymnast performs gymnastics feat x2.
 x1 zalvi  x3 x2 : x1 grinds x2 into powder x3.
